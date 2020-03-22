@@ -61,14 +61,14 @@ NUMBERS
 2:6: And his host, and those that were numbered thereof, were fifty and four thousand and four hundred.
 2:7: Then the tribe of Zebulun: and Eliab the son of Helon shall be captain of the children of Zebulun.
 2:8: And his host, and those that were numbered thereof, were fifty and seven thousand and four hundred.
-2:9: All that were numbered in the camp of Judah were an hundred thousand and fourscore thousand and six thousand and four hundred, throughout their armies.  These shall first set forth.
+2:9: All that were numbered in the camp of Judah were an hundred thousand and fourscore thousand and six thousand and four hundred, throughout their armies. These shall first set forth.
 2:10: On the south side shall be the standard of the camp of Reuben according to their armies: and the captain of the children of Reuben shall be Elizur the son of Shedeur.
 2:11: And his host, and those that were numbered thereof, were forty and six thousand and five hundred.
 2:12: And those which pitch by him shall be the tribe of Simeon: and the captain of the children of Simeon shall be Shelumiel the son of Zurishaddai.
 2:13: And his host, and those that were numbered of them, were fifty and nine thousand and three hundred.
 2:14: Then the tribe of Gad: and the captain of the sons of Gad shall be Eliasaph the son of Reuel.
 2:15: And his host, and those that were numbered of them, were forty and five thousand and six hundred and fifty.
-2:16: All that were numbered in the camp of Reuben were an hundred thousand and fifty and one thousand and four hundred and fifty, throughout their armies.  And they shall set forth in the second rank. 
+2:16: All that were numbered in the camp of Reuben were an hundred thousand and fifty and one thousand and four hundred and fifty, throughout their armies. And they shall set forth in the second rank. 
 2:17: Then the tabernacle of the congregation shall set forward with the camp of the Levites in the midst of the camp: as they encamp, so shall they set forward, every man in his place by their standards.
 2:18: On the west side shall be the standard of the camp of Ephraim according to their armies: and the captain of the sons of Ephraim shall be Elishama the son of Ammihud. 
 2:19: And his host, and those that were numbered of them, were forty thousand and five hundred. 
@@ -76,14 +76,14 @@ NUMBERS
 2:21: And his host, and those that were numbered of them, were thirty and two thousand and two hundred.
 2:22: Then the tribe of Benjamin: and the captain of the sons of Benjamin shall be Abidan the son of Gideoni.
 2:23: And his host, and those that were numbered of them, were thirty and five thousand and four hundred.
-2:24: All that were numbered of the camp of Ephraim were an hundred thousand and eight thousand and an hundred, throughout their armies.  And they shall go forward in the third rank.
+2:24: All that were numbered of the camp of Ephraim were an hundred thousand and eight thousand and an hundred, throughout their armies. And they shall go forward in the third rank.
 2:25: The standard of the camp of Dan shall be on the north side by their armies: and the captain of the children of Dan shall be Ahiezer the son of Ammishaddai.
 2:26: And his host, and those that were numbered of them, were threescore and two thousand and seven hundred.
 2:27: And those that encamp by him shall be the tribe of Asher: and the captain of the children of Asher shall be Pagiel the son of Ocran.
 2:28: And his host, and those that were numbered of them, were forty and one thousand and five hundred.
 2:29: Then the tribe of Naphtali: and the captain of the children of Naphtali shall be Ahira the son of Enan.
 2:30: And his host, and those that were numbered of them, were fifty and three thousand and four hundred.
-2:31: All they that were numbered in the camp of Dan were an hundred thousand and fifty and seven thousand and six hundred.  They shall go hindmost with their standards.
+2:31: All they that were numbered in the camp of Dan were an hundred thousand and fifty and seven thousand and six hundred. They shall go hindmost with their standards.
 2:32: These are those which were numbered of the children of Israel by the house of their fathers: all those that were numbered of the camps throughout their hosts were six hundred thousand and three thousand and five hundred and fifty.
 2:33: But the Levites were not numbered among the children of Israel; as the LORD commanded Moses.
 2:34: And the children of Israel did according to all that the LORD commanded Moses: so they pitched by their standards, and so they set forward, every one after their families, according to the house of their fathers. 
@@ -106,7 +106,7 @@ NUMBERS
 3:17: And these were the sons of Levi by their names; Gershon, and Kohath, and Merari.
 3:18: And these are the names of the sons of Gershon by their families; Libni, and Shimei.
 3:19: And the sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel.
-3:20: And the sons of Merari by their families; Mahli, and Mushi.  These are the families of the Levites according to the house of their fathers.
+3:20: And the sons of Merari by their families; Mahli, and Mushi. These are the families of the Levites according to the house of their fathers.
 3:21: Of Gershon was the family of the Libnites, and the family of the Shimites: these are the families of the Gershonites.
 3:22: Those that were numbered of them, according to the number of all the males, from a month old and upward, even those that were numbered of them were seven thousand and five hundred. 
 3:23: The families of the Gershonites shall pitch behind the tabernacle westward.
@@ -152,7 +152,7 @@ NUMBERS
 4:12: And they shall take all the instruments of ministry, wherewith they minister in the sanctuary, and put them in a cloth of blue, and cover them with a covering of badgers' skins, and shall put them on a bar:
 4:13: And they shall take away the ashes from the altar, and spread a purple cloth thereon:
 4:14: And they shall put upon it all the vessels thereof, wherewith they minister about it, even the censers, the fleshhooks, and the shovels, and the basons, all the vessels of the altar; and they shall spread upon it a covering of badgers' skins, and put to the staves of it.
-4:15: And when Aaron and his sons have made an end of covering the sanctuary, and all the vessels of the sanctuary, as the camp is to set forward; after that, the sons of Kohath shall come to bear it: but they shall not touch any holy thing, lest they die.  These things are the burden of the sons of Kohath in the tabernacle of the congregation.
+4:15: And when Aaron and his sons have made an end of covering the sanctuary, and all the vessels of the sanctuary, as the camp is to set forward; after that, the sons of Kohath shall come to bear it: but they shall not touch any holy thing, lest they die. These things are the burden of the sons of Kohath in the tabernacle of the congregation.
 4:16: And to the office of Eleazar the son of Aaron the priest pertaineth the oil for the light, and the sweet incense, and the daily meat offering, and the anointing oil, and the oversight of all the tabernacle, and of all that therein is, in the sanctuary, and in the vessels thereof. 
 4:17: And the LORD spake unto Moses and unto Aaron, saying,
 4:18: Cut ye not off the tribe of the families of the Kohathites from among the Levites: 
@@ -332,7 +332,7 @@ NUMBERS
 7:85: Each charger of silver weighing an hundred and thirty shekels, each bowl seventy: all the silver vessels weighed two thousand and four hundred shekels, after the shekel of the sanctuary:
 7:86: The golden spoons were twelve, full of incense, weighing ten shekels apiece, after the shekel of the sanctuary: all the gold of the spoons was an hundred and twenty shekels.
 7:87: All the oxen for the burnt offering were twelve bullocks, the rams twelve, the lambs of the first year twelve, with their meat offering: and the kids of the goats for sin offering twelve.
-7:88: And all the oxen for the sacrifice of the peace offerings were twenty and four bullocks, the rams sixty, the he goats sixty, the lambs of the first year sixty.  This was the dedication of the altar, after that it was anointed. 
+7:88: And all the oxen for the sacrifice of the peace offerings were twenty and four bullocks, the rams sixty, the he goats sixty, the lambs of the first year sixty. This was the dedication of the altar, after that it was anointed. 
 7:89: And when Moses was gone into the tabernacle of the congregation to speak with him, then he heard the voice of one speaking unto him from off the mercy seat that was upon the ark of testimony, from between the two cherubims: and he spake unto him.
 8:1: And the LORD spake unto Moses, saying, 
 8:2: Speak unto Aaron, and say unto him, When thou lightest the lamps, the seven lamps shall give light over against the candlestick.
@@ -359,7 +359,7 @@ NUMBERS
 8:23: And the LORD spake unto Moses, saying, 
 8:24: This is it that belongeth unto the Levites: from twenty and five years old and upward they shall go in to wait upon the service of the tabernacle of the congregation: 
 8:25: And from the age of fifty years they shall cease waiting upon the service thereof, and shall serve no more:
-8:26: But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service.  Thus shalt thou do unto the Levites touching their charge.
+8:26: But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt thou do unto the Levites touching their charge.
 9:1: And the LORD spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,
 9:2: Let the children of Israel also keep the passover at his appointed season.
 9:3: In the fourteenth day of this month, at even, ye shall keep it in his appointed season: according to all the rites of it, and according to all the ceremonies thereof, shall ye keep it.
@@ -429,25 +429,25 @@ NUMBERS
 11:8: And the people went about, and gathered it, and ground it in mills, or beat it in a mortar, and baked it in pans, and made cakes of it: and the taste of it was as the taste of fresh oil.
 11:9: And when the dew fell upon the camp in the night, the manna fell upon it. 
 11:10: Then Moses heard the people weep throughout their families, every man in the door of his tent: and the anger of the LORD was kindled greatly; Moses also was displeased. 
-11:11: And Moses said unto the LORD, Wherefore hast thou afflicted thy servant?  and wherefore have I not found favour in thy sight, that thou layest the burden of all this people upon me?
-11:12: Have I conceived all this people?  have I begotten them, that thou shouldest say unto me, Carry them in thy bosom, as a nursing father beareth the sucking child, unto the land which thou swarest unto their fathers?
-11:13: Whence should I have flesh to give unto all this people?  for they weep unto me, saying, Give us flesh, that we may eat.
+11:11: And Moses said unto the LORD, Wherefore hast thou afflicted thy servant? and wherefore have I not found favour in thy sight, that thou layest the burden of all this people upon me?
+11:12: Have I conceived all this people? have I begotten them, that thou shouldest say unto me, Carry them in thy bosom, as a nursing father beareth the sucking child, unto the land which thou swarest unto their fathers?
+11:13: Whence should I have flesh to give unto all this people? for they weep unto me, saying, Give us flesh, that we may eat.
 11:14: I am not able to bear all this people alone, because it is too heavy for me.
 11:15: And if thou deal thus with me, kill me, I pray thee, out of hand, if I have found favour in thy sight; and let me not see my wretchedness.
 11:16: And the LORD said unto Moses, Gather unto me seventy men of the elders of Israel, whom thou knowest to be the elders of the people, and officers over them; and bring them unto the tabernacle of the congregation, that they may stand there with thee.
 11:17: And I will come down and talk with thee there: and I will take of the spirit which is upon thee, and will put it upon them; and they shall bear the burden of the people with thee, that thou bear it not thyself alone.
-11:18: And say thou unto the people, Sanctify yourselves against to morrow, and ye shall eat flesh: for ye have wept in the ears of the LORD, saying, Who shall give us flesh to eat?  for it was well with us in Egypt: therefore the LORD will give you flesh, and ye shall eat.
+11:18: And say thou unto the people, Sanctify yourselves against to morrow, and ye shall eat flesh: for ye have wept in the ears of the LORD, saying, Who shall give us flesh to eat? for it was well with us in Egypt: therefore the LORD will give you flesh, and ye shall eat.
 11:19: Ye shall not eat one day, nor two days, nor five days, neither ten days, nor twenty days;
 11:20: But even a whole month, until it come out at your nostrils, and it be loathsome unto you: because that ye have despised the LORD which is among you, and have wept before him, saying, Why came we forth out of Egypt?
 11:21: And Moses said, The people, among whom I am, are six hundred thousand footmen; and thou hast said, I will give them flesh, that they may eat a whole month.
-11:22: Shall the flocks and the herds be slain for them, to suffice them?  or shall all the fish of the sea be gathered together for them, to suffice them?
-11:23: And the LORD said unto Moses, Is the LORD's hand waxed short?  thou shalt see now whether my word shall come to pass unto thee or not.
+11:22: Shall the flocks and the herds be slain for them, to suffice them? or shall all the fish of the sea be gathered together for them, to suffice them?
+11:23: And the LORD said unto Moses, Is the LORD's hand waxed short? thou shalt see now whether my word shall come to pass unto thee or not.
 11:24: And Moses went out, and told the people the words of the LORD, and gathered the seventy men of the elders of the people, and set them round about the tabernacle.
 11:25: And the LORD came down in a cloud, and spake unto him, and took of the spirit that was upon him, and gave it unto the seventy elders: and it came to pass, that, when the spirit rested upon them, they prophesied, and did not cease.
 11:26: But there remained two of the men in the camp, the name of the one was Eldad, and the name of the other Medad: and the spirit rested upon them; and they were of them that were written, but went not out unto the tabernacle: and they prophesied in the camp.
 11:27: And there ran a young man, and told Moses, and said, Eldad and Medad do prophesy in the camp.
 11:28: And Joshua the son of Nun, the servant of Moses, one of his young men, answered and said, My lord Moses, forbid them.
-11:29: And Moses said unto him, Enviest thou for my sake?  would God that all the LORD's people were prophets, and that the LORD would put his spirit upon them!
+11:29: And Moses said unto him, Enviest thou for my sake? would God that all the LORD's people were prophets, and that the LORD would put his spirit upon them!
 11:30: And Moses gat him into the camp, he and the elders of Israel. 
 11:31: And there went forth a wind from the LORD, and brought quails from the sea, and let them fall by the camp, as it were a day's journey on this side, and as it were a day's journey on the other side, round about the camp, and as it were two cubits high upon the face of the earth.
 11:32: And the people stood up all that day, and all that night, and all the next day, and they gathered the quails: he that gathered least gathered ten homers: and they spread them all abroad for themselves round about the camp. 
@@ -455,9 +455,9 @@ NUMBERS
 11:34: And he called the name of that place Kibroth-hattaavah: because there they buried the people that lusted.
 11:35: And the people journeyed from Kibroth-hattaavah unto Hazeroth; and abode at Hazeroth.
 12:1: And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.
-12:2: And they said, Hath the LORD indeed spoken only by Moses?  hath he not spoken also by us?  And the LORD heard it.
+12:2: And they said, Hath the LORD indeed spoken only by Moses? hath he not spoken also by us? And the LORD heard it.
 12:3: (Now the man Moses was very meek, above all the men which were upon the face of the earth.)
-12:4: And the LORD spake suddenly unto Moses, and unto Aaron, and unto Miriam, Come out ye three unto the tabernacle of the congregation.  And they three came out.
+12:4: And the LORD spake suddenly unto Moses, and unto Aaron, and unto Miriam, Come out ye three unto the tabernacle of the congregation. And they three came out.
 12:5: And the LORD came down in the pillar of the cloud, and stood in the door of the tabernacle, and called Aaron and Miriam: and they both came forth.
 12:6: And he said, Hear now my words: If there be a prophet among you, I the LORD will make myself known unto him in a vision, and will speak unto him in a dream.
 12:7: My servant Moses is not so, who is faithful in all mine house.
@@ -467,7 +467,7 @@ NUMBERS
 12:11: And Aaron said unto Moses, Alas, my lord, I beseech thee, lay not the sin upon us, wherein we have done foolishly, and wherein we have sinned.
 12:12: Let her not be as one dead, of whom the flesh is half consumed when he cometh out of his mother's womb.
 12:13: And Moses cried unto the LORD, saying, Heal her now, O God, I beseech thee.
-12:14: And the LORD said unto Moses, If her father had but spit in her face, should she not be ashamed seven days?  let her be shut out from the camp seven days, and after that let her be received in again.
+12:14: And the LORD said unto Moses, If her father had but spit in her face, should she not be ashamed seven days? let her be shut out from the camp seven days, and after that let her be received in again.
 12:15: And Miriam was shut out from the camp seven days: and the people journeyed not till Miriam was brought in again.
 12:16: And afterward the people removed from Hazeroth, and pitched in the wilderness of Paran.
 13:1: And the LORD spake unto Moses, saying,
@@ -485,13 +485,13 @@ NUMBERS
 13:13: Of the tribe of Asher, Sethur the son of Michael.
 13:14: Of the tribe of Naphtali, Nahbi the son of Vophsi.
 13:15: Of the tribe of Gad, Geuel the son of Machi.
-13:16: These are the names of the men which Moses sent to spy out the land.  And Moses called Oshea the son of Nun Jehoshua. 
+13:16: These are the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua. 
 13:17: And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this way southward, and go up into the mountain:
 13:18: And see the land, what it is; and the people that dwelleth therein, whether they be strong or weak, few or many; 
 13:19: And what the land is that they dwell in, whether it be good or bad; and what cities they be that they dwell in, whether in tents, or in strong holds; 
-13:20: And what the land is, whether it be fat or lean, whether there be wood therein, or not.  And be ye of good courage, and bring of the fruit of the land.  Now the time was the time of the firstripe grapes.
+13:20: And what the land is, whether it be fat or lean, whether there be wood therein, or not. And be ye of good courage, and bring of the fruit of the land. Now the time was the time of the firstripe grapes.
 13:21: So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath.
-13:22: And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, were.  (Now Hebron was built seven years before Zoan in Egypt.)
+13:22: And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, were. (Now Hebron was built seven years before Zoan in Egypt.)
 13:23: And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and they brought of the pomegranates, and of the figs.
 13:24: The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence.
 13:25: And they returned from searching of the land after forty days.
@@ -504,16 +504,16 @@ NUMBERS
 13:32: And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, is a land that eateth up the inhabitants thereof; and all the people that we saw in it are men of a great stature.
 13:33: And there we saw the giants, the sons of Anak, which come of the giants: and we were in our own sight as grasshoppers, and so we were in their sight.
 14:1: And all the congregation lifted up their voice, and cried; and the people wept that night.
-14:2: And all the children of Israel murmured against Moses and against Aaron: and the whole congregation said unto them, Would God that we had died in the land of Egypt!  or would God we had died in this wilderness!
-14:3: And wherefore hath the LORD brought us unto this land, to fall by the sword, that our wives and our children should be a prey?  were it not better for us to return into Egypt?
+14:2: And all the children of Israel murmured against Moses and against Aaron: and the whole congregation said unto them, Would God that we had died in the land of Egypt! or would God we had died in this wilderness!
+14:3: And wherefore hath the LORD brought us unto this land, to fall by the sword, that our wives and our children should be a prey? were it not better for us to return into Egypt?
 14:4: And they said one to another, Let us make a captain, and let us return into Egypt.
 14:5: Then Moses and Aaron fell on their faces before all the assembly of the congregation of the children of Israel. 
 14:6: And Joshua the son of Nun, and Caleb the son of Jephunneh, which were of them that searched the land, rent their clothes:
 14:7: And they spake unto all the company of the children of Israel, saying, The land, which we passed through to search it, is an exceeding good land. 
 14:8: If the LORD delight in us, then he will bring us into this land, and give it us; a land which floweth with milk and honey. 
 14:9: Only rebel not ye against the LORD, neither fear ye the people of the land; for they are bread for us: their defence is departed from them, and the LORD is with us: fear them not.
-14:10: But all the congregation bade stone them with stones.  And the glory of the LORD appeared in the tabernacle of the congregation before all the children of Israel.
-14:11: And the LORD said unto Moses, How long will this people provoke me?  and how long will it be ere they believe me, for all the signs which I have shewed among them?
+14:10: But all the congregation bade stone them with stones. And the glory of the LORD appeared in the tabernacle of the congregation before all the children of Israel.
+14:11: And the LORD said unto Moses, How long will this people provoke me? and how long will it be ere they believe me, for all the signs which I have shewed among them?
 14:12: I will smite them with the pestilence, and disinherit them, and will make of thee a greater nation and mightier than they.
 14:13: And Moses said unto the LORD, Then the Egyptians shall hear it, (for thou broughtest up this people in thy might from among them;)
 14:14: And they will tell it to the inhabitants of this land: for they have heard that thou LORD art among this people, that thou LORD art seen face to face, and that thy cloud standeth over them, and that thou goest before them, by day time in a pillar of a cloud, and in a pillar of fire by night.
@@ -529,7 +529,7 @@ NUMBERS
 14:24: But my servant Caleb, because he had another spirit with him, and hath followed me fully, him will I bring into the land whereinto he went; and his seed shall possess it.
 14:25: (Now the Amalekites and the Canaanites dwelt in the valley.) To morrow turn you, and get you into the wilderness by the way of the Red sea.
 14:26: And the LORD spake unto Moses and unto Aaron, saying,
-14:27: How long shall I bear with this evil congregation, which murmur against me?  I have heard the murmurings of the children of Israel, which they murmur against me.
+14:27: How long shall I bear with this evil congregation, which murmur against me? I have heard the murmurings of the children of Israel, which they murmur against me.
 14:28: Say unto them, As truly as I live, saith the LORD, as ye have spoken in mine ears, so will I do to you: 
 14:29: Your carcases shall fall in this wilderness; and all that were numbered of you, according to your whole number, from twenty years old and upward, which have murmured against me,
 14:30: Doubtless ye shall not come into the land, concerning which I sware to make you dwell therein, save Caleb the son of Jephunneh, and Joshua the son of Nun. 
@@ -543,7 +543,7 @@ NUMBERS
 14:38: But Joshua the son of Nun, and Caleb the son of Jephunneh, which were of the men that went to search the land, lived still.
 14:39: And Moses told these sayings unto all the children of Israel: and the people mourned greatly.
 14:40: And they rose up early in the morning, and gat them up into the top of the mountain, saying, Lo, we be here, and will go up unto the place which the LORD hath promised: for we have sinned.
-14:41: And Moses said, Wherefore now do ye transgress the commandment of the LORD?  but it shall not prosper.
+14:41: And Moses said, Wherefore now do ye transgress the commandment of the LORD? but it shall not prosper.
 14:42: Go not up, for the LORD is not among you; that ye be not smitten before your enemies.
 14:43: For the Amalekites and the Canaanites are there before you, and ye shall fall by the sword: because ye are turned away from the LORD, therefore the LORD will not be with you.
 14:44: But they presumed to go up unto the hill top: nevertheless the ark of the covenant of the LORD, and Moses, departed not out of the camp.
@@ -602,7 +602,7 @@ NUMBERS
 16:11: For which cause both thou and all thy company are gathered together against the LORD: and what is Aaron, that ye murmur against him?
 16:12: And Moses sent to call Dathan and Abiram, the sons of Eliab: which said, We will not come up:
 16:13: Is it a small thing that thou hast brought us up out of a land that floweth with milk and honey, to kill us in the wilderness, except thou make thyself altogether a prince over us?
-16:14: Moreover thou hast not brought us into a land that floweth with milk and honey, or given us inheritance of fields and vineyards: wilt thou put out the eyes of these men?  we will not come up.
+16:14: Moreover thou hast not brought us into a land that floweth with milk and honey, or given us inheritance of fields and vineyards: wilt thou put out the eyes of these men? we will not come up.
 16:15: And Moses was very wroth, and said unto the LORD, Respect not thou their offering: I have not taken one ass from them, neither have I hurt one of them.
 16:16: And Moses said unto Korah, Be thou and all thy company before the LORD, thou, and they, and Aaron, to morrow:
 16:17: And take every man his censer, and put incense in them, and bring ye before the LORD every man his censer, two hundred and fifty censers; thou also, and Aaron, each of you his censer.
@@ -633,7 +633,7 @@ NUMBERS
 16:42: And it came to pass, when the congregation was gathered against Moses and against Aaron, that they looked toward the tabernacle of the congregation: and, behold, the cloud covered it, and the glory of the LORD appeared.
 16:43: And Moses and Aaron came before the tabernacle of the congregation.
 16:44: And the LORD spake unto Moses, saying,
-16:45: Get you up from among this congregation, that I may consume them as in a moment.  And they fell upon their faces. 
+16:45: Get you up from among this congregation, that I may consume them as in a moment. And they fell upon their faces. 
 16:46: And Moses said unto Aaron, Take a censer, and put fire therein from off the altar, and put on incense, and go quickly unto the congregation, and make an atonement for them: for there is wrath gone out from the LORD; the plague is begun.
 16:47: And Aaron took as Moses commanded, and ran into the midst of the congregation; and, behold, the plague was begun among the people: and he put on incense, and made an atonement for the people. 
 16:48: And he stood between the dead and the living; and the plague was stayed. 
@@ -710,7 +710,7 @@ NUMBERS
 20:2: And there was no water for the congregation: and they gathered themselves together against Moses and against Aaron.
 20:3: And the people chode with Moses, and spake, saying, Would God that we had died when our brethren died before the LORD!
 20:4: And why have ye brought up the congregation of the LORD into this wilderness, that we and our cattle should die there? 
-20:5: And wherefore have ye made us to come up out of Egypt, to bring us in unto this evil place?  it is no place of seed, or of figs, or of vines, or of pomegranates; neither is there any water to drink.
+20:5: And wherefore have ye made us to come up out of Egypt, to bring us in unto this evil place? it is no place of seed, or of figs, or of vines, or of pomegranates; neither is there any water to drink.
 20:6: And Moses and Aaron went from the presence of the assembly unto the door of the tabernacle of the congregation, and they fell upon their faces: and the glory of the LORD appeared unto them. 
 20:7: And the LORD spake unto Moses, saying, 
 20:8: Take the rod, and gather thou the assembly together, thou, and Aaron thy brother, and speak ye unto the rock before their eyes; and it shall give forth his water, and thou shalt bring forth to them water out of the rock: so thou shalt give the congregation and their beasts drink.
@@ -725,7 +725,7 @@ NUMBERS
 20:17: Let us pass, I pray thee, through thy country: we will not pass through the fields, or through the vineyards, neither will we drink of the water of the wells: we will go by the king's highway, we will not turn to the right hand nor to the left, until we have passed thy borders.
 20:18: And Edom said unto him, Thou shalt not pass by me, lest I come out against thee with the sword.
 20:19: And the children of Israel said unto him, We will go by the high way: and if I and my cattle drink of thy water, then I will pay for it: I will only, without doing any thing else, go through on my feet.
-20:20: And he said, Thou shalt not go through.  And Edom came out against him with much people, and with a strong hand.
+20:20: And he said, Thou shalt not go through. And Edom came out against him with much people, and with a strong hand.
 20:21: Thus Edom refused to give Israel passage through his border: wherefore Israel turned away from him.
 20:22: And the children of Israel, even the whole congregation, journeyed from Kadesh, and came unto mount Hor.
 20:23: And the LORD spake unto Moses and Aaron in mount Hor, by the coast of the land of Edom, saying,
@@ -739,9 +739,9 @@ NUMBERS
 21:2: And Israel vowed a vow unto the LORD, and said, If thou wilt indeed deliver this people into my hand, then I will utterly destroy their cities.
 21:3: And the LORD hearkened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities: and he called the name of the place Hormah.
 21:4: And they journeyed from mount Hor by the way of the Red sea, to compass the land of Edom: and the soul of the people was much discouraged because of the way.
-21:5: And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness?  for there is no bread, neither is there any water; and our soul loatheth this light bread.
+21:5: And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness? for there is no bread, neither is there any water; and our soul loatheth this light bread.
 21:6: And the LORD sent fiery serpents among the people, and they bit the people; and much people of Israel died.
-21:7: Therefore the people came to Moses, and said, We have sinned, for we have spoken against the LORD, and against thee; pray unto the LORD, that he take away the serpents from us.  And Moses prayed for the people.
+21:7: Therefore the people came to Moses, and said, We have sinned, for we have spoken against the LORD, and against thee; pray unto the LORD, that he take away the serpents from us. And Moses prayed for the people.
 21:8: And the LORD said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.
 21:9: And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.
 21:10: And the children of Israel set forward, and pitched in Oboth.
@@ -752,7 +752,7 @@ NUMBERS
 21:15: And at the stream of the brooks that goeth down to the dwelling of Ar, and lieth upon the border of Moab.
 21:16: And from thence they went to Beer: that is the well whereof the LORD spake unto Moses, Gather the people together, and I will give them water.
 21:17: Then Israel sang this song, Spring up, O well; sing ye unto it:
-21:18: The princes digged the well, the nobles of the people digged it, by the direction of the lawgiver, with their staves.  And from the wilderness they went to Mattanah:
+21:18: The princes digged the well, the nobles of the people digged it, by the direction of the lawgiver, with their staves. And from the wilderness they went to Mattanah:
 21:19: And from Mattanah to Nahaliel: and from Nahaliel to Bamoth:
 21:20: And from Bamoth in the valley, that is in the country of Moab, to the top of Pisgah, which looketh toward Jeshimon. 
 21:21: And Israel sent messengers unto Sihon king of the Amorites, saying,
@@ -763,7 +763,7 @@ NUMBERS
 21:26: For Heshbon was the city of Sihon the king of the Amorites, who had fought against the former king of Moab, and taken all his land out of his hand, even unto Arnon.
 21:27: Wherefore they that speak in proverbs say, Come into Heshbon, let the city of Sihon be built and prepared:
 21:28: For there is a fire gone out of Heshbon, a flame from the city of Sihon: it hath consumed Ar of Moab, and the lords of the high places of Arnon.
-21:29: Woe to thee, Moab!  thou art undone, O people of Chemosh: he hath given his sons that escaped, and his daughters, into captivity unto Sihon king of the Amorites.
+21:29: Woe to thee, Moab! thou art undone, O people of Chemosh: he hath given his sons that escaped, and his daughters, into captivity unto Sihon king of the Amorites.
 21:30: We have shot at them; Heshbon is perished even unto Dibon, and we have laid them waste even unto Nophah, which reacheth unto Medeba.
 21:31: Thus Israel dwelt in the land of the Amorites.
 21:32: And Moses sent to spy out Jaazer, and they took the villages thereof, and drove out the Amorites that were there.
@@ -773,7 +773,7 @@ NUMBERS
 22:1: And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan by Jericho.
 22:2: And Balak the son of Zippor saw all that Israel had done to the Amorites.
 22:3: And Moab was sore afraid of the people, because they were many: and Moab was distressed because of the children of Israel.
-22:4: And Moab said unto the elders of Midian, Now shall this company lick up all that are round about us, as the ox licketh up the grass of the field.  And Balak the son of Zippor was king of the Moabites at that time.
+22:4: And Moab said unto the elders of Midian, Now shall this company lick up all that are round about us, as the ox licketh up the grass of the field. And Balak the son of Zippor was king of the Moabites at that time.
 22:5: He sent messengers therefore unto Balaam the son of Beor to Pethor, which is by the river of the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: behold, they cover the face of the earth, and they abide over against me:
 22:6: Come now therefore, I pray thee, curse me this people; for they are too mighty for me: peradventure I shall prevail, that we may smite them, and that I may drive them out of the land: for I wot that he whom thou blessest is blessed, and he whom thou cursest is cursed.
 22:7: And the elders of Moab and the elders of Midian departed with the rewards of divination in their hand; and they came unto Balaam, and spake unto him the words of Balak. 
@@ -791,7 +791,7 @@ NUMBERS
 22:19: Now therefore, I pray you, tarry ye also here this night, that I may know what the LORD will say unto me more. 
 22:20: And God came unto Balaam at night, and said unto him, If the men come to call thee, rise up, and go with them; but yet the word which I shall say unto thee, that shalt thou do. 
 22:21: And Balaam rose up in the morning, and saddled his ass, and went with the princes of Moab.
-22:22: And God's anger was kindled because he went: and the angel of the LORD stood in the way for an adversary against him.  Now he was riding upon his ass, and his two servants were with him.
+22:22: And God's anger was kindled because he went: and the angel of the LORD stood in the way for an adversary against him. Now he was riding upon his ass, and his two servants were with him.
 22:23: And the ass saw the angel of the LORD standing in the way, and his sword drawn in his hand: and the ass turned aside out of the way, and went into the field: and Balaam smote the ass, to turn her into the way.
 22:24: But the angel of the LORD stood in a path of the vineyards, a wall being on this side, and a wall on that side.
 22:25: And when the ass saw the angel of the LORD, she thrust herself unto the wall, and crushed Balaam's foot against the wall: and he smote her again.
@@ -799,37 +799,37 @@ NUMBERS
 22:27: And when the ass saw the angel of the LORD, she fell down under Balaam: and Balaam's anger was kindled, and he smote the ass with a staff.
 22:28: And the LORD opened the mouth of the ass, and she said unto Balaam, What have I done unto thee, that thou hast smitten me these three times?
 22:29: And Balaam said unto the ass, Because thou hast mocked me: I would there were a sword in mine hand, for now would I kill thee.
-22:30: And the ass said unto Balaam, Am not I thine ass, upon which thou hast ridden ever since I was thine unto this day?  was I ever wont to do so unto thee?  And he said, Nay.
+22:30: And the ass said unto Balaam, Am not I thine ass, upon which thou hast ridden ever since I was thine unto this day? was I ever wont to do so unto thee? And he said, Nay.
 22:31: Then the LORD opened the eyes of Balaam, and he saw the angel of the LORD standing in the way, and his sword drawn in his hand: and he bowed down his head, and fell flat on his face.
-22:32: And the angel of the LORD said unto him, Wherefore hast thou smitten thine ass these three times?  behold, I went out to withstand thee, because thy way is perverse before me:
+22:32: And the angel of the LORD said unto him, Wherefore hast thou smitten thine ass these three times? behold, I went out to withstand thee, because thy way is perverse before me:
 22:33: And the ass saw me, and turned from me these three times: unless she had turned from me, surely now also I had slain thee, and saved her alive.
 22:34: And Balaam said unto the angel of the LORD, I have sinned; for I knew not that thou stoodest in the way against me: now therefore, if it displease thee, I will get me back again.
-22:35: And the angel of the LORD said unto Balaam, Go with the men: but only the word that I shall speak unto thee, that thou shalt speak.  So Balaam went with the princes of Balak.
+22:35: And the angel of the LORD said unto Balaam, Go with the men: but only the word that I shall speak unto thee, that thou shalt speak. So Balaam went with the princes of Balak.
 22:36: And when Balak heard that Balaam was come, he went out to meet him unto a city of Moab, which is in the border of Arnon, which is in the utmost coast.
-22:37: And Balak said unto Balaam, Did I not earnestly send unto thee to call thee?  wherefore camest thou not unto me?  am I not able indeed to promote thee to honour?
-22:38: And Balaam said unto Balak, Lo, I am come unto thee: have I now any power at all to say any thing?  the word that God putteth in my mouth, that shall I speak.
+22:37: And Balak said unto Balaam, Did I not earnestly send unto thee to call thee? wherefore camest thou not unto me? am I not able indeed to promote thee to honour?
+22:38: And Balaam said unto Balak, Lo, I am come unto thee: have I now any power at all to say any thing? the word that God putteth in my mouth, that shall I speak.
 22:39: And Balaam went with Balak, and they came unto Kirjath-huzoth.
 22:40: And Balak offered oxen and sheep, and sent to Balaam, and to the princes that were with him. 
 22:41: And it came to pass on the morrow, that Balak took Balaam, and brought him up into the high places of Baal, that thence he might see the utmost part of the people.
 23:1: And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams. 
 23:2: And Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bullock and a ram.
-23:3: And Balaam said unto Balak, Stand by thy burnt offering, and I will go: peradventure the LORD will come to meet me: and whatsoever he sheweth me I will tell thee.  And he went to an high place.
+23:3: And Balaam said unto Balak, Stand by thy burnt offering, and I will go: peradventure the LORD will come to meet me: and whatsoever he sheweth me I will tell thee. And he went to an high place.
 23:4: And God met Balaam: and he said unto him, I have prepared seven altars, and I have offered upon every altar a bullock and a ram.
 23:5: And the LORD put a word in Balaam's mouth, and said, Return unto Balak, and thus thou shalt speak.
 23:6: And he returned unto him, and, lo, he stood by his burnt sacrifice, he, and all the princes of Moab.
 23:7: And he took up his parable, and said, Balak the king of Moab hath brought me from Aram, out of the mountains of the east, saying, Come, curse me Jacob, and come, defy Israel.
-23:8: How shall I curse, whom God hath not cursed?  or how shall I defy, whom the LORD hath not defied?
+23:8: How shall I curse, whom God hath not cursed? or how shall I defy, whom the LORD hath not defied?
 23:9: For from the top of the rocks I see him, and from the hills I behold him: lo, the people shall dwell alone, and shall not be reckoned among the nations.
-23:10: Who can count the dust of Jacob, and the number of the fourth part of Israel?  Let me die the death of the righteous, and let my last end be like his!
-23:11: And Balak said unto Balaam, What hast thou done unto me?  I took thee to curse mine enemies, and, behold, thou hast blessed them altogether.
+23:10: Who can count the dust of Jacob, and the number of the fourth part of Israel? Let me die the death of the righteous, and let my last end be like his!
+23:11: And Balak said unto Balaam, What hast thou done unto me? I took thee to curse mine enemies, and, behold, thou hast blessed them altogether.
 23:12: And he answered and said, Must I not take heed to speak that which the LORD hath put in my mouth?
 23:13: And Balak said unto him, Come, I pray thee, with me unto another place, from whence thou mayest see them: thou shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence.
 23:14: And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on every altar.
 23:15: And he said unto Balak, Stand here by thy burnt offering, while I meet the LORD yonder.
 23:16: And the LORD met Balaam, and put a word in his mouth, and said, Go again unto Balak, and say thus.
-23:17: And when he came to him, behold, he stood by his burnt offering, and the princes of Moab with him.  And Balak said unto him, What hath the LORD spoken?
+23:17: And when he came to him, behold, he stood by his burnt offering, and the princes of Moab with him. And Balak said unto him, What hath the LORD spoken?
 23:18: And he took up his parable, and said, Rise up, Balak, and hear; hearken unto me, thou son of Zippor:
-23:19: God is not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do it?  or hath he spoken, and shall he not make it good?
+23:19: God is not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do it? or hath he spoken, and shall he not make it good?
 23:20: Behold, I have received commandment to bless: and he hath blessed; and I cannot reverse it.
 23:21: He hath not beheld iniquity in Jacob, neither hath he seen perverseness in Israel: the LORD his God is with him, and the shout of a king is among them. 
 23:22: God brought them out of Egypt; he hath as it were the strength of an unicorn.
@@ -849,7 +849,7 @@ NUMBERS
 24:6: As the valleys are they spread forth, as gardens by the river's side, as the trees of lign aloes which the LORD hath planted, and as cedar trees beside the waters.
 24:7: He shall pour the water out of his buckets, and his seed shall be in many waters, and his king shall be higher than Agag, and his kingdom shall be exalted.
 24:8: God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce them through with his arrows.
-24:9: He couched, he lay down as a lion, and as a great lion: who shall stir him up?  Blessed is he that blesseth thee, and cursed is he that curseth thee.
+24:9: He couched, he lay down as a lion, and as a great lion: who shall stir him up? Blessed is he that blesseth thee, and cursed is he that curseth thee.
 24:10: And Balak's anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called thee to curse mine enemies, and, behold, thou hast altogether blessed them these three times.
 24:11: Therefore now flee thou to thy place: I thought to promote thee unto great honour; but, lo, the LORD hath kept thee back from honour.
 24:12: And Balaam said unto Balak, Spake I not also to thy messengers which thou sentest unto me, saying,
@@ -873,7 +873,7 @@ NUMBERS
 25:5: And Moses said unto the judges of Israel, Slay ye every one his men that were joined unto Baal-peor. 
 25:6: And, behold, one of the children of Israel came and brought unto his brethren a Midianitish woman in the sight of Moses, and in the sight of all the congregation of the children of Israel, who were weeping before the door of the tabernacle of the congregation.
 25:7: And when Phinehas, the son of Eleazar, the son of Aaron the priest, saw it, he rose up from among the congregation, and took a javelin in his hand;
-25:8: And he went after the man of Israel into the tent, and thrust both of them through, the man of Israel, and the woman through her belly.  So the plague was stayed from the children of Israel.
+25:8: And he went after the man of Israel into the tent, and thrust both of them through, the man of Israel, and the woman through her belly. So the plague was stayed from the children of Israel.
 25:9: And those that died in the plague were twenty and four thousand.
 25:10: And the LORD spake unto Moses, saying,
 25:11: Phinehas, the son of Eleazar, the son of Aaron the priest, hath turned my wrath away from the children of Israel, while he was zealous for my sake among them, that I consumed not the children of Israel in my jealousy.
@@ -892,7 +892,7 @@ NUMBERS
 26:6: Of Hezron, the family of the Hezronites: of Carmi, the family of the Carmites. 
 26:7: These are the families of the Reubenites: and they that were numbered of them were forty and three thousand and seven hundred and thirty.
 26:8: And the sons of Pallu; Eliab. 
-26:9: And the sons of Eliab; Nemuel, and Dathan, and Abiram.  This is that Dathan and Abiram, which were famous in the congregation, who strove against Moses and against Aaron in the company of Korah, when they strove against the LORD: 
+26:9: And the sons of Eliab; Nemuel, and Dathan, and Abiram. This is that Dathan and Abiram, which were famous in the congregation, who strove against Moses and against Aaron in the company of Korah, when they strove against the LORD: 
 26:10: And the earth opened her mouth, and swallowed them up together with Korah, when that company died, what time the fire devoured two hundred and fifty men: and they became a sign.
 26:11: Notwithstanding the children of Korah died not.
 26:12: The sons of Simeon after their families: of Nemuel, the family of the Nemuelites: of Jamin, the family of the Jaminites: of Jachin, the family of the Jachinites:
@@ -920,12 +920,12 @@ NUMBERS
 26:34: These are the families of Manasseh, and those that were numbered of them, fifty and two thousand and seven hundred.
 26:35: These are the sons of Ephraim after their families: of Shuthelah, the family of the Shuthalhites: of Becher, the family of the Bachrites: of Tahan, the family of the Tahanites.
 26:36: And these are the sons of Shuthelah: of Eran, the family of the Eranites.
-26:37: These are the families of the sons of Ephraim according to those that were numbered of them, thirty and two thousand and five hundred.  These are the sons of Joseph after their families.
+26:37: These are the families of the sons of Ephraim according to those that were numbered of them, thirty and two thousand and five hundred. These are the sons of Joseph after their families.
 26:38: The sons of Benjamin after their families: of Bela, the family of the Belaites: of Ashbel, the family of the Ashbelites: of Ahiram, the family of the Ahiramites:
 26:39: Of Shupham, the family of the Shuphamites: of Hupham, the family of the Huphamites.
 26:40: And the sons of Bela were Ard and Naaman: of Ard, the family of the Ardites: and of Naaman, the family of the Naamites.
 26:41: These are the sons of Benjamin after their families: and they that were numbered of them were forty and five thousand and six hundred.
-26:42: These are the sons of Dan after their families: of Shuham, the family of the Shuhamites.  These are the families of Dan after their families.
+26:42: These are the sons of Dan after their families: of Shuham, the family of the Shuhamites. These are the families of Dan after their families.
 26:43: All the families of the Shuhamites, according to those that were numbered of them, were threescore and four thousand and four hundred.
 26:44: Of the children of Asher after their families: of Jimna, the family of the Jimnites: of Jesui, the family of the Jesuites: of Beriah, the family of the Beriites.
 26:45: Of the sons of Beriah: of Heber, the family of the Heberites: of Malchiel, the family of the Malchielites.
@@ -941,18 +941,18 @@ NUMBERS
 26:55: Notwithstanding the land shall be divided by lot: according to the names of the tribes of their fathers they shall inherit. 
 26:56: According to the lot shall the possession thereof be divided between many and few.
 26:57: And these are they that were numbered of the Levites after their families: of Gershon, the family of the Gershonites: of Kohath, the family of the Kohathites: of Merari, the family of the Merarites.
-26:58: These are the families of the Levites: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, the family of the Korathites.  And Kohath begat Amram.
+26:58: These are the families of the Levites: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, the family of the Korathites. And Kohath begat Amram.
 26:59: And the name of Amram's wife was Jochebed, the daughter of Levi, whom her mother bare to Levi in Egypt: and she bare unto Amram Aaron and Moses, and Miriam their sister.
 26:60: And unto Aaron was born Nadab, and Abihu, Eleazar, and Ithamar.
 26:61: And Nadab and Abihu died, when they offered strange fire before the LORD.
 26:62: And those that were numbered of them were twenty and three thousand, all males from a month old and upward: for they were not numbered among the children of Israel, because there was no inheritance given them among the children of Israel.
 26:63: These are they that were numbered by Moses and Eleazar the priest, who numbered the children of Israel in the plains of Moab by Jordan near Jericho.
 26:64: But among these there was not a man of them whom Moses and Aaron the priest numbered, when they numbered the children of Israel in the wilderness of Sinai.
-26:65: For the LORD had said of them, They shall surely die in the wilderness.  And there was not left a man of them, save Caleb the son of Jephunneh, and Joshua the son of Nun.
+26:65: For the LORD had said of them, They shall surely die in the wilderness. And there was not left a man of them, save Caleb the son of Jephunneh, and Joshua the son of Nun.
 27:1: Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph: and these are the names of his daughters; Mahlah, Noah, and Hoglah, and Milcah, and Tirzah.
 27:2: And they stood before Moses, and before Eleazar the priest, and before the princes and all the congregation, by the door of the tabernacle of the congregation, saying,
 27:3: Our father died in the wilderness, and he was not in the company of them that gathered themselves together against the LORD in the company of Korah; but died in his own sin, and had no sons.
-27:4: Why should the name of our father be done away from among his family, because he hath no son?  Give unto us therefore a possession among the brethren of our father.
+27:4: Why should the name of our father be done away from among his family, because he hath no son? Give unto us therefore a possession among the brethren of our father.
 27:5: And Moses brought their cause before the LORD.
 27:6: And the LORD spake unto Moses, saying, 
 27:7: The daughters of Zelophehad speak right: thou shalt surely give them a possession of an inheritance among their father's brethren; and thou shalt cause the inheritance of their father to pass unto them.

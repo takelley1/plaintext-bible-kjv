@@ -1,4 +1,4 @@
-DEUTERONOMY  
+DEUTERONOMY 
 1:1: These be the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red sea, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab.
 1:2: (There are eleven days' journey from Horeb by the way of mount Seir unto Kadesh-barnea.) 
 1:3: And it came to pass in the fortieth year, in the eleventh month, on the first day of the month, that Moses spake unto the children of Israel, according unto all that the LORD had given him in commandment unto them;
@@ -26,7 +26,7 @@ DEUTERONOMY
 1:25: And they took of the fruit of the land in their hands, and brought it down unto us, and brought us word again, and said, It is a good land which the LORD our God doth give us. 
 1:26: Notwithstanding ye would not go up, but rebelled against the commandment of the LORD your God:
 1:27: And ye murmured in your tents, and said, Because the LORD hated us, he hath brought us forth out of the land of Egypt, to deliver us into the hand of the Amorites, to destroy us. 
-1:28: Whither shall we go up?  our brethren have discouraged our heart, saying, The people is greater and taller than we; the cities are great and walled up to heaven; and moreover we have seen the sons of the Anakims there. 
+1:28: Whither shall we go up? our brethren have discouraged our heart, saying, The people is greater and taller than we; the cities are great and walled up to heaven; and moreover we have seen the sons of the Anakims there. 
 1:29: Then I said unto you, Dread not, neither be afraid of them.
 1:30: The LORD your God which goeth before you, he shall fight for you, according to all that he did for you in Egypt before your eyes;
 1:31: And in the wilderness, where thou hast seen how that the LORD thy God bare thee, as a man doth bear his son, in all the way that ye went, until ye came into this place.
@@ -39,7 +39,7 @@ DEUTERONOMY
 1:38: But Joshua the son of Nun, which standeth before thee, he shall go in thither: encourage him: for he shall cause Israel to inherit it.
 1:39: Moreover your little ones, which ye said should be a prey, and your children, which in that day had no knowledge between good and evil, they shall go in thither, and unto them will I give it, and they shall possess it.
 1:40: But as for you, turn you, and take your journey into the wilderness by the way of the Red sea.
-1:41: Then ye answered and said unto me, We have sinned against the LORD, we will go up and fight, according to all that the LORD our God commanded us.  And when ye had girded on every man his weapons of war, ye were ready to go up into the hill.
+1:41: Then ye answered and said unto me, We have sinned against the LORD, we will go up and fight, according to all that the LORD our God commanded us. And when ye had girded on every man his weapons of war, ye were ready to go up into the hill.
 1:42: And the LORD said unto me, Say unto them, Go not up, neither fight; for I am not among you; lest ye be smitten before your enemies.
 1:43: So I spake unto you; and ye would not hear, but rebelled against the commandment of the LORD, and went presumptuously up into the hill.
 1:44: And the Amorites, which dwelt in that mountain, came out against you, and chased you, as bees do, and destroyed you in Seir, even unto Hormah.
@@ -57,7 +57,7 @@ DEUTERONOMY
 2:10: The Emims dwelt therein in times past, a people great, and many, and tall, as the Anakims;
 2:11: Which also were accounted giants, as the Anakims; but the Moabites call them Emims.
 2:12: The Horims also dwelt in Seir beforetime; but the children of Esau succeeded them, when they had destroyed them from before them, and dwelt in their stead; as Israel did unto the land of his possession, which the LORD gave unto them.
-2:13: Now rise up, said I, and get you over the brook Zered.  And we went over the brook Zered.
+2:13: Now rise up, said I, and get you over the brook Zered. And we went over the brook Zered.
 2:14: And the space in which we came from Kadesh-barnea, until we were come over the brook Zered, was thirty and eight years; until all the generation of the men of war were wasted out from among the host, as the LORD sware unto them.
 2:15: For indeed the hand of the LORD was against them, to destroy them from among the host, until they were consumed.
 2:16: So it came to pass, when all the men of war were consumed and dead from among the people,
@@ -92,7 +92,7 @@ DEUTERONOMY
 3:8: And we took at that time out of the hand of the two kings of the Amorites the land that was on this side Jordan, from the river of Arnon unto mount Hermon;
 3:9: (Which Hermon the Sidonians call Sirion; and the Amorites call it Shenir;)
 3:10: All the cities of the plain, and all Gilead, and all Bashan, unto Salchah and Edrei, cities of the kingdom of Og in Bashan.
-3:11: For only Og king of Bashan remained of the remnant of giants; behold, his bedstead was a bedstead of iron; is it not in Rabbath of the children of Ammon?  nine cubits was the length thereof, and four cubits the breadth of it, after the cubit of a man.
+3:11: For only Og king of Bashan remained of the remnant of giants; behold, his bedstead was a bedstead of iron; is it not in Rabbath of the children of Ammon? nine cubits was the length thereof, and four cubits the breadth of it, after the cubit of a man.
 3:12: And this land, which we possessed at that time, from Aroer, which is by the river Arnon, and half mount Gilead, and the cities thereof, gave I unto the Reubenites and to the Gadites.
 3:13: And the rest of Gilead, and all Bashan, being the kingdom of Og, gave I unto the half tribe of Manasseh; all the region of Argob, with all Bashan, which was called the land of giants.
 3:14: Jair the son of Manasseh took all the country of Argob unto the coasts of Geshuri and Maachathi; and called them after his own name, Bashan-havoth-jair, unto this day.
@@ -181,10 +181,10 @@ DEUTERONOMY
 5:19: Neither shalt thou steal.
 5:20: Neither shalt thou bear false witness against thy neighbour.
 5:21: Neither shalt thou desire thy neighbour's wife, neither shalt thou covet thy neighbour's house, his field, or his manservant, or his maidservant, his ox, or his ass, or any thing that is thy neighbour's.
-5:22: These words the LORD spake unto all your assembly in the mount out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more.  And he wrote them in two tables of stone, and delivered them unto me.
+5:22: These words the LORD spake unto all your assembly in the mount out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more. And he wrote them in two tables of stone, and delivered them unto me.
 5:23: And it came to pass, when ye heard the voice out of the midst of the darkness, (for the mountain did burn with fire,) that ye came near unto me, even all the heads of your tribes, and your elders;
 5:24: And ye said, Behold, the LORD our God hath shewed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God doth talk with man, and he liveth.
-5:25: Now therefore why should we die?  for this great fire will consume us: if we hear the voice of the LORD our God any more, then we shall die.
+5:25: Now therefore why should we die? for this great fire will consume us: if we hear the voice of the LORD our God any more, then we shall die.
 5:26: For who is there of all flesh, that hath heard the voice of the living God speaking out of the midst of the fire, as we have, and lived?
 5:27: Go thou near, and hear all that the LORD our God shall say: and speak thou unto us all that the LORD our God shall speak unto thee; and we will hear it, and do it.
 5:28: And the LORD heard the voice of your words, when ye spake unto me; and the LORD said unto me, I have heard the voice of the words of this people, which they have spoken unto thee: they have well said all that they have spoken.
@@ -282,7 +282,7 @@ DEUTERONOMY
 9:16: And I looked, and, behold, ye had sinned against the LORD your God, and had made you a molten calf: ye had turned aside quickly out of the way which the LORD had commanded you.
 9:17: And I took the two tables, and cast them out of my two hands, and brake them before your eyes.
 9:18: And I fell down before the LORD, as at the first, forty days and forty nights: I did neither eat bread, nor drink water, because of all your sins which ye sinned, in doing wickedly in the sight of the LORD, to provoke him to anger.
-9:19: For I was afraid of the anger and hot displeasure, wherewith the LORD was wroth against you to destroy you.  But the LORD hearkened unto me at that time also.
+9:19: For I was afraid of the anger and hot displeasure, wherewith the LORD was wroth against you to destroy you. But the LORD hearkened unto me at that time also.
 9:20: And the LORD was very angry with Aaron to have destroyed him: and I prayed for Aaron also the same time.
 9:21: And I took your sin, the calf which ye had made, and burnt it with fire, and stamped it, and ground it very small, even until it was as small as dust: and I cast the dust thereof into the brook that descended out of the mount.
 9:22: And at Taberah, and at Massah, and at Kibroth-hattaavah, ye provoked the LORD to wrath.
@@ -376,14 +376,14 @@ DEUTERONOMY
 12:27: And thou shalt offer thy burnt offerings, the flesh and the blood, upon the altar of the LORD thy God: and the blood of thy sacrifices shall be poured out upon the altar of the LORD thy God, and thou shalt eat the flesh.
 12:28: Observe and hear all these words which I command thee, that it may go well with thee, and with thy children after thee for ever, when thou doest that which is good and right in the sight of the LORD thy God.
 12:29: When the LORD thy God shall cut off the nations from before thee, whither thou goest to possess them, and thou succeedest them, and dwellest in their land;
-12:30: Take heed to thyself that thou be not snared by following them, after that they be destroyed from before thee; and that thou enquire not after their gods, saying, How did these nations serve their gods?  even so will I do likewise.
+12:30: Take heed to thyself that thou be not snared by following them, after that they be destroyed from before thee; and that thou enquire not after their gods, saying, How did these nations serve their gods? even so will I do likewise.
 12:31: Thou shalt not do so unto the LORD thy God: for every abomination to the LORD, which he hateth, have they done unto their gods; for even their sons and their daughters they have burnt in the fire to their gods.
 12:32: What thing soever I command you, observe to do it: thou shalt not add thereto, nor diminish from it.
 13:1: If there arise among you a prophet, or a dreamer of dreams, and giveth thee a sign or a wonder,
 13:2: And the sign or the wonder come to pass, whereof he spake unto thee, saying, Let us go after other gods, which thou hast not known, and let us serve them;
 13:3: Thou shalt not hearken unto the words of that prophet, or that dreamer of dreams: for the LORD your God proveth you, to know whether ye love the LORD your God with all your heart and with all your soul.
 13:4: Ye shall walk after the LORD your God, and fear him, and keep his commandments, and obey his voice, and ye shall serve him, and cleave unto him.
-13:5: And that prophet, or that dreamer of dreams, shall be put to death; because he hath spoken to turn you away from the LORD your God, which brought you out of the land of Egypt, and redeemed you out of the house of bondage, to thrust thee out of the way which the LORD thy God commanded thee to walk in.  So shalt thou put the evil away from the midst of thee.
+13:5: And that prophet, or that dreamer of dreams, shall be put to death; because he hath spoken to turn you away from the LORD your God, which brought you out of the land of Egypt, and redeemed you out of the house of bondage, to thrust thee out of the way which the LORD thy God commanded thee to walk in. So shalt thou put the evil away from the midst of thee.
 13:6: If thy brother, the son of thy mother, or thy son, or thy daughter, or the wife of thy bosom, or thy friend, which is as thine own soul, entice thee secretly, saying, Let us go and serve other gods, which thou hast not known, thou, nor thy fathers;
 13:7: Namely, of the gods of the people which are round about you, nigh unto thee, or far off from thee, from the one end of the earth even unto the other end of the earth;
 13:8: Thou shalt not consent unto him, nor hearken unto him; neither shall thine eye pity him, neither shalt thou spare, neither shalt thou conceal him:
@@ -417,7 +417,7 @@ DEUTERONOMY
 14:18: And the stork, and the heron after her kind, and the lapwing, and the bat. 
 14:19: And every creeping thing that flieth is unclean unto you: they shall not be eaten.
 14:20: But of all clean fowls ye may eat.
-14:21: Ye shall not eat of any thing that dieth of itself: thou shalt give it unto the stranger that is in thy gates, that he may eat it; or thou mayest sell it unto an alien: for thou art an holy people unto the LORD thy God.  Thou shalt not seethe a kid in his mother's milk.
+14:21: Ye shall not eat of any thing that dieth of itself: thou shalt give it unto the stranger that is in thy gates, that he may eat it; or thou mayest sell it unto an alien: for thou art an holy people unto the LORD thy God. Thou shalt not seethe a kid in his mother's milk.
 14:22: Thou shalt truly tithe all the increase of thy seed, that the field bringeth forth year by year.
 14:23: And thou shalt eat before the LORD thy God, in the place which he shall choose to place his name there, the tithe of thy corn, of thy wine, and of thine oil, and the firstlings of thy herds and of thy flocks; that thou mayest learn to fear the LORD thy God always.
 14:24: And if the way be too long for thee, so that thou art not able to carry it; or if the place be too far from thee, which the LORD thy God shall choose to set his name there, when the LORD thy God hath blessed thee:
@@ -442,7 +442,7 @@ DEUTERONOMY
 15:14: Thou shalt furnish him liberally out of thy flock, and out of thy floor, and out of thy winepress: of that wherewith the LORD thy God hath blessed thee thou shalt give unto him.
 15:15: And thou shalt remember that thou wast a bondman in the land of Egypt, and the LORD thy God redeemed thee: therefore I command thee this thing to day. 
 15:16: And it shall be, if he say unto thee, I will not go away from thee; because he loveth thee and thine house, because he is well with thee; 
-15:17: Then thou shalt take an aul, and thrust it through his ear unto the door, and he shall be thy servant for ever.  And also unto thy maidservant thou shalt do likewise.
+15:17: Then thou shalt take an aul, and thrust it through his ear unto the door, and he shall be thy servant for ever. And also unto thy maidservant thou shalt do likewise.
 15:18: It shall not seem hard unto thee, when thou sendest him away free from thee; for he hath been worth a double hired servant to thee, in serving thee six years: and the LORD thy God shall bless thee in all that thou doest.
 15:19: All the firstling males that come of thy herd and of thy flock thou shalt sanctify unto the LORD thy God: thou shalt do no work with the firstling of thy bullock, nor shear the firstling of thy sheep.
 15:20: Thou shalt eat it before the LORD thy God year by year in the place which the LORD shall choose, thou and thy household.
@@ -477,7 +477,7 @@ DEUTERONOMY
 17:4: And it be told thee, and thou hast heard of it, and enquired diligently, and, behold, it be true, and the thing certain, that such abomination is wrought in Israel:
 17:5: Then shalt thou bring forth that man or that woman, which have committed that wicked thing, unto thy gates, even that man or that woman, and shalt stone them with stones, till they die.
 17:6: At the mouth of two witnesses, or three witnesses, shall he that is worthy of death be put to death; but at the mouth of one witness he shall not be put to death.
-17:7: The hands of the witnesses shall be first upon him to put him to death, and afterward the hands of all the people.  So thou shalt put the evil away from among you.
+17:7: The hands of the witnesses shall be first upon him to put him to death, and afterward the hands of all the people. So thou shalt put the evil away from among you.
 17:8: If there arise a matter too hard for thee in judgment, between blood and blood, between plea and plea, and between stroke and stroke, being matters of controversy within thy gates: then shalt thou arise, and get thee up into the place which the LORD thy God shall choose;
 17:9: And thou shalt come unto the priests the Levites, and unto the judge that shall be in those days, and enquire; and they shall shew thee the sentence of judgment:
 17:10: And thou shalt do according to the sentence, which they of that place which the LORD shall choose shall shew thee; and thou shalt observe to do according to all that they inform thee:
@@ -538,10 +538,10 @@ DEUTERONOMY
 20:2: And it shall be, when ye are come nigh unto the battle, that the priest shall approach and speak unto the people,
 20:3: And shall say unto them, Hear, O Israel, ye approach this day unto battle against your enemies: let not your hearts faint, fear not, and do not tremble, neither be ye terrified because of them;
 20:4: For the LORD your God is he that goeth with you, to fight for you against your enemies, to save you.
-20:5: And the officers shall speak unto the people, saying, What man is there that hath built a new house, and hath not dedicated it?  let him go and return to his house, lest he die in the battle, and another man dedicate it.
-20:6: And what man is he that hath planted a vineyard, and hath not yet eaten of it?  let him also go and return unto his house, lest he die in the battle, and another man eat of it.
-20:7: And what man is there that hath betrothed a wife, and hath not taken her?  let him go and return unto his house, lest he die in the battle, and another man take her.
-20:8: And the officers shall speak further unto the people, and they shall say, What man is there that is fearful and fainthearted?  let him go and return unto his house, lest his brethren's heart faint as well as his heart.
+20:5: And the officers shall speak unto the people, saying, What man is there that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it.
+20:6: And what man is he that hath planted a vineyard, and hath not yet eaten of it? let him also go and return unto his house, lest he die in the battle, and another man eat of it.
+20:7: And what man is there that hath betrothed a wife, and hath not taken her? let him go and return unto his house, lest he die in the battle, and another man take her.
+20:8: And the officers shall speak further unto the people, and they shall say, What man is there that is fearful and fainthearted? let him go and return unto his house, lest his brethren's heart faint as well as his heart.
 20:9: And it shall be, when the officers have made an end of speaking unto the people, that they shall make captains of the armies to lead the people.
 20:10: When thou comest nigh unto a city to fight against it, then proclaim peace unto it.
 20:11: And it shall be, if it make thee answer of peace, and open unto thee, then it shall be, that all the people that is found therein shall be tributaries unto thee, and they shall serve thee.
@@ -561,7 +561,7 @@ DEUTERONOMY
 21:5: And the priests the sons of Levi shall come near; for them the LORD thy God hath chosen to minister unto him, and to bless in the name of the LORD; and by their word shall every controversy and every stroke be tried:
 21:6: And all the elders of that city, that are next unto the slain man, shall wash their hands over the heifer that is beheaded in the valley:
 21:7: And they shall answer and say, Our hands have not shed this blood, neither have our eyes seen it.
-21:8: Be merciful, O LORD, unto thy people Israel, whom thou hast redeemed, and lay not innocent blood unto thy people of Israel's charge.  And the blood shall be forgiven them.
+21:8: Be merciful, O LORD, unto thy people Israel, whom thou hast redeemed, and lay not innocent blood unto thy people of Israel's charge. And the blood shall be forgiven them.
 21:9: So shalt thou put away the guilt of innocent blood from among you, when thou shalt do that which is right in the sight of the LORD.
 21:10: When thou goest forth to war against thine enemies, and the LORD thy God hath delivered them into thine hands, and thou hast taken them captive,
 21:11: And seest among the captives a beautiful woman, and hast a desire unto her, that thou wouldest have her to thy wife;
@@ -593,7 +593,7 @@ DEUTERONOMY
 22:14: And give occasions of speech against her, and bring up an evil name upon her, and say, I took this woman, and when I came to her, I found her not a maid:
 22:15: Then shall the father of the damsel, and her mother, take and bring forth the tokens of the damsel's virginity unto the elders of the city in the gate:
 22:16: And the damsel's father shall say unto the elders, I gave my daughter unto this man to wife, and he hateth her;
-22:17: And, lo, he hath given occasions of speech against her, saying, I found not thy daughter a maid; and yet these are the tokens of my daughter's virginity.  And they shall spread the cloth before the elders of the city.
+22:17: And, lo, he hath given occasions of speech against her, saying, I found not thy daughter a maid; and yet these are the tokens of my daughter's virginity. And they shall spread the cloth before the elders of the city.
 22:18: And the elders of that city shall take that man and chastise him;
 22:19: And they shall amerce him in an hundred shekels of silver, and give them unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days.
 22:20: But if this thing be true, and the tokens of virginity be not found for the damsel:
@@ -682,7 +682,7 @@ DEUTERONOMY
 26:7: And when we cried unto the LORD God of our fathers, the LORD heard our voice, and looked on our affliction, and our labour, and our oppression:
 26:8: And the LORD brought us forth out of Egypt with a mighty hand, and with an outstretched arm, and with great terribleness, and with signs, and with wonders:
 26:9: And he hath brought us into this place, and hath given us this land, even a land that floweth with milk and honey.
-26:10: And now, behold, I have brought the firstfruits of the land, which thou, O LORD, hast given me.  And thou shalt set it before the LORD thy God, and worship before the LORD thy God:
+26:10: And now, behold, I have brought the firstfruits of the land, which thou, O LORD, hast given me. And thou shalt set it before the LORD thy God, and worship before the LORD thy God:
 26:11: And thou shalt rejoice in every good thing which the LORD thy God hath given unto thee, and unto thine house, thou, and the Levite, and the stranger that is among you.
 26:12: When thou hast made an end of tithing all the tithes of thine increase the third year, which is the year of tithing, and hast given it unto the Levite, the stranger, the fatherless, and the widow, that they may eat within thy gates, and be filled;
 26:13: Then thou shalt say before the LORD thy God, I have brought away the hallowed things out of mine house, and also have given them unto the Levite, and unto the stranger, to the fatherless, and to the widow, according to all thy commandments which thou hast commanded me: I have not transgressed thy commandments, neither have I forgotten them:
@@ -706,18 +706,18 @@ DEUTERONOMY
 27:12: These shall stand upon mount Gerizim to bless the people, when ye are come over Jordan; Simeon, and Levi, and Judah, and Issachar, and Joseph, and Benjamin:
 27:13: And these shall stand upon mount Ebal to curse; Reuben, Gad, and Asher, and Zebulun, Dan, and Naphtali.
 27:14: And the Levites shall speak, and say unto all the men of Israel with a loud voice,
-27:15: Cursed be the man that maketh any graven or molten image, an abomination unto the LORD, the work of the hands of the craftsman, and putteth it in a secret place.  And all the people shall answer and say, Amen.
-27:16: Cursed be he that setteth light by his father or his mother.  And all the people shall say, Amen.
-27:17: Cursed be he that removeth his neighbour's landmark.  And all the people shall say, Amen.
-27:18: Cursed be he that maketh the blind to wander out of the way.  And all the people shall say, Amen.
-27:19: Cursed be he that perverteth the judgment of the stranger, fatherless, and widow.  And all the people shall say, Amen.
-27:20: Cursed be he that lieth with his father's wife; because he uncovereth his father's skirt.  And all the people shall say, Amen.
-27:21: Cursed be he that lieth with any manner of beast.  And all the people shall say, Amen.
-27:22: Cursed be he that lieth with his sister, the daughter of his father, or the daughter of his mother.  And all the people shall say, Amen.
-27:23: Cursed be he that lieth with his mother in law.  And all the people shall say, Amen. 
-27:24: Cursed be he that smiteth his neighbour secretly.  And all the people shall say, Amen.
-27:25: Cursed be he that taketh reward to slay an innocent person.  And all the people shall say, Amen. 
-27:26: Cursed be he that confirmeth not all the words of this law to do them.  And all the people shall say, Amen.
+27:15: Cursed be the man that maketh any graven or molten image, an abomination unto the LORD, the work of the hands of the craftsman, and putteth it in a secret place. And all the people shall answer and say, Amen.
+27:16: Cursed be he that setteth light by his father or his mother. And all the people shall say, Amen.
+27:17: Cursed be he that removeth his neighbour's landmark. And all the people shall say, Amen.
+27:18: Cursed be he that maketh the blind to wander out of the way. And all the people shall say, Amen.
+27:19: Cursed be he that perverteth the judgment of the stranger, fatherless, and widow. And all the people shall say, Amen.
+27:20: Cursed be he that lieth with his father's wife; because he uncovereth his father's skirt. And all the people shall say, Amen.
+27:21: Cursed be he that lieth with any manner of beast. And all the people shall say, Amen.
+27:22: Cursed be he that lieth with his sister, the daughter of his father, or the daughter of his mother. And all the people shall say, Amen.
+27:23: Cursed be he that lieth with his mother in law. And all the people shall say, Amen. 
+27:24: Cursed be he that smiteth his neighbour secretly. And all the people shall say, Amen.
+27:25: Cursed be he that taketh reward to slay an innocent person. And all the people shall say, Amen. 
+27:26: Cursed be he that confirmeth not all the words of this law to do them. And all the people shall say, Amen.
 28:1: And it shall come to pass, if thou shalt hearken diligently unto the voice of the LORD thy God, to observe and to do all his commandments which I command thee this day, that the LORD thy God will set thee on high above all nations of the earth:
 28:2: And all these blessings shall come on thee, and overtake thee, if thou shalt hearken unto the voice of the LORD thy God.
 28:3: Blessed shalt thou be in the city, and blessed shalt thou be in the field. 
@@ -784,7 +784,7 @@ DEUTERONOMY
 28:64: And the LORD shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, even wood and stone.
 28:65: And among these nations shalt thou find no ease, neither shall the sole of thy foot have rest: but the LORD shall give thee there a trembling heart, and failing of eyes, and sorrow of mind:
 28:66: And thy life shall hang in doubt before thee; and thou shalt fear day and night, and shalt have none assurance of thy life:
-28:67: In the morning thou shalt say, Would God it were even!  and at even thou shalt say, Would God it were morning!  for the fear of thine heart wherewith thou shalt fear, and for the sight of thine eyes which thou shalt see.
+28:67: In the morning thou shalt say, Would God it were even! and at even thou shalt say, Would God it were morning! for the fear of thine heart wherewith thou shalt fear, and for the sight of thine eyes which thou shalt see.
 28:68: And the LORD shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you.
 29:1: These are the words of the covenant, which the LORD commanded Moses to make with the children of Israel in the land of Moab, beside the covenant which he made with them in Horeb.
 29:2: And Moses called unto all Israel, and said unto them, Ye have seen all that the LORD did before your eyes in the land of Egypt unto Pharaoh, and unto all his servants, and unto all his land;
@@ -809,7 +809,7 @@ DEUTERONOMY
 29:21: And the LORD shall separate him unto evil out of all the tribes of Israel, according to all the curses of the covenant that are written in this book of the law:
 29:22: So that the generation to come of your children that shall rise up after you, and the stranger that shall come from a far land, shall say, when they see the plagues of that land, and the sicknesses which the LORD hath laid upon it;
 29:23: And that the whole land thereof is brimstone, and salt, and burning, that it is not sown, nor beareth, nor any grass groweth therein, like the overthrow of Sodom, and Gomorrah, Admah, and Zeboim, which the LORD overthrew in his anger, and in his wrath:
-29:24: Even all nations shall say, Wherefore hath the LORD done thus unto this land?  what meaneth the heat of this great anger?
+29:24: Even all nations shall say, Wherefore hath the LORD done thus unto this land? what meaneth the heat of this great anger?
 29:25: Then men shall say, Because they have forsaken the covenant of the LORD God of their fathers, which he made with them when he brought them forth out of the land of Egypt:
 29:26: For they went and served other gods, and worshipped them, gods whom they knew not, and whom he had not given unto them:
 29:27: And the anger of the LORD was kindled against this land, to bring upon it all the curses that are written in this book:
@@ -848,10 +848,10 @@ DEUTERONOMY
 31:11: When all Israel is come to appear before the LORD thy God in the place which he shall choose, thou shalt read this law before all Israel in their hearing.
 31:12: Gather the people together, men, and women, and children, and thy stranger that is within thy gates, that they may hear, and that they may learn, and fear the LORD your God, and observe to do all the words of this law:
 31:13: And that their children, which have not known any thing, may hear, and learn to fear the LORD your God, as long as ye live in the land whither ye go over Jordan to possess it.
-31:14: And the LORD said unto Moses, Behold, thy days approach that thou must die: call Joshua, and present yourselves in the tabernacle of the congregation, that I may give him a charge.  And Moses and Joshua went, and presented themselves in the tabernacle of the congregation.
+31:14: And the LORD said unto Moses, Behold, thy days approach that thou must die: call Joshua, and present yourselves in the tabernacle of the congregation, that I may give him a charge. And Moses and Joshua went, and presented themselves in the tabernacle of the congregation.
 31:15: And the LORD appeared in the tabernacle in a pillar of a cloud: and the pillar of the cloud stood over the door of the tabernacle.
 31:16: And the LORD said unto Moses, Behold, thou shalt sleep with thy fathers; and this people will rise up, and go a whoring after the gods of the strangers of the land, whither they go to be among them, and will forsake me, and break my covenant which I have made with them.
-31:17: Then my anger shall be kindled against them in that day, and I will forsake them, and I will hide my face from them, and they shall be devoured, and many evils and troubles shall befall them; so that they will say in that day.  Are not these evils come upon us, because our God is not among us?
+31:17: Then my anger shall be kindled against them in that day, and I will forsake them, and I will hide my face from them, and they shall be devoured, and many evils and troubles shall befall them; so that they will say in that day. Are not these evils come upon us, because our God is not among us?
 31:18: And I will surely hide my face in that day for all the evils which they shall have wrought, in that they are turned unto other gods.
 31:19: Now therefore write ye this song for you, and teach it the children of Israel: put it in their mouths, that this song may be a witness for me against the children of Israel.
 31:20: For when I shall have brought them into the land which I sware unto their fathers, that floweth with milk and honey; and they shall have eaten and filled themselves, and waxen fat; then will they turn unto other gods, and serve them, and provoke me, and break my covenant.
@@ -870,7 +870,7 @@ DEUTERONOMY
 32:3: Because I will publish the name of the LORD: ascribe ye greatness unto our God.
 32:4: He is the Rock, his work is perfect: for all his ways are judgment: a God of truth and without iniquity, just and right is he.
 32:5: They have corrupted themselves, their spot is not the spot of his children: they are a perverse and crooked generation.
-32:6: Do ye thus requite the LORD, O foolish people and unwise?  is not he thy father that hath bought thee?  hath he not made thee, and established thee?
+32:6: Do ye thus requite the LORD, O foolish people and unwise? is not he thy father that hath bought thee? hath he not made thee, and established thee?
 32:7: Remember the days of old, consider the years of many generations: ask thy father, and he will shew thee; thy elders, and they will tell thee.
 32:8: When the most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the children of Israel.
 32:9: For the LORD's portion is his people; Jacob is the lot of his inheritance.
@@ -902,7 +902,7 @@ DEUTERONOMY
 32:35: To me belongeth vengeance, and recompence; their foot shall slide in due time: for the day of their calamity is at hand, and the things that shall come upon them make haste.
 32:36: For the LORD shall judge his people, and repent himself for his servants, when he seeth that their power is gone, and there is none shut up, or left.
 32:37: And he shall say, Where are their gods, their rock in whom they trusted,
-32:38: Which did eat the fat of their sacrifices, and drank the wine of their drink offerings?  let them rise up and help you, and be your protection.
+32:38: Which did eat the fat of their sacrifices, and drank the wine of their drink offerings? let them rise up and help you, and be your protection.
 32:39: See now that I, even I, am he, and there is no god with me: I kill, and I make alive; I wound, and I heal: neither is there any that can deliver out of my hand.
 32:40: For I lift up my hand to heaven, and say, I live for ever. 
 32:41: If I whet my glittering sword, and mine hand take hold on judgment; I will render vengeance to mine enemies, and will reward them that hate me.
@@ -945,8 +945,8 @@ DEUTERONOMY
 33:26: There is none like unto the God of Jeshurun, who rideth upon the heaven in thy help, and in his excellency on the sky.
 33:27: The eternal God is thy refuge, and underneath are the everlasting arms: and he shall thrust out the enemy from before thee; and shall say, Destroy them.
 33:28: Israel then shall dwell in safety alone: the fountain of Jacob shall be upon a land of corn and wine; also his heavens shall drop down dew.
-33:29: Happy art thou, O Israel: who is like unto thee, O people saved by the LORD, the shield of thy help, and who is the sword of thy excellency!  and thine enemies shall be found liars unto thee; and thou shalt tread upon their high places.
-34:1: And Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that is over against Jericho.  And the LORD shewed him all the land of Gilead, unto Dan,
+33:29: Happy art thou, O Israel: who is like unto thee, O people saved by the LORD, the shield of thy help, and who is the sword of thy excellency! and thine enemies shall be found liars unto thee; and thou shalt tread upon their high places.
+34:1: And Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that is over against Jericho. And the LORD shewed him all the land of Gilead, unto Dan,
 34:2: And all Naphtali, and the land of Ephraim, and Manasseh, and all the land of Judah, unto the utmost sea,
 34:3: And the south, and the plain of the valley of Jericho, the city of palm trees, unto Zoar.
 34:4: And the LORD said unto him, This is the land which I sware unto Abraham, unto Isaac, and unto Jacob, saying, I will give it unto thy seed: I have caused thee to see it with thine eyes, but thou shalt not go over thither.

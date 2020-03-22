@@ -8,7 +8,7 @@ DANIEL
 1:7: Unto whom the prince of the eunuchs gave names: for he gave unto Daniel the name of Belteshazzar; and to Hananiah, of Shadrach; and to Mishael, of Meshach; and to Azariah, of Abed-nego.
 1:8: But Daniel purposed in his heart that he would not defile himself with the portion of the king's meat, nor with the wine which he drank: therefore he requested of the prince of the eunuchs that he might not defile himself.
 1:9: Now God had brought Daniel into favour and tender love with the prince of the eunuchs.
-1:10: And the prince of the eunuchs said unto Daniel, I fear my lord the king, who hath appointed your meat and your drink: for why should he see your faces worse liking than the children which are of your sort?  then shall ye make me endanger my head to the king.
+1:10: And the prince of the eunuchs said unto Daniel, I fear my lord the king, who hath appointed your meat and your drink: for why should he see your faces worse liking than the children which are of your sort? then shall ye make me endanger my head to the king.
 1:11: Then said Daniel to Melzar, whom the prince of the eunuchs had set over Daniel, Hananiah, Mishael, and Azariah,
 1:12: Prove thy servants, I beseech thee, ten days; and let them give us pulse to eat, and water to drink.
 1:13: Then let our countenances be looked upon before thee, and the countenance of the children that eat of the portion of the king's meat: and as thou seest, deal with thy servants.
@@ -21,7 +21,7 @@ DANIEL
 1:20: And in all matters of wisdom and understanding, that the king enquired of them, he found them ten times better than all the magicians and astrologers that were in all his realm.
 1:21: And Daniel continued even unto the first year of king Cyrus.
 2:1: And in the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams, wherewith his spirit was troubled, and his sleep brake from him.
-2:2: Then the king commanded to call the magicians, and the astrologers, and the sorcerers, and the Chaldeans, for to shew the king his dreams.  So they came and stood before the king.
+2:2: Then the king commanded to call the magicians, and the astrologers, and the sorcerers, and the Chaldeans, for to shew the king his dreams. So they came and stood before the king.
 2:3: And the king said unto them, I have dreamed a dream, and my spirit was troubled to know the dream. 
 2:4: Then spake the Chaldeans to the king in Syriack, O king, live for ever: tell thy servants the dream, and we will shew the interpretation.
 2:5: The king answered and said to the Chaldeans, The thing is gone from me: if ye will not make known unto me the dream, with the interpretation thereof, ye shall be cut in pieces, and your houses shall be made a dunghill. 
@@ -34,11 +34,11 @@ DANIEL
 2:12: For this cause the king was angry and very furious, and commanded to destroy all the wise men of Babylon.
 2:13: And the decree went forth that the wise men should be slain; and they sought Daniel and his fellows to be slain.
 2:14: Then Daniel answered with counsel and wisdom to Arioch the captain of the king's guard, which was gone forth to slay the wise men of Babylon:
-2:15: He answered and said to Arioch the king's captain, Why is the decree so hasty from the king?  Then Arioch made the thing known to Daniel.
+2:15: He answered and said to Arioch the king's captain, Why is the decree so hasty from the king? Then Arioch made the thing known to Daniel.
 2:16: Then Daniel went in, and desired of the king that he would give him time, and that he would shew the king the interpretation.
 2:17: Then Daniel went to his house, and made the thing known to Hananiah, Mishael, and Azariah, his companions:
 2:18: That they would desire mercies of the God of heaven concerning this secret; that Daniel and his fellows should not perish with the rest of the wise men of Babylon.
-2:19: Then was the secret revealed unto Daniel in a night vision.  Then Daniel blessed the God of heaven.
+2:19: Then was the secret revealed unto Daniel in a night vision. Then Daniel blessed the God of heaven.
 2:20: Daniel answered and said, Blessed be the name of God for ever and ever: for wisdom and might are his:
 2:21: And he changeth the times and the seasons: he removeth kings, and setteth up kings: he giveth wisdom unto the wise, and knowledge to them that know understanding:
 2:22: He revealeth the deep and secret things: he knoweth what is in the darkness, and the light dwelleth with him.
@@ -47,17 +47,17 @@ DANIEL
 2:25: Then Arioch brought in Daniel before the king in haste and said thus unto him, I have found a man of the captives of Judah, that will make known unto the king the interpretation.
 2:26: The king answered and said to Daniel, whose name was Belteshazzar, Art thou able to make known unto me the dream which I have seen, and the interpretation thereof? 
 2:27: Daniel answered in the presence of the king, and said, The secret which the king hath demanded cannot the wise men, the astrologers, the magicians, the soothsayers, shew unto the king;
-2:28: But there is a God in heaven that revealeth secrets, and maketh known to the king Nebuchadnezzar what shall be in the latter days.  Thy dream, and the visions of thy head upon thy bed, are these; 
+2:28: But there is a God in heaven that revealeth secrets, and maketh known to the king Nebuchadnezzar what shall be in the latter days. Thy dream, and the visions of thy head upon thy bed, are these; 
 2:29: As for thee, O king, thy thoughts came into thy mind upon thy bed, what should come to pass hereafter: and he that revealeth secrets maketh known to thee what shall come to pass. 
 2:30: But as for me, this secret is not revealed to me for any wisdom that I have more than any living, but for their sakes that shall make known the interpretation to the king, and that thou mightest know the thoughts of thy heart.
-2:31: Thou, O king, sawest, and behold a great image.  This great image, whose brightness was excellent, stood before thee; and the form thereof was terrible.
+2:31: Thou, O king, sawest, and behold a great image. This great image, whose brightness was excellent, stood before thee; and the form thereof was terrible.
 2:32: This image's head was of fine gold, his breast and his arms of silver, his belly and his thighs of brass,
 2:33: His legs of iron, his feet part of iron and part of clay.
 2:34: Thou sawest till that a stone was cut out without hands, which smote the image upon his feet that were of iron and clay, and brake them to pieces.
 2:35: Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together, and became like the chaff of the summer threshingfloors; and the wind carried them away, that no place was found for them: and the stone that smote the image became a great mountain, and filled the whole earth.
 2:36: This is the dream; and we will tell the interpretation thereof before the king.
 2:37: Thou, O king, art a king of kings: for the God of heaven hath given thee a kingdom, power, and strength, and glory.
-2:38: And wheresoever the children of men dwell, the beasts of the field and the fowls of the heaven hath he given into thine hand, and hath made thee ruler over them all.  Thou art this head of gold.
+2:38: And wheresoever the children of men dwell, the beasts of the field and the fowls of the heaven hath he given into thine hand, and hath made thee ruler over them all. Thou art this head of gold.
 2:39: And after thee shall arise another kingdom inferior to thee, and another third kingdom of brass, which shall bear rule over all the earth.
 2:40: And the fourth kingdom shall be strong as iron: forasmuch as iron breaketh in pieces and subdueth all things: and as iron that breaketh all these, shall it break in pieces and bruise.
 2:41: And whereas thou sawest the feet and toes, part of potters' clay, and part of iron, the kingdom shall be divided; but there shall be in it of the strength of the iron, forasmuch as thou sawest the iron mixed with miry clay.
@@ -81,7 +81,7 @@ DANIEL
 3:10: Thou, O king, hast made a decree, that every man that shall hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, shall fall down and worship the golden image:
 3:11: And whoso falleth not down and worshippeth, that he should be cast into the midst of a burning fiery furnace.
 3:12: There are certain Jews whom thou hast set over the affairs of the province of Babylon, Shadrach, Meshach, and Abed-nego; these men, O king, have not regarded thee: they serve not thy gods, nor worship the golden image which thou hast set up.
-3:13: Then Nebuchadnezzar in his rage and fury commanded to bring Shadrach, Meshach, and Abed-nego.  Then they brought these men before the king.
+3:13: Then Nebuchadnezzar in his rage and fury commanded to bring Shadrach, Meshach, and Abed-nego. Then they brought these men before the king.
 3:14: Nebuchadnezzar spake and said unto them, Is it true, O Shadrach, Meshach, and Abed-nego, do not ye serve my gods, nor worship the golden image which I have set up?
 3:15: Now if ye be ready that at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, ye fall down and worship the image which I have made; well: but if ye worship not, ye shall be cast the same hour into the midst of a burning fiery furnace; and who is that God that shall deliver you out of my hands?
 3:16: Shadrach, Meshach, and Abed-nego, answered and said to the king, O Nebuchadnezzar, we are not careful to answer thee in this matter.
@@ -92,16 +92,16 @@ DANIEL
 3:21: Then these men were bound in their coats, their hosen, and their hats, and their other garments, and were cast into the midst of the burning fiery furnace.
 3:22: Therefore because the king's commandment was urgent, and the furnace exceeding hot, the flame of the fire slew those men that took up Shadrach, Meshach, and Abed-nego.
 3:23: And these three men, Shadrach, Meshach, and Abed-nego, fell down bound into the midst of the burning fiery furnace.
-3:24: Then Nebuchadnezzar the king was astonied, and rose up in haste, and spake, and said unto his counsellers, Did not we cast three men bound into the midst of the fire?  They answered and said unto the king, True, O king.
+3:24: Then Nebuchadnezzar the king was astonied, and rose up in haste, and spake, and said unto his counsellers, Did not we cast three men bound into the midst of the fire? They answered and said unto the king, True, O king.
 3:25: He answered and said, Lo, I see four men loose, walking in the midst of the fire, and they have no hurt; and the form of the fourth is like the Son of God.
-3:26: Then Nebuchadnezzar came near to the mouth of the burning fiery furnace, and spake, and said, Shadrach, Meshach, and Abed-nego, ye servants of the most high God, come forth, and come hither.  Then Shadrach, Meshach, and Abed-nego, came forth of the midst of the fire. 
+3:26: Then Nebuchadnezzar came near to the mouth of the burning fiery furnace, and spake, and said, Shadrach, Meshach, and Abed-nego, ye servants of the most high God, come forth, and come hither. Then Shadrach, Meshach, and Abed-nego, came forth of the midst of the fire. 
 3:27: And the princes, governors, and captains, and the king's counsellers, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head singed, neither were their coats changed, nor the smell of fire had passed on them.
 3:28: Then Nebuchadnezzar spake, and said, Blessed be the God of Shadrach, Meshach, and Abed-nego, who hath sent his angel, and delivered his servants that trusted in him, and have changed the king's word, and yielded their bodies, that they might not serve nor worship any god, except their own God. 
 3:29: Therefore I make a decree, That every people, nation, and language, which speak any thing amiss against the God of Shadrach, Meshach, and Abed-nego, shall be cut in pieces, and their houses shall be made a dunghill: because there is no other God that can deliver after this sort. 
 3:30: Then the king promoted Shadrach, Meshach, and Abed-nego, in the province of Babylon.
 4:1: Nebuchadnezzar the king, unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.
 4:2: I thought it good to shew the signs and wonders that the high God hath wrought toward me.
-4:3: How great are his signs!  and how mighty are his wonders!  his kingdom is an everlasting kingdom, and his dominion is from generation to generation.
+4:3: How great are his signs! and how mighty are his wonders! his kingdom is an everlasting kingdom, and his dominion is from generation to generation.
 4:4: I Nebuchadnezzar was at rest in mine house, and flourishing in my palace:
 4:5: I saw a dream which made me afraid, and the thoughts upon my bed and the visions of my head troubled me.
 4:6: Therefore made I a decree to bring in all the wise men of Babylon before me, that they might make known unto me the interpretation of the dream.
@@ -116,8 +116,8 @@ DANIEL
 4:15: Nevertheless leave the stump of his roots in the earth, even with a band of iron and brass, in the tender grass of the field; and let it be wet with the dew of heaven, and let his portion be with the beasts in the grass of the earth:
 4:16: Let his heart be changed from man's, and let a beast's heart be given unto him; and let seven times pass over him.
 4:17: This matter is by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will, and setteth up over it the basest of men.
-4:18: This dream I king Nebuchadnezzar have seen.  Now thou, O Belteshazzar, declare the interpretation thereof, forasmuch as all the wise men of my kingdom are not able to make known unto me the interpretation: but thou art able; for the spirit of the holy gods is in thee. 
-4:19: Then Daniel, whose name was Belteshazzar, was astonied for one hour, and his thoughts troubled him.  The king spake, and said, Belteshazzar, let not the dream, or the interpretation thereof, trouble thee.  Belteshazzar answered and said, My lord, the dream be to them that hate thee, and the interpretation thereof to thine enemies.
+4:18: This dream I king Nebuchadnezzar have seen. Now thou, O Belteshazzar, declare the interpretation thereof, forasmuch as all the wise men of my kingdom are not able to make known unto me the interpretation: but thou art able; for the spirit of the holy gods is in thee. 
+4:19: Then Daniel, whose name was Belteshazzar, was astonied for one hour, and his thoughts troubled him. The king spake, and said, Belteshazzar, let not the dream, or the interpretation thereof, trouble thee. Belteshazzar answered and said, My lord, the dream be to them that hate thee, and the interpretation thereof to thine enemies.
 4:20: The tree that thou sawest, which grew, and was strong, whose height reached unto the heaven, and the sight thereof to all the earth; 
 4:21: Whose leaves were fair, and the fruit thereof much, and in it was meat for all; under which the beasts of the field dwelt, and upon whose branches the fowls of the heaven had their habitation: 
 4:22: It is thou, O king, that art grown and become strong: for thy greatness is grown, and reacheth unto heaven, and thy dominion to the end of the earth.
@@ -142,13 +142,13 @@ DANIEL
 5:4: They drank wine, and praised the gods of gold, and of silver, of brass, of iron, of wood, and of stone.
 5:5: In the same hour came forth fingers of a man's hand, and wrote over against the candlestick upon the plaister of the wall of the king's palace: and the king saw the part of the hand that wrote.
 5:6: Then the king's countenance was changed, and his thoughts troubled him, so that the joints of his loins were loosed, and his knees smote one against another.
-5:7: The king cried aloud to bring in the astrologers, the Chaldeans, and the soothsayers.  And the king spake, and said to the wise men of Babylon, Whosoever shall read this writing, and shew me the interpretation thereof, shall be clothed with scarlet, and have a chain of gold about his neck, and shall be the third ruler in the kingdom.
+5:7: The king cried aloud to bring in the astrologers, the Chaldeans, and the soothsayers. And the king spake, and said to the wise men of Babylon, Whosoever shall read this writing, and shew me the interpretation thereof, shall be clothed with scarlet, and have a chain of gold about his neck, and shall be the third ruler in the kingdom.
 5:8: Then came in all the king's wise men: but they could not read the writing, nor make known to the king the interpretation thereof.
 5:9: Then was king Belshazzar greatly troubled, and his countenance was changed in him, and his lords were astonied.
 5:10: Now the queen, by reason of the words of the king and his lords, came into the banquet house: and the queen spake and said, O king, live for ever: let not thy thoughts trouble thee, nor let thy countenance be changed:
 5:11: There is a man in thy kingdom, in whom is the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king, I say, thy father, made master of the magicians, astrologers, Chaldeans, and soothsayers;
 5:12: Forasmuch as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and shewing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will shew the interpretation.
-5:13: Then was Daniel brought in before the king.  And the king spake and said unto Daniel, Art thou that Daniel, which art of the children of the captivity of Judah, whom the king my father brought out of Jewry?
+5:13: Then was Daniel brought in before the king. And the king spake and said unto Daniel, Art thou that Daniel, which art of the children of the captivity of Judah, whom the king my father brought out of Jewry?
 5:14: I have even heard of thee, that the spirit of the gods is in thee, and that light and understanding and excellent wisdom is found in thee.
 5:15: And now the wise men, the astrologers, have been brought in before me, that they should read this writing, and make known unto me the interpretation thereof: but they could not shew the interpretation of the thing:
 5:16: And I have heard of thee, that thou canst make interpretations, and dissolve doubts: now if thou canst read the writing, and make known to me the interpretation thereof, thou shalt be clothed with scarlet, and have a chain of gold about thy neck, and shalt be the third ruler in the kingdom.
@@ -178,18 +178,18 @@ DANIEL
 6:9: Wherefore king Darius signed the writing and the decree.
 6:10: Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.
 6:11: Then these men assembled, and found Daniel praying and making supplication before his God.
-6:12: Then they came near, and spake before the king concerning the king's decree; Hast thou not signed a decree, that every man that shall ask a petition of any God or man within thirty days, save of thee, O king, shall be cast into the den of lions?  The king answered and said, The thing is true, according to the law of the Medes and Persians, which altereth not. 
+6:12: Then they came near, and spake before the king concerning the king's decree; Hast thou not signed a decree, that every man that shall ask a petition of any God or man within thirty days, save of thee, O king, shall be cast into the den of lions? The king answered and said, The thing is true, according to the law of the Medes and Persians, which altereth not. 
 6:13: Then answered they and said before the king, That Daniel, which is of the children of the captivity of Judah, regardeth not thee, O king, nor the decree that thou hast signed, but maketh his petition three times a day.
 6:14: Then the king, when he heard these words, was sore displeased with himself, and set his heart on Daniel to deliver him: and he laboured till the going down of the sun to deliver him. 
 6:15: Then these men assembled unto the king, and said unto the king, Know, O king, that the law of the Medes and Persians is, That no decree nor statute which the king establisheth may be changed. 
-6:16: Then the king commanded, and they brought Daniel, and cast him into the den of lions.  Now the king spake and said unto Daniel, Thy God whom thou servest continually, he will deliver thee.
+6:16: Then the king commanded, and they brought Daniel, and cast him into the den of lions. Now the king spake and said unto Daniel, Thy God whom thou servest continually, he will deliver thee.
 6:17: And a stone was brought and laid upon the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that the purpose might not be changed concerning Daniel.
 6:18: Then the king went to his palace, and passed the night fasting: neither were instruments of musick brought before him: and his sleep went from him.
 6:19: Then the king arose very early in the morning, and went in haste unto the den of lions.
 6:20: And when he came to the den, he cried with a lamentable voice unto Daniel: and the king spake and said to Daniel, O Daniel, servant of the living God, is thy God, whom thou servest continually, able to deliver thee from the lions?
 6:21: Then said Daniel unto the king, O king, live for ever.
 6:22: My God hath sent his angel, and hath shut the lions' mouths, that they have not hurt me: forasmuch as before him innocency was found in me; and also before thee, O king, have I done no hurt.
-6:23: Then was the king exceeding glad for him, and commanded that they should take Daniel up out of the den.  So Daniel was taken up out of the den, and no manner of hurt was found upon him, because he believed in his God.
+6:23: Then was the king exceeding glad for him, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no manner of hurt was found upon him, because he believed in his God.
 6:24: And the king commanded, and they brought those men which had accused Daniel, and they cast them into the den of lions, them, their children, and their wives; and the lions had the mastery of them, and brake all their bones in pieces or ever they came at the bottom of the den.
 6:25: Then king Darius wrote unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.
 6:26: I make a decree, That in every dominion of my kingdom men tremble and fear before the God of Daniel: for he is the living God, and stedfast for ever, and his kingdom that which shall not be destroyed, and his dominion shall be even unto the end.
@@ -210,7 +210,7 @@ DANIEL
 7:13: I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.
 7:14: And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.
 7:15: I Daniel was grieved in my spirit in the midst of my body, and the visions of my head troubled me.
-7:16: I came near unto one of them that stood by, and asked him the truth of all this.  So he told me, and made me know the interpretation of the things.
+7:16: I came near unto one of them that stood by, and asked him the truth of all this. So he told me, and made me know the interpretation of the things.
 7:17: These great beasts, which are four, are four kings, which shall arise out of the earth.
 7:18: But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever.
 7:19: Then I would know the truth of the fourth beast, which was diverse from all the others, exceeding dreadful, whose teeth were of iron, and his nails of brass; which devoured, brake in pieces, and stamped the residue with his feet;
@@ -222,7 +222,7 @@ DANIEL
 7:25: And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time. 
 7:26: But the judgment shall sit, and they shall take away his dominion, to consume and to destroy it unto the end. 
 7:27: And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him.
-7:28: Hitherto is the end of the matter.  As for me Daniel, my cogitations much troubled me, and my countenance changed in me: but I kept the matter in my heart.
+7:28: Hitherto is the end of the matter. As for me Daniel, my cogitations much troubled me, and my countenance changed in me: but I kept the matter in my heart.
 8:1: In the third year of the reign of king Belshazzar a vision appeared unto me, even unto me Daniel, after that which appeared unto me at the first.
 8:2: And I saw in a vision; and it came to pass, when I saw, that I was at Shushan in the palace, which is in the province of Elam; and I saw in a vision, and I was by the river of Ulai.
 8:3: Then I lifted up mine eyes, and saw, and, behold, there stood before the river a ram which had two horns: and the two horns were high; but one was higher than the other, and the higher came up last.
@@ -287,19 +287,19 @@ DANIEL
 10:8: Therefore I was left alone, and saw this great vision, and there remained no strength in me: for my comeliness was turned in me into corruption, and I retained no strength. 
 10:9: Yet heard I the voice of his words: and when I heard the voice of his words, then was I in a deep sleep on my face, and my face toward the ground. 
 10:10: And, behold, an hand touched me, which set me upon my knees and upon the palms of my hands.
-10:11: And he said unto me, O Daniel, a man greatly beloved, understand the words that I speak unto thee, and stand upright: for unto thee am I now sent.  And when he had spoken this word unto me, I stood trembling.
+10:11: And he said unto me, O Daniel, a man greatly beloved, understand the words that I speak unto thee, and stand upright: for unto thee am I now sent. And when he had spoken this word unto me, I stood trembling.
 10:12: Then said he unto me, Fear not, Daniel: for from the first day that thou didst set thine heart to understand, and to chasten thyself before thy God, thy words were heard, and I am come for thy words.
 10:13: But the prince of the kingdom of Persia withstood me one and twenty days: but, lo, Michael, one of the chief princes, came to help me; and I remained there with the kings of Persia.
 10:14: Now I am come to make thee understand what shall befall thy people in the latter days: for yet the vision is for many days.
 10:15: And when he had spoken such words unto me, I set my face toward the ground, and I became dumb.
 10:16: And, behold, one like the similitude of the sons of men touched my lips: then I opened my mouth, and spake, and said unto him that stood before me, O my lord, by the vision my sorrows are turned upon me, and I have retained no strength.
-10:17: For how can the servant of this my lord talk with this my lord?  for as for me, straightway there remained no strength in me, neither is there breath left in me.
+10:17: For how can the servant of this my lord talk with this my lord? for as for me, straightway there remained no strength in me, neither is there breath left in me.
 10:18: Then there came again and touched me one like the appearance of a man, and he strengthened me,
-10:19: And said, O man greatly beloved, fear not: peace be unto thee, be strong, yea, be strong.  And when he had spoken unto me, I was strengthened, and said, Let my lord speak; for thou hast strengthened me.
-10:20: Then said he, Knowest thou wherefore I come unto thee?  and now will I return to fight with the prince of Persia: and when I am gone forth, lo, the prince of Grecia shall come.
+10:19: And said, O man greatly beloved, fear not: peace be unto thee, be strong, yea, be strong. And when he had spoken unto me, I was strengthened, and said, Let my lord speak; for thou hast strengthened me.
+10:20: Then said he, Knowest thou wherefore I come unto thee? and now will I return to fight with the prince of Persia: and when I am gone forth, lo, the prince of Grecia shall come.
 10:21: But I will shew thee that which is noted in the scripture of truth: and there is none that holdeth with me in these things, but Michael your prince.
 11:1: Also I in the first year of Darius the Mede, even I, stood to confirm and to strengthen him.
-11:2: And now will I shew thee the truth.  Behold, there shall stand up yet three kings in Persia; and the fourth shall be far richer than they all: and by his strength through his riches he shall stir up all against the realm of Grecia.
+11:2: And now will I shew thee the truth. Behold, there shall stand up yet three kings in Persia; and the fourth shall be far richer than they all: and by his strength through his riches he shall stir up all against the realm of Grecia.
 11:3: And a mighty king shall stand up, that shall rule with great dominion, and do according to his will.
 11:4: And when he shall stand up, his kingdom shall be broken, and shall be divided toward the four winds of heaven; and not to his posterity, nor according to his dominion which he ruled: for his kingdom shall be plucked up, even for others beside those.
 11:5: And the king of the south shall be strong, and one of his princes; and he shall be strong above him, and have dominion; his dominion shall be a great dominion.

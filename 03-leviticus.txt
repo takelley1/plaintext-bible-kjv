@@ -119,8 +119,8 @@ LEVITICUS
 6:14: And this is the law of the meat offering: the sons of Aaron shall offer it before the LORD, before the altar.
 6:15: And he shall take of it his handful, of the flour of the meat offering, and of the oil thereof, and all the frankincense which is upon the meat offering, and shall burn it upon the altar for a sweet savour, even the memorial of it, unto the LORD. 
 6:16: And the remainder thereof shall Aaron and his sons eat: with unleavened bread shall it be eaten in the holy place; in the court of the tabernacle of the congregation they shall eat it.
-6:17: It shall not be baken with leaven.  I have given it unto them for their portion of my offerings made by fire; it is most holy, as is the sin offering, and as the trespass offering. 
-6:18: All the males among the children of Aaron shall eat of it.  It shall be a statute for ever in your generations concerning the offerings of the LORD made by fire: every one that toucheth them shall be holy. 
+6:17: It shall not be baken with leaven. I have given it unto them for their portion of my offerings made by fire; it is most holy, as is the sin offering, and as the trespass offering. 
+6:18: All the males among the children of Aaron shall eat of it. It shall be a statute for ever in your generations concerning the offerings of the LORD made by fire: every one that toucheth them shall be holy. 
 6:19: And the LORD spake unto Moses, saying,
 6:20: This is the offering of Aaron and of his sons, which they shall offer unto the LORD in the day when he is anointed; the tenth part of an ephah of fine flour for a meat offering perpetual, half of it in the morning, and half thereof at night.
 6:21: In a pan it shall be made with oil; and when it is baken, thou shalt bring it in: and the baken pieces of the meat offering shalt thou offer for a sweet savour unto the LORD.
@@ -233,11 +233,11 @@ LEVITICUS
 9:24: And there came a fire out from before the LORD, and consumed upon the altar the burnt offering and the fat: which when all the people saw, they shouted, and fell on their faces.
 10:1: And Nadab and Abihu, the sons of Aaron, took either of them his censer, and put fire therein, and put incense thereon, and offered strange fire before the LORD, which he commanded them not.
 10:2: And there went out fire from the LORD, and devoured them, and they died before the LORD.
-10:3: Then Moses said unto Aaron, This is it that the LORD spake, saying, I will be sanctified in them that come nigh me, and before all the people I will be glorified.  And Aaron held his peace.
+10:3: Then Moses said unto Aaron, This is it that the LORD spake, saying, I will be sanctified in them that come nigh me, and before all the people I will be glorified. And Aaron held his peace.
 10:4: And Moses called Mishael and Elzaphan, the sons of Uzziel the uncle of Aaron, and said unto them, Come near, carry your brethren from before the sanctuary out of the camp.
 10:5: So they went near, and carried them in their coats out of the camp; as Moses had said.
 10:6: And Moses said unto Aaron, and unto Eleazar and unto Ithamar, his sons, Uncover not your heads, neither rend your clothes; lest ye die, and lest wrath come upon all the people: but let your brethren, the whole house of Israel, bewail the burning which the LORD hath kindled. 
-10:7: And ye shall not go out from the door of the tabernacle of the congregation, lest ye die: for the anointing oil of the LORD is upon you.  And they did according to the word of Moses.
+10:7: And ye shall not go out from the door of the tabernacle of the congregation, lest ye die: for the anointing oil of the LORD is upon you. And they did according to the word of Moses.
 10:8: And the LORD spake unto Aaron, saying, 
 10:9: Do not drink wine nor strong drink, thou, nor thy sons with thee, when ye go into the tabernacle of the congregation, lest ye die: it shall be a statute for ever throughout your generations: 
 10:10: And that ye may put difference between holy and unholy, and between unclean and clean;
@@ -304,7 +304,7 @@ LEVITICUS
 12:4: And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.
 12:5: But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days.
 12:6: And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:
-12:7: Who shall offer it before the LORD, and make an atonement for her; and she shall be cleansed from the issue of her blood.  This is the law for her that hath born a male or a female.
+12:7: Who shall offer it before the LORD, and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that hath born a male or a female.
 12:8: And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean.
 13:1: And the LORD spake unto Moses and Aaron, saying,
 13:2: When a man shall have in the skin of his flesh a rising, a scab, or a bright spot, and it be in the skin of his flesh like the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests:
@@ -488,14 +488,14 @@ LEVITICUS
 16:31: It shall be a sabbath of rest unto you, and ye shall afflict your souls, by a statute for ever.
 16:32: And the priest, whom he shall anoint, and whom he shall consecrate to minister in the priest's office in his father's stead, shall make the atonement, and shall put on the linen clothes, even the holy garments:
 16:33: And he shall make an atonement for the holy sanctuary, and he shall make an atonement for the tabernacle of the congregation, and for the altar, and he shall make an atonement for the priests, and for all the people of the congregation.
-16:34: And this shall be an everlasting statute unto you, to make an atonement for the children of Israel for all their sins once a year.  And he did as the LORD commanded Moses. 
+16:34: And this shall be an everlasting statute unto you, to make an atonement for the children of Israel for all their sins once a year. And he did as the LORD commanded Moses. 
 17:1: And the LORD spake unto Moses, saying, 
 17:2: Speak unto Aaron, and unto his sons, and unto all the children of Israel, and say unto them; This is the thing which the LORD hath commanded, saying, 
 17:3: What man soever there be of the house of Israel, that killeth an ox, or lamb, or goat, in the camp, or that killeth it out of the camp,
 17:4: And bringeth it not unto the door of the tabernacle of the congregation, to offer an offering unto the LORD before the tabernacle of the LORD; blood shall be imputed unto that man; he hath shed blood; and that man shall be cut off from among his people:
 17:5: To the end that the children of Israel may bring their sacrifices, which they offer in the open field, even that they may bring them unto the LORD, unto the door of the tabernacle of the congregation, unto the priest, and offer them for peace offerings unto the LORD.
 17:6: And the priest shall sprinkle the blood upon the altar of the LORD at the door of the tabernacle of the congregation, and burn the fat for a sweet savour unto the LORD.
-17:7: And they shall no more offer their sacrifices unto devils, after whom they have gone a whoring.  This shall be a statute for ever unto them throughout their generations.
+17:7: And they shall no more offer their sacrifices unto devils, after whom they have gone a whoring. This shall be a statute for ever unto them throughout their generations.
 17:8: And thou shalt say unto them, Whatsoever man there be of the house of Israel, or of the strangers which sojourn among you, that offereth a burnt offering of sacrifice,
 17:9: And bringeth it not unto the door of the tabernacle of the congregation, to offer it unto the LORD; even that man shall be cut off from among his people.
 17:10: And whatsoever man there be of the house of Israel, or of the strangers that sojourn among you, that eateth any manner of blood; I will even set my face against that soul that eateth blood, and will cut him off from among his people.
@@ -553,7 +553,7 @@ LEVITICUS
 19:16: Thou shalt not go up and down as a talebearer among thy people: neither shalt thou stand against the blood of thy neighbour: I am the LORD.
 19:17: Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
 19:18: Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the LORD.
-19:19: Ye shall keep my statutes.  Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with mingled seed: neither shall a garment mingled of linen and woollen come upon thee. 
+19:19: Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with mingled seed: neither shall a garment mingled of linen and woollen come upon thee. 
 19:20: And whosoever lieth carnally with a woman, that is a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she shall be scourged; they shall not be put to death, because she was not free.
 19:21: And he shall bring his trespass offering unto the LORD, unto the door of the tabernacle of the congregation, even a ram for a trespass offering. 
 19:22: And the priest shall make an atonement for him with the ram of the trespass offering before the LORD for his sin which he hath done: and the sin which he hath done shall be forgiven him. 
@@ -626,7 +626,7 @@ LEVITICUS
 22:1: And the LORD spake unto Moses, saying,
 22:2: Speak unto Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they profane not my holy name in those things which they hallow unto me: I am the LORD.
 22:3: Say unto them, Whosoever he be of all your seed among your generations, that goeth unto the holy things, which the children of Israel hallow unto the LORD, having his uncleanness upon him, that soul shall be cut off from my presence: I am the LORD.
-22:4: What man soever of the seed of Aaron is a leper, or hath a running issue; he shall not eat of the holy things, until he be clean.  And whoso toucheth any thing that is unclean by the dead, or a man whose seed goeth from him;
+22:4: What man soever of the seed of Aaron is a leper, or hath a running issue; he shall not eat of the holy things, until he be clean. And whoso toucheth any thing that is unclean by the dead, or a man whose seed goeth from him;
 22:5: Or whosoever toucheth any creeping thing, whereby he may be made unclean, or a man of whom he may take uncleanness, whatsoever uncleanness he hath;
 22:6: The soul which hath touched any such shall be unclean until even, and shall not eat of the holy things, unless he wash his flesh with water.
 22:7: And when the sun is down, he shall be clean, and shall afterward eat of the holy things; because it is his food.
@@ -696,7 +696,7 @@ LEVITICUS
 23:38: Beside the sabbaths of the LORD, and beside your gifts, and beside all your vows, and beside all your freewill offerings, which ye give unto the LORD.
 23:39: Also in the fifteenth day of the seventh month, when ye have gathered in the fruit of the land, ye shall keep a feast unto the LORD seven days: on the first day shall be a sabbath, and on the eighth day shall be a sabbath.
 23:40: And ye shall take you on the first day the boughs of goodly trees, branches of palm trees, and the boughs of thick trees, and willows of the brook; and ye shall rejoice before the LORD your God seven days. 
-23:41: And ye shall keep it a feast unto the LORD seven days in the year.  It shall be a statute for ever in your generations: ye shall celebrate it in the seventh month.
+23:41: And ye shall keep it a feast unto the LORD seven days in the year. It shall be a statute for ever in your generations: ye shall celebrate it in the seventh month.
 23:42: Ye shall dwell in booths seven days; all that are Israelites born shall dwell in booths: 
 23:43: That your generations may know that I made the children of Israel to dwell in booths, when I brought them out of the land of Egypt: I am the LORD your God. 
 23:44: And Moses declared unto the children of Israel the feasts of the LORD.
@@ -710,7 +710,7 @@ LEVITICUS
 24:8: Every sabbath he shall set it in order before the LORD continually, being taken from the children of Israel by an everlasting covenant.
 24:9: And it shall be Aaron's and his sons'; and they shall eat it in the holy place: for it is most holy unto him of the offerings of the LORD made by fire by a perpetual statute.
 24:10: And the son of an Israelitish woman, whose father was an Egyptian, went out among the children of Israel: and this son of the Israelitish woman and a man of Israel strove together in the camp;
-24:11: And the Israelitish woman's son blasphemed the name of the LORD, and cursed.  And they brought him unto Moses: (and his mother's name was Shelomith, the daughter of Dibri, of the tribe of Dan:)
+24:11: And the Israelitish woman's son blasphemed the name of the LORD, and cursed. And they brought him unto Moses: (and his mother's name was Shelomith, the daughter of Dibri, of the tribe of Dan:)
 24:12: And they put him in ward, that the mind of the LORD might be shewed them.
 24:13: And the LORD spake unto Moses, saying,
 24:14: Bring forth him that hath cursed without the camp; and let all that heard him lay their hands upon his head, and let all the congregation stone him.
@@ -722,7 +722,7 @@ LEVITICUS
 24:20: Breach for breach, eye for eye, tooth for tooth: as he hath caused a blemish in a man, so shall it be done to him again. 
 24:21: And he that killeth a beast, he shall restore it: and he that killeth a man, he shall be put to death. 
 24:22: Ye shall have one manner of law, as well for the stranger, as for one of your own country: for I am the LORD your God.
-24:23: And Moses spake to the children of Israel, that they should bring forth him that had cursed out of the camp, and stone him with stones.  And the children of Israel did as the LORD commanded Moses.
+24:23: And Moses spake to the children of Israel, that they should bring forth him that had cursed out of the camp, and stone him with stones. And the children of Israel did as the LORD commanded Moses.
 25:1: And the LORD spake unto Moses in mount Sinai, saying,
 25:2: Speak unto the children of Israel, and say unto them, When ye come into the land which I give you, then shall the land keep a sabbath unto the LORD.
 25:3: Six years thou shalt sow thy field, and six years thou shalt prune thy vineyard, and gather in the fruit thereof;
@@ -742,7 +742,7 @@ LEVITICUS
 25:17: Ye shall not therefore oppress one another; but thou shalt fear thy God: for I am the LORD your God. 
 25:18: Wherefore ye shall do my statutes, and keep my judgments, and do them; and ye shall dwell in the land in safety.
 25:19: And the land shall yield her fruit, and he shall eat your fill, and dwell therein in safety. 
-25:20: And if ye shall say, What shall we eat the seventh year?  behold, we shall not sow, nor gather in our increase: 
+25:20: And if ye shall say, What shall we eat the seventh year? behold, we shall not sow, nor gather in our increase: 
 25:21: Then I will command my blessing upon you in the sixth year, and it shall bring forth fruit for three years.
 25:22: And ye shall sow the eighth year, and eat yet of old fruit until the ninth year; until her fruits come in ye shall eat of the old store.
 25:23: The land shall not be sold for ever: for the land is mine; for ye are strangers and sojourners with me.

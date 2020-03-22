@@ -3,7 +3,7 @@ EZEKIEL
 1:2: In the fifth day of the month, which was the fifth year of king Jehoiachin's captivity, 
 1:3: The word of the LORD came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the LORD was there upon him.
 1:4: And I looked, and, behold, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness was about it, and out of the midst thereof as the colour of amber, out of the midst of the fire. 
-1:5: Also out of the midst thereof came the likeness of four living creatures.  And this was their appearance; they had the likeness of a man. 
+1:5: Also out of the midst thereof came the likeness of four living creatures. And this was their appearance; they had the likeness of a man. 
 1:6: And every one had four faces, and every one had four wings.
 1:7: And their feet were straight feet; and the sole of their feet was like the sole of a calf's foot: and they sparkled like the colour of burnished brass.
 1:8: And they had the hands of a man under their wings on their four sides; and they four had their faces and their wings.
@@ -26,11 +26,11 @@ EZEKIEL
 1:25: And there was a voice from the firmament that was over their heads, when they stood, and had let down their wings. 
 1:26: And above the firmament that was over their heads was the likeness of a throne, as the appearance of a sapphire stone: and upon the likeness of the throne was the likeness as the appearance of a man above upon it.
 1:27: And I saw as the colour of amber, as the appearance of fire round about within it, from the appearance of his loins even upward, and from the appearance of his loins even downward, I saw as it were the appearance of fire, and it had brightness round about. 
-1:28: As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about.  This was the appearance of the likeness of the glory of the LORD.  And when I saw it, I fell upon my face, and I heard a voice of one that spake. 
+1:28: As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about. This was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell upon my face, and I heard a voice of one that spake. 
 2:1: And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee.
 2:2: And the spirit entered into me when he spake unto me, and set me upon my feet, that I heard him that spake unto me.
 2:3: And he said unto me, Son of man, I send thee to the children of Israel, to a rebellious nation that hath rebelled against me: they and their fathers have transgressed against me, even unto this very day.
-2:4: For they are impudent children and stiffhearted.  I do send thee unto them; and thou shalt say unto them, Thus saith the Lord GOD.
+2:4: For they are impudent children and stiffhearted. I do send thee unto them; and thou shalt say unto them, Thus saith the Lord GOD.
 2:5: And they, whether they will hear, or whether they will forbear, (for they are a rebellious house,) yet shall know that there hath been a prophet among them.
 2:6: And thou, son of man, be not afraid of them, neither be afraid of their words, though briers and thorns be with thee, and thou dost dwell among scorpions: be not afraid of their words, nor be dismayed at their looks, though they be a rebellious house.
 2:7: And thou shalt speak my words unto them, whether they will hear, or whether they will forbear: for they are most rebellious.
@@ -39,10 +39,10 @@ EZEKIEL
 2:10: And he spread it before me; and it was written within and without: and there was written therein lamentations, and mourning, and woe.
 3:1: Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel.
 3:2: So I opened my mouth, and he caused me to eat that roll.
-3:3: And he said unto me, Son of man, cause thy belly to eat, and fill thy bowels with this roll that I give thee.  Then did I eat it; and it was in my mouth as honey for sweetness.
+3:3: And he said unto me, Son of man, cause thy belly to eat, and fill thy bowels with this roll that I give thee. Then did I eat it; and it was in my mouth as honey for sweetness.
 3:4: And he said unto me, Son of man, go, get thee unto the house of Israel, and speak with my words unto them.
 3:5: For thou art not sent to a people of a strange speech and of an hard language, but to the house of Israel;
-3:6: Not to many people of a strange speech and of an hard language, whose words thou canst not understand.  Surely, had I sent thee to them, they would have hearkened unto thee.
+3:6: Not to many people of a strange speech and of an hard language, whose words thou canst not understand. Surely, had I sent thee to them, they would have hearkened unto thee.
 3:7: But the house of Israel will not hearken unto thee; for they will not hearken unto me: for all the house of Israel are impudent and hardhearted.
 3:8: Behold, I have made thy face strong against their faces, and thy forehead strong against their foreheads. 
 3:9: As an adamant harder than flint have I made thy forehead: fear them not, neither be dismayed at their looks, though they be a rebellious house.
@@ -66,7 +66,7 @@ EZEKIEL
 3:27: But when I speak with thee, I will open thy mouth, and thou shalt say unto them, Thus saith the Lord GOD; He that heareth, let him hear; and he that forbeareth, let him forbear: for they are a rebellious house.
 4:1: Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it the city, even Jerusalem:
 4:2: And lay siege against it, and build a fort against it, and cast a mount against it; set the camp also against it, and set battering rams against it round about.
-4:3: Moreover take thou unto thee an iron pan, and set it for a wall of iron between thee and the city: and set thy face against it, and it shall be besieged, and thou shalt lay siege against it.  This shall be a sign to the house of Israel. 
+4:3: Moreover take thou unto thee an iron pan, and set it for a wall of iron between thee and the city: and set thy face against it, and it shall be besieged, and thou shalt lay siege against it. This shall be a sign to the house of Israel. 
 4:4: Lie thou also upon thy left side, and lay the iniquity of the house of Israel upon it: according to the number of the days that thou shalt lie upon it thou shalt bear their iniquity.
 4:5: For I have laid upon thee the years of their iniquity, according to the number of the days, three hundred and ninety days: so shalt thou bear the iniquity of the house of Israel. 
 4:6: And when thou hast accomplished them, lie again on thy right side, and thou shalt bear the iniquity of the house of Judah forty days: I have appointed thee each day for a year.
@@ -77,7 +77,7 @@ EZEKIEL
 4:11: Thou shalt drink also water by measure, the sixth part of an hin: from time to time shalt thou drink.
 4:12: And thou shalt eat it as barley cakes, and thou shalt bake it with dung that cometh out of man, in their sight. 
 4:13: And the LORD said, Even thus shall the children of Israel eat their defiled bread among the Gentiles, whither I will drive them. 
-4:14: Then said I, Ah Lord GOD!  behold, my soul hath not been polluted: for from my youth up even till now have I not eaten of that which dieth of itself, or is torn in pieces; neither came there abominable flesh into my mouth.
+4:14: Then said I, Ah Lord GOD! behold, my soul hath not been polluted: for from my youth up even till now have I not eaten of that which dieth of itself, or is torn in pieces; neither came there abominable flesh into my mouth.
 4:15: Then he said unto me, Lo, I have given thee cow's dung for man's dung, and thou shalt prepare thy bread therewith.
 4:16: Moreover he said unto me, Son of man, behold, I will break the staff of bread in Jerusalem: and they shall eat bread by weight, and with care; and they shall drink water by measure, and with astonishment:
 4:17: That they may want bread and water, and be astonied one with another, and consume away for their iniquity.
@@ -95,9 +95,9 @@ EZEKIEL
 5:12: A third part of thee shall die with the pestilence, and with famine shall they be consumed in the midst of thee: and a third part shall fall by the sword round about thee and I will scatter a third part into all the winds, and I will draw out a sword after them.
 5:13: Thus shall mine anger be accomplished, and I will cause my fury to rest upon them, and I will be comforted: and they shall know that I the LORD have spoken it in my zeal, when I have accomplished my fury in them.
 5:14: Moreover I will make thee waste, and a reproach among the nations that are round about thee, in the sight of all that pass by.
-5:15: So it shall be a reproach and a taunt, an instruction and an astonishment unto the nations that are round about thee, when I shall execute judgments in thee in anger and in fury and in furious rebukes.  I the LORD have spoken it. 
+5:15: So it shall be a reproach and a taunt, an instruction and an astonishment unto the nations that are round about thee, when I shall execute judgments in thee in anger and in fury and in furious rebukes. I the LORD have spoken it. 
 5:16: When I shall send upon them the evil arrows of famine, which shall be for their destruction, and which I will send to destroy you: and I will increase the famine upon you, and will break your staff of bread:
-5:17: So will I send upon you famine and evil beasts, and they shall bereave thee; and pestilence and blood shall pass through thee; and I will bring the sword upon thee.  I the LORD have spoken it. 
+5:17: So will I send upon you famine and evil beasts, and they shall bereave thee; and pestilence and blood shall pass through thee; and I will bring the sword upon thee. I the LORD have spoken it. 
 6:1: And the word of the LORD came unto me, saying,
 6:2: Son of man, set thy face toward the mountains of Israel, and prophesy against them,
 6:3: And say, Ye mountains of Israel, hear the word of the Lord GOD; Thus saith the Lord GOD to the mountains, and to the hills, to the rivers, and to the valleys; Behold, I, even I, will bring a sword upon you, and I will destroy your high places.
@@ -108,7 +108,7 @@ EZEKIEL
 6:8: Yet will I leave a remnant, that ye may have some that shall escape the sword among the nations, when ye shall be scattered through the countries.
 6:9: And they that escape of you shall remember me among the nations whither they shall be carried captives, because I am broken with their whorish heart, which hath departed from me, and with their eyes, which go a whoring after their idols: and they shall lothe themselves for the evils which they have committed in all their abominations.
 6:10: And they shall know that I am the LORD, and that I have not said in vain that I would do this evil unto them.
-6:11: Thus saith the Lord GOD; Smite with thine hand, and stamp with thy foot, and say, Alas for all the evil abominations of the house of Israel!  for they shall fall by the sword, by the famine, and by the pestilence.
+6:11: Thus saith the Lord GOD; Smite with thine hand, and stamp with thy foot, and say, Alas for all the evil abominations of the house of Israel! for they shall fall by the sword, by the famine, and by the pestilence.
 6:12: He that is far off shall die of the pestilence; and he that is near shall fall by the sword; and he that remaineth and is besieged shall die by the famine: thus will I accomplish my fury upon them.
 6:13: Then shall ye know that I am the LORD, when their slain men shall be among their idols round about their altars, upon every high hill, in all the tops of the mountains, and under every green tree, and under every thick oak, the place where they did offer sweet savour to all their idols.
 6:14: So will I stretch out my hand upon them, and make the land desolate, yea, more desolate than the wilderness toward Diblath, in all their habitations: and they shall know that I am the LORD.
@@ -143,33 +143,33 @@ EZEKIEL
 8:2: Then I beheld, and lo a likeness as the appearance of fire: from the appearance of his loins even downward, fire; and from his loins even upward, as the appearance of brightness, as the colour of amber.
 8:3: And he put forth the form of an hand, and took me by a lock of mine head; and the spirit lifted me up between the earth and the heaven, and brought me in the visions of God to Jerusalem, to the door of the inner gate that looketh toward the north; where was the seat of the image of jealousy, which provoketh to jealousy. 
 8:4: And, behold, the glory of the God of Israel was there, according to the vision that I saw in the plain.
-8:5: Then said he unto me, Son of man, lift up thine eyes now the way toward the north.  So I lifted up mine eyes the way toward the north, and behold northward at the gate of the altar this image of jealousy in the entry. 
-8:6: He said furthermore unto me, Son of man, seest thou what they do?  even the great abominations that the house of Israel committeth here, that I should go far off from my sanctuary?  but turn thee yet again, and thou shalt see greater abominations. 
+8:5: Then said he unto me, Son of man, lift up thine eyes now the way toward the north. So I lifted up mine eyes the way toward the north, and behold northward at the gate of the altar this image of jealousy in the entry. 
+8:6: He said furthermore unto me, Son of man, seest thou what they do? even the great abominations that the house of Israel committeth here, that I should go far off from my sanctuary? but turn thee yet again, and thou shalt see greater abominations. 
 8:7: And he brought me to the door of the court; and when I looked, behold a hole in the wall.
 8:8: Then said he unto me, Son of man, dig now in the wall: and when I had digged in the wall, behold a door.
 8:9: And he said unto me, Go in, and behold the wicked abominations that they do here.
 8:10: So I went in and saw; and behold every form of creeping things, and abominable beasts, and all the idols of the house of Israel, pourtrayed upon the wall round about.
 8:11: And there stood before them seventy men of the ancients of the house of Israel, and in the midst of them stood Jaazaniah the son of Shaphan, with every man his censer in his hand; and a thick cloud of incense went up.
-8:12: Then said he unto me, Son of man, hast thou seen what the ancients of the house of Israel do in the dark, every man in the chambers of his imagery?  for they say, The LORD seeth us not; the LORD hath forsaken the earth.
+8:12: Then said he unto me, Son of man, hast thou seen what the ancients of the house of Israel do in the dark, every man in the chambers of his imagery? for they say, The LORD seeth us not; the LORD hath forsaken the earth.
 8:13: He said also unto me, Turn thee yet again, and thou shalt see greater abominations that they do.
 8:14: Then he brought me to the door of the gate of the LORD's house which was toward the north; and, behold, there sat women weeping for Tammuz.
-8:15: Then said he unto me, Hast thou seen this, O son of man?  turn thee yet again, and thou shalt see greater abominations than these.
+8:15: Then said he unto me, Hast thou seen this, O son of man? turn thee yet again, and thou shalt see greater abominations than these.
 8:16: And he brought me into the inner court of the LORD's house, and, behold, at the door of the temple of the LORD, between the porch and the altar, were about five and twenty men, with their backs toward the temple of the LORD, and their faces toward the east; and they worshipped the sun toward the east.
-8:17: Then he said unto me, Hast thou seen this, O son of man?  Is it a light thing to the house of Judah that they commit the abominations which they commit here?  for they have filled the land with violence, and have returned to provoke me to anger: and, lo, they put the branch to their nose.
+8:17: Then he said unto me, Hast thou seen this, O son of man? Is it a light thing to the house of Judah that they commit the abominations which they commit here? for they have filled the land with violence, and have returned to provoke me to anger: and, lo, they put the branch to their nose.
 8:18: Therefore will I also deal in fury: mine eye shall not spare, neither will I have pity: and though they cry in mine ears with a loud voice, yet will I not hear them.
 9:1: He cried also in mine ears with a loud voice, saying, Cause them that have charge over the city to draw near, even every man with his destroying weapon in his hand.
 9:2: And, behold, six men came from the way of the higher gate, which lieth toward the north, and every man a slaughter weapon in his hand; and one man among them was clothed with linen, with a writer's inkhorn by his side: and they went in, and stood beside the brasen altar.
-9:3: And the glory of the God of Israel was gone up from the cherub, whereupon he was, to the threshold of the house.  And he called to the man clothed with linen, which had the writer's inkhorn by his side;
+9:3: And the glory of the God of Israel was gone up from the cherub, whereupon he was, to the threshold of the house. And he called to the man clothed with linen, which had the writer's inkhorn by his side;
 9:4: And the LORD said unto him, Go through the midst of the city, through the midst of Jerusalem, and set a mark upon the foreheads of the men that sigh and that cry for all the abominations that be done in the midst thereof.
 9:5: And to the others he said in mine hearing, Go ye after him through the city, and smite: let not your eye spare, neither have ye pity:
-9:6: Slay utterly old and young, both maids, and little children, and women: but come not near any man upon whom is the mark; and begin at my sanctuary.  Then they began at the ancient men which were before the house.
-9:7: And he said unto them, Defile the house, and fill the courts with the slain: go ye forth.  And they went forth, and slew in the city. 
-9:8: And it came to pass, while they were slaying them, and I was left, that I fell upon my face, and cried, and said, Ah Lord GOD!  wilt thou destroy all the residue of Israel in thy pouring out of thy fury upon Jerusalem?
+9:6: Slay utterly old and young, both maids, and little children, and women: but come not near any man upon whom is the mark; and begin at my sanctuary. Then they began at the ancient men which were before the house.
+9:7: And he said unto them, Defile the house, and fill the courts with the slain: go ye forth. And they went forth, and slew in the city. 
+9:8: And it came to pass, while they were slaying them, and I was left, that I fell upon my face, and cried, and said, Ah Lord GOD! wilt thou destroy all the residue of Israel in thy pouring out of thy fury upon Jerusalem?
 9:9: Then said he unto me, The iniquity of the house of Israel and Judah is exceeding great, and the land is full of blood, and the city full of perverseness: for they say, The LORD hath forsaken the earth, and the LORD seeth not. 
 9:10: And as for me also, mine eye shall not spare, neither will I have pity, but I will recompense their way upon their head. 
 9:11: And, behold, the man clothed with linen, which had the inkhorn by his side, reported the matter, saying, I have done as thou hast commanded me.
 10:1: Then I looked, and, behold, in the firmament that was above the head of the cherubims there appeared over them as it were a sapphire stone, as the appearance of the likeness of a throne.
-10:2: And he spake unto the man clothed with linen, and said, Go in between the wheels, even under the cherub, and fill thine hand with coals of fire from between the cherubims, and scatter them over the city.  And he went in in my sight.
+10:2: And he spake unto the man clothed with linen, and said, Go in between the wheels, even under the cherub, and fill thine hand with coals of fire from between the cherubims, and scatter them over the city. And he went in in my sight.
 10:3: Now the cherubims stood on the right side of the house, when the man went in; and the cloud filled the inner court.
 10:4: Then the glory of the LORD went up from the cherub, and stood over the threshold of the house; and the house was filled with the cloud, and the court was full of the brightness of the LORD's glory.
 10:5: And the sound of the cherubims' wings was heard even to the outer court, as the voice of the Almighty God when he speaketh.
@@ -182,7 +182,7 @@ EZEKIEL
 10:12: And their whole body, and their backs, and their hands, and their wings, and the wheels, were full of eyes round about, even the wheels that they four had.
 10:13: As for the wheels, it was cried unto them in my hearing, O wheel.
 10:14: And every one had four faces: the first face was the face of a cherub, and the second face was the face of a man, and the third the face of a lion, and the fourth the face of an eagle.
-10:15: And the cherubims were lifted up.  This is the living creature that I saw by the river of Chebar.
+10:15: And the cherubims were lifted up. This is the living creature that I saw by the river of Chebar.
 10:16: And when the cherubims went, the wheels went by them: and when the cherubims lifted up their wings to mount up from the earth, the same wheels also turned not from beside them.
 10:17: When they stood, these stood; and when they were lifted up, these lifted up themselves also: for the spirit of the living creature was in them.
 10:18: Then the glory of the LORD departed from off the threshold of the house, and stood over the cherubims. 
@@ -202,7 +202,7 @@ EZEKIEL
 11:10: Ye shall fall by the sword; I will judge you in the border of Israel; and ye shall know that I am the LORD.
 11:11: This city shall not be your caldron, neither shall ye be the flesh in the midst thereof; but I will judge you in the border of Israel:
 11:12: And ye shall know that I am the LORD: for ye have not walked in my statutes, neither executed my judgments, but have done after the manners of the heathen that are round about you.
-11:13: And it came to pass, when I prophesied, that Pelatiah the son of Benaiah died.  Then fell I down upon my face, and cried with a loud voice, and said, Ah Lord GOD!  wilt thou make a full end of the remnant of Israel?
+11:13: And it came to pass, when I prophesied, that Pelatiah the son of Benaiah died. Then fell I down upon my face, and cried with a loud voice, and said, Ah Lord GOD! wilt thou make a full end of the remnant of Israel?
 11:14: Again the word of the LORD came unto me, saying,
 11:15: Son of man, thy brethren, even thy brethren, the men of thy kindred, and all the house of Israel wholly, are they unto whom the inhabitants of Jerusalem have said, Get you far from the LORD: unto us is this land given in possession.
 11:16: Therefore say, Thus saith the Lord GOD; Although I have cast them far off among the heathen, and although I have scattered them among the countries, yet will I be to them as a little sanctuary in the countries where they shall come.
@@ -213,7 +213,7 @@ EZEKIEL
 11:21: But as for them whose heart walketh after the heart of their detestable things and their abominations, I will recompense their way upon their own heads, saith the Lord GOD. 
 11:22: Then did the cherubims lift up their wings, and the wheels beside them; and the glory of the God of Israel was over them above. 
 11:23: And the glory of the LORD went up from the midst of the city, and stood upon the mountain which is on the east side of the city.
-11:24: Afterwards the spirit took me up, and brought me in a vision by the Spirit of God into Chaldea, to them of the captivity.  So the vision that I had seen went up from me.
+11:24: Afterwards the spirit took me up, and brought me in a vision by the Spirit of God into Chaldea, to them of the captivity. So the vision that I had seen went up from me.
 11:25: Then I spake unto them of the captivity all the things that the LORD had shewed me.
 12:1: The word of the LORD also came unto me, saying,
 12:2: Son of man, thou dwellest in the midst of a rebellious house, which have eyes to see, and see not; they have ears to hear, and hear not: for they are a rebellious house.
@@ -260,7 +260,7 @@ EZEKIEL
 13:15: Thus will I accomplish my wrath upon the wall, and upon them that have daubed it with untempered morter, and will say unto you, The wall is no more, neither they that daubed it;
 13:16: To wit, the prophets of Israel which prophesy concerning Jerusalem, and which see visions of peace for her, and there is no peace, saith the Lord GOD.
 13:17: Likewise, thou son of man, set thy face against the daughters of thy people, which prophesy out of their own heart; and prophesy thou against them,
-13:18: And say, Thus saith the Lord GOD; Woe to the women that sew pillows to all armholes, and make kerchiefs upon the head of every stature to hunt souls!  Will ye hunt the souls of my people, and will ye save the souls alive that come unto you?
+13:18: And say, Thus saith the Lord GOD; Woe to the women that sew pillows to all armholes, and make kerchiefs upon the head of every stature to hunt souls! Will ye hunt the souls of my people, and will ye save the souls alive that come unto you?
 13:19: And will ye pollute me among my people for handfuls of barley and for pieces of bread, to slay the souls that should not die, and to save the souls alive that should not live, by your lying to my people that hear your lies?
 13:20: Wherefore thus saith the Lord GOD; Behold, I am against your pillows, wherewith ye there hunt the souls to make them fly, and I will tear them from your arms, and will let the souls go, even the souls that ye hunt to make them fly.
 13:21: Your kerchiefs also will I tear, and deliver my people out of your hand, and they shall be no more in your hand to be hunted; and ye shall know that I am the LORD.
@@ -291,8 +291,8 @@ EZEKIEL
 14:23: And they shall comfort you, when ye see their ways and their doings: and ye shall know that I have not done without cause all that I have done in it, saith the Lord GOD.
 15:1: And the word of the LORD came unto me, saying,
 15:2: Son of man, What is the vine tree more than any tree, or than a branch which is among the trees of the forest?
-15:3: Shall wood be taken thereof to do any work?  or will men take a pin of it to hang any vessel thereon?
-15:4: Behold, it is cast into the fire for fuel; the fire devoureth both the ends of it, and the midst of it is burned.  Is it meet for any work?
+15:3: Shall wood be taken thereof to do any work? or will men take a pin of it to hang any vessel thereon?
+15:4: Behold, it is cast into the fire for fuel; the fire devoureth both the ends of it, and the midst of it is burned. Is it meet for any work?
 15:5: Behold, when it was whole, it was meet for no work: how much less shall it be meet yet for any work, when the fire hath devoured it, and it is burned?
 15:6: Therefore thus saith the Lord GOD; As the vine tree among the trees of the forest, which I have given to the fire for fuel, so will I give the inhabitants of Jerusalem.
 15:7: And I will set my face against them; they shall go out from one fire, and another fire shall devour them; and ye shall know that I am the LORD, when I set my face against them.
@@ -316,10 +316,10 @@ EZEKIEL
 16:17: Thou hast also taken thy fair jewels of my gold and of my silver, which I had given thee, and madest to thyself images of men, and didst commit whoredom with them,
 16:18: And tookest thy broidered garments, and coveredst them: and thou hast set mine oil and mine incense before them.
 16:19: My meat also which I gave thee, fine flour, and oil, and honey, wherewith I fed thee, thou hast even set it before them for a sweet savour: and thus it was, saith the Lord GOD.
-16:20: Moreover thou hast taken thy sons and thy daughters, whom thou hast borne unto me, and these hast thou sacrificed unto them to be devoured.  Is this of thy whoredoms a small matter,
+16:20: Moreover thou hast taken thy sons and thy daughters, whom thou hast borne unto me, and these hast thou sacrificed unto them to be devoured. Is this of thy whoredoms a small matter,
 16:21: That thou hast slain my children, and delivered them to cause them to pass through the fire for them?
 16:22: And in all thine abominations and thy whoredoms thou hast not remembered the days of thy youth, when thou wast naked and bare, and wast polluted in thy blood.
-16:23: And it came to pass after all thy wickedness, (woe, woe unto thee!  saith the Lord GOD;)
+16:23: And it came to pass after all thy wickedness, (woe, woe unto thee! saith the Lord GOD;)
 16:24: That thou hast also built unto thee an eminent place, and hast made thee an high place in every street.
 16:25: Thou hast built thy high place at every head of the way, and hast made thy beauty to be abhorred, and hast opened thy feet to every one that passed by, and multiplied thy whoredoms.
 16:26: Thou hast also committed fornication with the Egyptians thy neighbours, great of flesh; and hast increased thy whoredoms, to provoke me to anger.
@@ -368,13 +368,13 @@ EZEKIEL
 17:6: And it grew, and became a spreading vine of low stature, whose branches turned toward him, and the roots thereof were under him: so it became a vine, and brought forth branches, and shot forth sprigs.
 17:7: There was also another great eagle with great wings and many feathers: and, behold, this vine did bend her roots toward him, and shot forth her branches toward him, that he might water it by the furrows of her plantation.
 17:8: It was planted in a good soil by great waters, that it might bring forth branches, and that it might bear fruit, that it might be a goodly vine.
-17:9: Say thou, Thus saith the Lord GOD; Shall it prosper?  shall he not pull up the roots thereof, and cut off the fruit thereof, that it wither?  it shall wither in all the leaves of her spring, even without great power or many people to pluck it up by the roots thereof.
-17:10: Yea, behold, being planted, shall it prosper?  shall it not utterly wither, when the east wind toucheth it?  it shall wither in the furrows where it grew.
+17:9: Say thou, Thus saith the Lord GOD; Shall it prosper? shall he not pull up the roots thereof, and cut off the fruit thereof, that it wither? it shall wither in all the leaves of her spring, even without great power or many people to pluck it up by the roots thereof.
+17:10: Yea, behold, being planted, shall it prosper? shall it not utterly wither, when the east wind toucheth it? it shall wither in the furrows where it grew.
 17:11: Moreover the word of the LORD came unto me, saying,
-17:12: Say now to the rebellious house, Know ye not what these things mean?  tell them, Behold, the king of Babylon is come to Jerusalem, and hath taken the king thereof, and the princes thereof, and led them with him to Babylon;
+17:12: Say now to the rebellious house, Know ye not what these things mean? tell them, Behold, the king of Babylon is come to Jerusalem, and hath taken the king thereof, and the princes thereof, and led them with him to Babylon;
 17:13: And hath taken of the king's seed, and made a covenant with him, and hath taken an oath of him: he hath also taken the mighty of the land:
 17:14: That the kingdom might be base, that it might not lift itself up, but that by keeping of his covenant it might stand. 
-17:15: But he rebelled against him in sending his ambassadors into Egypt, that they might give him horses and much people.  Shall he prosper?  shall he escape that doeth such things?  or shall he break the covenant, and be delivered?
+17:15: But he rebelled against him in sending his ambassadors into Egypt, that they might give him horses and much people. Shall he prosper? shall he escape that doeth such things? or shall he break the covenant, and be delivered?
 17:16: As I live, saith the Lord GOD, surely in the place where the king dwelleth that made him king, whose oath he despised, and whose covenant he brake, even with him in the midst of Babylon he shall die. 
 17:17: Neither shall Pharaoh with his mighty army and great company make for him in the war, by casting up mounts, and building forts, to cut off many persons: 
 17:18: Seeing he despised the oath by breaking the covenant, when, lo, he had given his hand, and hath done all these things, he shall not escape.
@@ -396,28 +396,28 @@ EZEKIEL
 18:10: If he beget a son that is a robber, a shedder of blood, and that doeth the like to any one of these things,
 18:11: And that doeth not any of those duties, but even hath eaten upon the mountains, and defiled his neighbour's wife,
 18:12: Hath oppressed the poor and needy, hath spoiled by violence, hath not restored the pledge, and hath lifted up his eyes to the idols, hath committed abomination, 
-18:13: Hath given forth upon usury, and hath taken increase: shall he then live?  he shall not live: he hath done all these abominations; he shall surely die; his blood shall be upon him.
+18:13: Hath given forth upon usury, and hath taken increase: shall he then live? he shall not live: he hath done all these abominations; he shall surely die; his blood shall be upon him.
 18:14: Now, lo, if he beget a son, that seeth all his father's sins which he hath done, and considereth, and doeth not such like, 
 18:15: That hath not eaten upon the mountains, neither hath lifted up his eyes to the idols of the house of Israel, hath not defiled his neighbour's wife, 
 18:16: Neither hath oppressed any, hath not withholden the pledge, neither hath spoiled by violence, but hath given his bread to the hungry, and hath covered the naked with a garment,
 18:17: That hath taken off his hand from the poor, that hath not received usury nor increase, hath executed my judgments, hath walked in my statutes; he shall not die for the iniquity of his father, he shall surely live.
 18:18: As for his father, because he cruelly oppressed, spoiled his brother by violence, and did that which is not good among his people, lo, even he shall die in his iniquity.
-18:19: Yet say ye, Why?  doth not the son bear the iniquity of the father?  When the son hath done that which is lawful and right, and hath kept all my statutes, and hath done them, he shall surely live.
-18:20: The soul that sinneth, it shall die.  The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him.
+18:19: Yet say ye, Why? doth not the son bear the iniquity of the father? When the son hath done that which is lawful and right, and hath kept all my statutes, and hath done them, he shall surely live.
+18:20: The soul that sinneth, it shall die. The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him.
 18:21: But if the wicked will turn from all his sins that he hath committed, and keep all my statutes, and do that which is lawful and right, he shall surely live, he shall not die.
 18:22: All his transgressions that he hath committed, they shall not be mentioned unto him: in his righteousness that he hath done he shall live.
-18:23: Have I any pleasure at all that the wicked should die?  saith the Lord GOD: and not that he should return from his ways, and live?
-18:24: But when the righteous turneth away from his righteousness, and committeth iniquity, and doeth according to all the abominations that the wicked man doeth, shall he live?  All his righteousness that he hath done shall not be mentioned: in his trespass that he hath trespassed, and in his sin that he hath sinned, in them shall he die.
-18:25: Yet ye say, The way of the Lord is not equal.  Hear now, O house of Israel; Is not my way equal?  are not your ways unequal?
+18:23: Have I any pleasure at all that the wicked should die? saith the Lord GOD: and not that he should return from his ways, and live?
+18:24: But when the righteous turneth away from his righteousness, and committeth iniquity, and doeth according to all the abominations that the wicked man doeth, shall he live? All his righteousness that he hath done shall not be mentioned: in his trespass that he hath trespassed, and in his sin that he hath sinned, in them shall he die.
+18:25: Yet ye say, The way of the Lord is not equal. Hear now, O house of Israel; Is not my way equal? are not your ways unequal?
 18:26: When a righteous man turneth away from his righteousness, and committeth iniquity, and dieth in them; for his iniquity that he hath done shall he die.
 18:27: Again, when the wicked man turneth away from his wickedness that he hath committed, and doeth that which is lawful and right, he shall save his soul alive.
 18:28: Because he considereth, and turneth away from all his transgressions that he hath committed, he shall surely live, he shall not die.
-18:29: Yet saith the house of Israel, The way of the Lord is not equal.  O house of Israel, are not my ways equal?  are not your ways unequal?
-18:30: Therefore I will judge you, O house of Israel, every one according to his ways, saith the Lord GOD.  Repent, and turn yourselves from all your transgressions; so iniquity shall not be your ruin.
+18:29: Yet saith the house of Israel, The way of the Lord is not equal. O house of Israel, are not my ways equal? are not your ways unequal?
+18:30: Therefore I will judge you, O house of Israel, every one according to his ways, saith the Lord GOD. Repent, and turn yourselves from all your transgressions; so iniquity shall not be your ruin.
 18:31: Cast away from you all your transgressions, whereby ye have transgressed; and make you a new heart and a new spirit: for why will ye die, O house of Israel?
 18:32: For I have no pleasure in the death of him that dieth, saith the Lord GOD: wherefore turn yourselves, and live ye.
 19:1: Moreover take thou up a lamentation for the princes of Israel,
-19:2: And say, What is thy mother?  A lioness: she lay down among lions, she nourished her whelps among young lions.
+19:2: And say, What is thy mother? A lioness: she lay down among lions, she nourished her whelps among young lions.
 19:3: And she brought up one of her whelps: it became a young lion, and it learned to catch the prey; it devoured men.
 19:4: The nations also heard of him; he was taken in their pit, and they brought him with chains unto the land of Egypt.
 19:5: Now when she saw that she had waited, and her hope was lost, then she took another of her whelps, and made him a young lion. 
@@ -429,11 +429,11 @@ EZEKIEL
 19:11: And she had strong rods for the sceptres of them that bare rule, and her stature was exalted among the thick branches, and she appeared in her height with the multitude of her branches.
 19:12: But she was plucked up in fury, she was cast down to the ground, and the east wind dried up her fruit: her strong rods were broken and withered; the fire consumed them.
 19:13: And now she is planted in the wilderness, in a dry and thirsty ground.
-19:14: And fire is gone out of a rod of her branches, which hath devoured her fruit, so that she hath no strong rod to be a sceptre to rule.  This is a lamentation, and shall be for a lamentation.
+19:14: And fire is gone out of a rod of her branches, which hath devoured her fruit, so that she hath no strong rod to be a sceptre to rule. This is a lamentation, and shall be for a lamentation.
 20:1: And it came to pass in the seventh year, in the fifth month, the tenth day of the month, that certain of the elders of Israel came to enquire of the LORD, and sat before me.
 20:2: Then came the word of the LORD unto me, saying,
-20:3: Son of man, speak unto the elders of Israel, and say unto them, Thus saith the Lord GOD; Are ye come to enquire of me?  As I live, saith the Lord GOD, I will not be enquired of by you.
-20:4: Wilt thou judge them, son of man, wilt thou judge them?  cause them to know the abominations of their fathers:
+20:3: Son of man, speak unto the elders of Israel, and say unto them, Thus saith the Lord GOD; Are ye come to enquire of me? As I live, saith the Lord GOD, I will not be enquired of by you.
+20:4: Wilt thou judge them, son of man, wilt thou judge them? cause them to know the abominations of their fathers:
 20:5: And say unto them, Thus saith the Lord GOD; In the day when I chose Israel, and lifted up mine hand unto the seed of the house of Jacob, and made myself known unto them in the land of Egypt, when I lifted up mine hand unto them, saying, I am the LORD your God;
 20:6: In the day that I lifted up mine hand unto them, to bring them forth of the land of Egypt into a land that I had espied for them, flowing with milk and honey, which is the glory of all lands:
 20:7: Then said I unto them, Cast ye away every man the abominations of his eyes, and defile not yourselves with the idols of Egypt: I am the LORD your God.
@@ -458,9 +458,9 @@ EZEKIEL
 20:26: And I polluted them in their own gifts, in that they caused to pass through the fire all that openeth the womb, that I might make them desolate, to the end that they might know that I am the LORD.
 20:27: Therefore, son of man, speak unto the house of Israel, and say unto them, Thus saith the Lord GOD; Yet in this your fathers have blasphemed me, in that they have committed a trespass against me.
 20:28: For when I had brought them into the land, for the which I lifted up mine hand to give it to them, then they saw every high hill, and all the thick trees, and they offered there their sacrifices, and there they presented the provocation of their offering: there also they made their sweet savour, and poured out there their drink offerings.
-20:29: Then I said unto them, What is the high place whereunto ye go?  And the name thereof is called Bamah unto this day.
-20:30: Wherefore say unto the house of Israel, Thus saith the Lord GOD; Are ye polluted after the manner of your fathers?  and commit ye whoredom after their abominations?
-20:31: For when ye offer your gifts, when ye make your sons to pass through the fire, ye pollute yourselves with all your idols, even unto this day: and shall I be enquired of by you, O house of Israel?  As I live, saith the Lord GOD, I will not be enquired of by you.
+20:29: Then I said unto them, What is the high place whereunto ye go? And the name thereof is called Bamah unto this day.
+20:30: Wherefore say unto the house of Israel, Thus saith the Lord GOD; Are ye polluted after the manner of your fathers? and commit ye whoredom after their abominations?
+20:31: For when ye offer your gifts, when ye make your sons to pass through the fire, ye pollute yourselves with all your idols, even unto this day: and shall I be enquired of by you, O house of Israel? As I live, saith the Lord GOD, I will not be enquired of by you.
 20:32: And that which cometh into your mind shall not be at all, that ye say, We will be as the heathen, as the families of the countries, to serve wood and stone.
 20:33: As I live, saith the Lord GOD, surely with a mighty hand, and with a stretched out arm, and with fury poured out, will I rule over you:
 20:34: And I will bring you out from the people, and will gather you out of the countries wherein ye are scattered, with a mighty hand, and with a stretched out arm, and with fury poured out.
@@ -478,22 +478,22 @@ EZEKIEL
 20:46: Son of man, set thy face toward the south, and drop thy word toward the south, and prophesy against the forest of the south field;
 20:47: And say to the forest of the south, Hear the word of the LORD; Thus saith the Lord GOD; Behold, I will kindle a fire in thee, and it shall devour every green tree in thee, and every dry tree: the flaming flame shall not be quenched, and all faces from the south to the north shall be burned therein.
 20:48: And all flesh shall see that I the LORD have kindled it: it shall not be quenched.
-20:49: Then said I, Ah Lord GOD!  they say of me, Doth he not speak parables?
+20:49: Then said I, Ah Lord GOD! they say of me, Doth he not speak parables?
 21:1: And the word of the LORD came unto me, saying,
 21:2: Son of man, set thy face toward Jerusalem, and drop thy word toward the holy places, and prophesy against the land of Israel,
 21:3: And say to the land of Israel, Thus saith the LORD; Behold, I am against thee, and will draw forth my sword out of his sheath, and will cut off from thee the righteous and the wicked.
 21:4: Seeing then that I will cut off from thee the righteous and the wicked, therefore shall my sword go forth out of his sheath against all flesh from the south to the north:
 21:5: That all flesh may know that I the LORD have drawn forth my sword out of his sheath: it shall not return any more.
 21:6: Sigh therefore, thou son of man, with the breaking of thy loins; and with bitterness sigh before their eyes.
-21:7: And it shall be, when they say unto thee, Wherefore sighest thou?  that thou shalt answer, For the tidings; because it cometh: and every heart shall melt, and all hands shall be feeble, and every spirit shall faint, and all knees shall be weak as water: behold, it cometh, and shall be brought to pass, saith the Lord GOD.
+21:7: And it shall be, when they say unto thee, Wherefore sighest thou? that thou shalt answer, For the tidings; because it cometh: and every heart shall melt, and all hands shall be feeble, and every spirit shall faint, and all knees shall be weak as water: behold, it cometh, and shall be brought to pass, saith the Lord GOD.
 21:8: Again the word of the LORD came unto me, saying,
 21:9: Son of man, prophesy, and say, Thus saith the LORD; Say, A sword, a sword is sharpened, and also furbished:
-21:10: It is sharpened to make a sore slaughter; it is furbished that it may glitter: should we then make mirth?  it contemneth the rod of my son, as every tree.
+21:10: It is sharpened to make a sore slaughter; it is furbished that it may glitter: should we then make mirth? it contemneth the rod of my son, as every tree.
 21:11: And he hath give it to be furbished, that it may be handled: this sword is sharpened, and it is furbished, to give it into the hand of the slayer.
 21:12: Cry and howl, son of man: for it shall be upon my people, it shall be upon all the princes of Israel: terrors by reason of the sword shall be upon my people: smite therefore upon thy thigh.
-21:13: Because it is a trial, and what if the sword contemn even the rod?  it shall be no more, saith the Lord GOD. 
+21:13: Because it is a trial, and what if the sword contemn even the rod? it shall be no more, saith the Lord GOD. 
 21:14: Thou therefore, son of man, prophesy, and smite thine hands together, and let the sword be doubled the third time, the sword of the slain: it is the sword of the great men that are slain, which entereth into their privy chambers.
-21:15: I have set the point of the sword against all their gates, that their heart may faint, and their ruins be multiplied: ah!  it is made bright, it is wrapped up for the slaughter. 
+21:15: I have set the point of the sword against all their gates, that their heart may faint, and their ruins be multiplied: ah! it is made bright, it is wrapped up for the slaughter. 
 21:16: Go thee one way or other, either on the right hand, or on the left, whithersoever thy face is set. 
 21:17: I will also smite mine hands together, and I will cause my fury to rest: I the LORD have said it.
 21:18: The word of the LORD came unto me again, saying,
@@ -508,11 +508,11 @@ EZEKIEL
 21:27: I will overturn, overturn, overturn, it: and it shall be no more, until he come whose right it is; and I will give it him.
 21:28: And thou, son of man, prophesy and say, Thus saith the Lord GOD concerning the Ammonites, and concerning their reproach; even say thou, The sword, the sword is drawn: for the slaughter it is furbished, to consume because of the glittering:
 21:29: Whiles they see vanity unto thee, whiles they divine a lie unto thee, to bring thee upon the necks of them that are slain, of the wicked, whose day is come, when their iniquity shall have an end.
-21:30: Shall I cause it to return into his sheath?  I will judge thee in the place where thou wast created, in the land of thy nativity.
+21:30: Shall I cause it to return into his sheath? I will judge thee in the place where thou wast created, in the land of thy nativity.
 21:31: And I will pour out mine indignation upon thee, I will blow against thee in the fire of my wrath, and deliver thee into the hand of brutish men, and skilful to destroy.
 21:32: Thou shalt be for fuel to the fire; thy blood shall be in the midst of the land; thou shalt be no more remembered: for I the LORD have spoken it.
 22:1: Moreover the word of the LORD came unto me, saying,
-22:2: Now, thou son of man, wilt thou judge, wilt thou judge the bloody city?  yea, thou shalt shew her all her abominations.
+22:2: Now, thou son of man, wilt thou judge, wilt thou judge the bloody city? yea, thou shalt shew her all her abominations.
 22:3: Then say thou, Thus saith the Lord GOD, The city sheddeth blood in the midst of it, that her time may come, and maketh idols against herself to defile herself. 
 22:4: Thou art become guilty in thy blood that thou hast shed; and hast defiled thyself in thine idols which thou hast made; and thou hast caused thy days to draw near, and art come even unto thy years: therefore have I made thee a reproach unto the heathen, and a mocking to all countries.
 22:5: Those that be near, and those that be far from thee, shall mock thee, which art infamous and much vexed. 
@@ -524,7 +524,7 @@ EZEKIEL
 22:11: And one hath committed abomination with his neighbour's wife; and another hath lewdly defiled his daughter in law; and another in thee hath humbled his sister, his father's daughter.
 22:12: In thee have they taken gifts to shed blood; thou hast taken usury and increase, and thou hast greedily gained of thy neighbours by extortion, and hast forgotten me, saith the Lord GOD.
 22:13: Behold, therefore I have smitten mine hand at thy dishonest gain which thou hast made, and at thy blood which hath been in the midst of thee.
-22:14: Can thine heart endure, or can thine hands be strong, in the days that I shall deal with thee?  I the LORD have spoken it, and will do it.
+22:14: Can thine heart endure, or can thine hands be strong, in the days that I shall deal with thee? I the LORD have spoken it, and will do it.
 22:15: And I will scatter thee among the heathen, and disperse thee in the countries, and will consume thy filthiness out of thee.
 22:16: And thou shalt take thine inheritance in thyself in the sight of the heathen, and thou shalt know that I am the LORD.
 22:17: And the word of the LORD came unto me, saying,
@@ -545,7 +545,7 @@ EZEKIEL
 23:1: The word of the LORD came again unto me, saying,
 23:2: Son of man, there were two women, the daughters of one mother:
 23:3: And they committed whoredoms in Egypt; they committed whoredoms in their youth: there were their breasts pressed, and there they bruised the teats of their virginity.
-23:4: And the names of them were Aholah the elder, and Aholibah her sister: and they were mine, and they bare sons and daughters.  Thus were their names; Samaria is Aholah, and Jerusalem Aholibah.
+23:4: And the names of them were Aholah the elder, and Aholibah her sister: and they were mine, and they bare sons and daughters. Thus were their names; Samaria is Aholah, and Jerusalem Aholibah.
 23:5: And Aholah played the harlot when she was mine; and she doted on her lovers, on the Assyrians her neighbours,
 23:6: Which were clothed with blue, captains and rulers, all of them desirable young men, horsemen riding upon horses.
 23:7: Thus she committed her whoredoms with them, with all them that were the chosen men of Assyria, and with all on whom she doted: with all their idols she defiled herself.
@@ -577,7 +577,7 @@ EZEKIEL
 23:33: Thou shalt be filled with drunkenness and sorrow, with the cup of astonishment and desolation, with the cup of thy sister Samaria.
 23:34: Thou shalt even drink it and suck it out, and thou shalt break the sherds thereof, and pluck off thine own breasts: for I have spoken it, saith the Lord GOD.
 23:35: Therefore thus saith the Lord GOD; Because thou hast forgotten me, and cast me behind thy back, therefore bear thou also thy lewdness and thy whoredoms.
-23:36: The LORD said moreover unto me; Son of man, wilt thou judge Aholah and Aholibah?  yea, declare unto them their abominations;
+23:36: The LORD said moreover unto me; Son of man, wilt thou judge Aholah and Aholibah? yea, declare unto them their abominations;
 23:37: That they have committed adultery, and blood is in their hands, and with their idols have they committed adultery, and have also caused their sons, whom they bare unto me, to pass for them through the fire, to devour them.
 23:38: Moreover this they have done unto me: they have defiled my sanctuary in the same day, and have profaned my sabbaths.
 23:39: For when they had slain their children to their idols, then they came the same day into my sanctuary to profane it; and, lo, thus have they done in the midst of mine house.
@@ -596,10 +596,10 @@ EZEKIEL
 24:3: And utter a parable unto the rebellious house, and say unto them, Thus saith the Lord GOD; Set on a pot, set it on, and also pour water into it: 
 24:4: Gather the pieces thereof into it, even every good piece, the thigh, and the shoulder; fill it with the choice bones.
 24:5: Take the choice of the flock, and burn also the bones under it, and make it boil well, and let them seethe the bones of it therein.
-24:6: Wherefore thus saith the Lord GOD; Woe to the bloody city, to the pot whose scum is therein, and whose scum is not gone out of it!  bring it out piece by piece; let no lot fall up on it.
+24:6: Wherefore thus saith the Lord GOD; Woe to the bloody city, to the pot whose scum is therein, and whose scum is not gone out of it! bring it out piece by piece; let no lot fall up on it.
 24:7: For her blood is in the midst of her; she set it upon the top of a rock; she poured it not upon the ground, to cover it with dust;
 24:8: That it might cause fury to come up to take vengeance; I have set her blood upon the top of a rock, that it should not be covered.
-24:9: Therefore thus saith the Lord GOD; Woe to the bloody city!  I will even make the pile for fire great.
+24:9: Therefore thus saith the Lord GOD; Woe to the bloody city! I will even make the pile for fire great.
 24:10: Heap on wood, kindle the fire, consume the flesh, and spice it well, and let the bones be burned.
 24:11: Then set it empty upon the coals thereof, that the brass of it may be hot, and may burn, and that the filthiness of it may be molten in it, that the scum of it may be consumed.
 24:12: She hath wearied herself with lies, and her great scum went not forth out of her: her scum shall be in the fire.
@@ -700,7 +700,7 @@ EZEKIEL
 28:6: Therefore thus saith the Lord GOD; Because thou hast set thine heart as the heart of God;
 28:7: Behold, therefore I will bring strangers upon thee, the terrible of the nations: and they shall draw their swords against the beauty of thy wisdom, and they shall defile thy brightness.
 28:8: They shall bring thee down to the pit, and thou shalt die the deaths of them that are slain in the midst of the seas.
-28:9: Wilt thou yet say before him that slayeth thee, I am God?  but thou shalt be a man, and no God, in the hand of him that slayeth thee.
+28:9: Wilt thou yet say before him that slayeth thee, I am God? but thou shalt be a man, and no God, in the hand of him that slayeth thee.
 28:10: Thou shalt die the deaths of the uncircumcised by the hand of strangers: for I have spoken it, saith the Lord GOD.
 28:11: Moreover the word of the LORD came unto me, saying,
 28:12: Son of man, take up a lamentation upon the king of Tyrus, and say unto him, Thus saith the Lord GOD; Thou sealest up the sum, full of wisdom, and perfect in beauty.
@@ -782,7 +782,7 @@ EZEKIEL
 31:15: Thus saith the Lord GOD; In the day when he went down to the grave I caused a mourning: I covered the deep for him, and I restrained the floods thereof, and the great waters were stayed: and I caused Lebanon to mourn for him, and all the trees of the field fainted for him.
 31:16: I made the nations to shake at the sound of his fall, when I cast him down to hell with them that descend into the pit: and all the trees of Eden, the choice and best of Lebanon, all that drink water, shall be comforted in the nether parts of the earth.
 31:17: They also went down into hell with him unto them that be slain with the sword; and they that were his arm, that dwelt under his shadow in the midst of the heathen.
-31:18: To whom art thou thus like in glory and in greatness among the trees of Eden?  yet shalt thou be brought down with the trees of Eden unto the nether parts of the earth: thou shalt lie in the midst of the uncircumcised with them that be slain by the sword.  This is Pharaoh and all his multitude, saith the Lord GOD.
+31:18: To whom art thou thus like in glory and in greatness among the trees of Eden? yet shalt thou be brought down with the trees of Eden unto the nether parts of the earth: thou shalt lie in the midst of the uncircumcised with them that be slain by the sword. This is Pharaoh and all his multitude, saith the Lord GOD.
 32:1: And it came to pass in the twelfth year, in the twelfth month, in the first day of the month, that the word of the LORD came unto me, saying,
 32:2: Son of man, take up a lamentation for Pharaoh king of Egypt, and say unto him, Thou art like a young lion of the nations, and thou art as a whale in the seas: and thou camest forth with thy rivers, and troubledst the waters with thy feet, and fouledst their rivers. 
 32:3: Thus saith the Lord GOD; I will therefore spread out my net over thee with a company of many people; and they shall bring thee up in my net.
@@ -801,7 +801,7 @@ EZEKIEL
 32:16: This is the lamentation wherewith they shall lament her: the daughters of the nations shall lament her: they shall lament for her, even for Egypt, and for all her multitude, saith the Lord GOD.
 32:17: It came to pass also in the twelfth year, in the fifteenth day of the month, that the word of the LORD came unto me, saying,
 32:18: Son of man, wail for the multitude of Egypt, and cast them down, even her, and the daughters of the famous nations, unto the nether parts of the earth, with them that go down into the pit.
-32:19: Whom dost thou pass in beauty?  go down, and be thou laid with the uncircumcised.
+32:19: Whom dost thou pass in beauty? go down, and be thou laid with the uncircumcised.
 32:20: They shall fall in the midst of them that are slain by the sword: she is delivered to the sword: draw her and all her multitudes.
 32:21: The strong among the mighty shall speak to him out of the midst of hell with them that help him: they are gone down, they lie uncircumcised, slain by the sword.
 32:22: Asshur is there and all her company: his graves are about him: all of them slain, fallen by the sword:
@@ -819,7 +819,7 @@ EZEKIEL
 33:2: Son of man, speak to the children of thy people, and say unto them, When I bring the sword upon a land, if the people of the land take a man of their coasts, and set him for their watchman:
 33:3: If when he seeth the sword come upon the land, he blow the trumpet, and warn the people;
 33:4: Then whosoever heareth the sound of the trumpet, and taketh not warning; if the sword come, and take him away, his blood shall be upon his own head.
-33:5: He heard the sound of the trumpet, and took not warning; his blood shall be upon him.  But he that taketh warning shall deliver his soul.
+33:5: He heard the sound of the trumpet, and took not warning; his blood shall be upon him. But he that taketh warning shall deliver his soul.
 33:6: But if the watchman see the sword come, and blow not the trumpet, and the people be not warned; if the sword come, and take any person from among them, he is taken away in his iniquity; but his blood will I require at the watchman's hand.
 33:7: So thou, O son of man, I have set thee a watchman unto the house of Israel; therefore thou shalt hear the word at my mouth, and warn them from me.
 33:8: When I say unto the wicked, O wicked man, thou shalt surely die; if thou dost not speak to warn the wicked from his way, that wicked man shall die in his iniquity; but his blood will I require at thine hand.
@@ -834,7 +834,7 @@ EZEKIEL
 33:17: Yet the children of thy people say, The way of the Lord is not equal: but as for them, their way is not equal. 
 33:18: When the righteous turneth from his righteousness, and committeth iniquity, he shall even die thereby. 
 33:19: But if the wicked turn from his wickedness, and do that which is lawful and right, he shall live thereby.
-33:20: Yet ye say, The way of the Lord is not equal.  O ye house of Israel, I will judge you every one after his ways.
+33:20: Yet ye say, The way of the Lord is not equal. O ye house of Israel, I will judge you every one after his ways.
 33:21: And it came to pass in the twelfth year of our captivity, in the tenth month, in the fifth day of the month, that one that had escaped out of Jerusalem came unto me, saying, The city is smitten.
 33:22: Now the hand of the LORD was upon me in the evening, afore he that was escaped came; and had opened my mouth, until he came to me in the morning; and my mouth was opened, and I was no more dumb.
 33:23: Then the word of the LORD came unto me, saying,
@@ -849,7 +849,7 @@ EZEKIEL
 33:32: And, lo, thou art unto them as a very lovely song of one that hath a pleasant voice, and can play well on an instrument: for they hear thy words, but they do them not.
 33:33: And when this cometh to pass, (lo, it will come,) then shall they know that a prophet hath been among them.
 34:1: And the word of the LORD came unto me, saying,
-34:2: Son of man, prophesy against the shepherds of Israel, prophesy, and say unto them, Thus saith the Lord GOD unto the shepherds; Woe be to the shepherds of Israel that do feed themselves!  should not the shepherds feed the flocks? 
+34:2: Son of man, prophesy against the shepherds of Israel, prophesy, and say unto them, Thus saith the Lord GOD unto the shepherds; Woe be to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks? 
 34:3: Ye eat the fat, and ye clothe you with the wool, ye kill them that are fed: but ye feed not the flock.
 34:4: The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them. 
 34:5: And they were scattered, because there is no shepherd: and they became meat to all the beasts of the field, when they were scattered. 
@@ -865,7 +865,7 @@ EZEKIEL
 34:15: I will feed my flock, and I will cause them to lie down, saith the Lord GOD.
 34:16: I will seek that which was lost, and bring again that which was driven away, and will bind up that which was broken, and will strengthen that which was sick: but I will destroy the fat and the strong; I will feed them with judgment.
 34:17: And as for you, O my flock, thus saith the Lord GOD; Behold, I judge between cattle and cattle, between the rams and the he goats.
-34:18: Seemeth it a small thing unto you to have eaten up the good pasture, but ye must tread down with your feet the residue of your pastures?  and to have drunk of the deep waters, but ye must foul the residue with your feet?
+34:18: Seemeth it a small thing unto you to have eaten up the good pasture, but ye must tread down with your feet the residue of your pastures? and to have drunk of the deep waters, but ye must foul the residue with your feet?
 34:19: And as for my flock, they eat that which ye have trodden with your feet; and they drink that which ye have fouled with your feet.
 34:20: Therefore thus saith the Lord GOD unto them; Behold, I, even I, will judge between the fat cattle and between the lean cattle.
 34:21: Because ye have thrust with side and with shoulder, and pushed all the diseased with your horns, till ye have scattered them abroad;
@@ -934,7 +934,7 @@ EZEKIEL
 36:38: As the holy flock, as the flock of Jerusalem in her solemn feasts; so shall the waste cities be filled with flocks of men: and they shall know that I am the LORD.
 37:1: The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which was full of bones,
 37:2: And caused me to pass by them round about: and, behold, there were very many in the open valley; and, lo, they were very dry.
-37:3: And he said unto me, Son of man, can these bones live?  And I answered, O Lord GOD, thou knowest.
+37:3: And he said unto me, Son of man, can these bones live? And I answered, O Lord GOD, thou knowest.
 37:4: Again he said unto me, Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the LORD.
 37:5: Thus saith the Lord GOD unto these bones; Behold, I will cause breath to enter into you, and ye shall live:
 37:6: And I will lay sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and ye shall live; and ye shall know that I am the LORD.
@@ -972,7 +972,7 @@ EZEKIEL
 38:10: Thus saith the Lord GOD; It shall also come to pass, that at the same time shall things come into thy mind, and thou shalt think an evil thought:
 38:11: And thou shalt say, I will go up to the land of unwalled villages; I will go to them that are at rest, that dwell safely, all of them dwelling without walls, and having neither bars nor gates,
 38:12: To take a spoil, and to take a prey; to turn thine hand upon the desolate places that are now inhabited, and upon the people that are gathered out of the nations, which have gotten cattle and goods, that dwell in the midst of the land.
-38:13: Sheba, and Dedan, and the merchants of Tarshish, with all the young lions thereof, shall say unto thee, Art thou come to take a spoil?  hast thou gathered thy company to take a prey?  to carry away silver and gold, to take away cattle and goods, to take a great spoil?
+38:13: Sheba, and Dedan, and the merchants of Tarshish, with all the young lions thereof, shall say unto thee, Art thou come to take a spoil? hast thou gathered thy company to take a prey? to carry away silver and gold, to take away cattle and goods, to take a great spoil?
 38:14: Therefore, son of man, prophesy and say unto Gog, Thus saith the Lord GOD; In that day when my people of Israel dwelleth safely, shalt thou not know it?
 38:15: And thou shalt come from thy place out of the north parts, thou, and many people with thee, all of them riding upon horses, a great company, and a mighty army:
 38:16: And thou shalt come up against my people of Israel, as a cloud to cover the land; it shall be in the latter days, and I will bring thee against my land, that the heathen may know me, when I shall be sanctified in thee, O Gog, before their eyes.
@@ -998,7 +998,7 @@ EZEKIEL
 39:13: Yea, all the people of the land shall bury them; and it shall be to them a renown the day that I shall be glorified, saith the Lord GOD.
 39:14: And they shall sever out men of continual employment, passing through the land to bury with the passengers those that remain upon the face of the earth, to cleanse it: after the end of seven months shall they search.
 39:15: And the passengers that pass through the land, when any seeth a man's bone, then shall he set up a sign by it, till the buriers have buried it in the valley of Hamon-gog.
-39:16: And also the name of the city shall be Hamonah.  Thus shall they cleanse the land.
+39:16: And also the name of the city shall be Hamonah. Thus shall they cleanse the land.
 39:17: And, thou son of man, thus saith the Lord GOD; Speak unto every feathered fowl, and to every beast of the field, Assemble yourselves, and come; gather yourselves on every side to my sacrifice that I do sacrifice for you, even a great sacrifice upon the mountains of Israel, that ye may eat flesh, and drink blood.
 39:18: Ye shall eat the flesh of the mighty, and drink the blood of the princes of the earth, of rams, of lambs, and of goats, of bullocks, all of them fatlings of Bashan.
 39:19: And ye shall eat fat till ye be full, and drink blood till ye be drunken, of my sacrifice which I have sacrificed for you.
@@ -1118,7 +1118,7 @@ EZEKIEL
 43:9: Now let them put away their whoredom, and the carcases of their kings, far from me, and I will dwell in the midst of them for ever.
 43:10: Thou son of man, shew the house to the house of Israel, that they may be ashamed of their iniquities: and let them measure the pattern.
 43:11: And if they be ashamed of all that they have done, shew them the form of the house, and the fashion thereof, and the goings out thereof, and the comings in thereof, and all the forms thereof, and all the ordinances thereof, and all the forms thereof, and all the laws thereof: and write it in their sight, that they may keep the whole form thereof, and all the ordinances thereof, and do them.
-43:12: This is the law of the house; Upon the top of the mountain the whole limit thereof round about shall be most holy.  Behold, this is the law of the house.
+43:12: This is the law of the house; Upon the top of the mountain the whole limit thereof round about shall be most holy. Behold, this is the law of the house.
 43:13: And these are the measures of the altar after the cubits: The cubit is a cubit and an hand breadth; even the bottom shall be a cubit, and the breadth a cubit, and the border thereof by the edge thereof round about shall be a span: and this shall be the higher place of the altar.
 43:14: And from the bottom upon the ground even to the lower settle shall be two cubits, and the breadth one cubit; and from the lesser settle even to the greater settle shall be four cubits, and the breadth one cubit.
 43:15: So the altar shall be four cubits; and from the altar and upward shall be four horns.
@@ -1165,7 +1165,7 @@ EZEKIEL
 44:29: They shall eat the meat offering, and the sin offering, and the trespass offering; and every dedicated thing in Israel shall be theirs.
 44:30: And the first of all the firstfruits of all things, and every oblation of all, of every sort of your oblations, shall be the priest's: ye shall also give unto the priest the first of your dough, that he may cause the blessing to rest in thine house.
 44:31: The priests shall not eat of any thing that is dead of itself, or torn, whether it be fowl or beast.
-45:1: Moreover, when ye shall divide by lot the land for inheritance, ye shall offer an oblation unto the LORD, an holy portion of the land: the length shall be the length of five and twenty thousand reeds, and the breadth shall be ten thousand.  This shall be holy in all the borders thereof round about.
+45:1: Moreover, when ye shall divide by lot the land for inheritance, ye shall offer an oblation unto the LORD, an holy portion of the land: the length shall be the length of five and twenty thousand reeds, and the breadth shall be ten thousand. This shall be holy in all the borders thereof round about.
 45:2: Of this there shall be for the sanctuary five hundred in length, with five hundred in breadth, square round about; and fifty cubits round about for the suburbs thereof.
 45:3: And of this measure shalt thou measure the length of five and twenty thousand, and the breadth of ten thousand: and in it shall be the sanctuary and the most holy place.
 45:4: The holy portion of the land shall be for the priests the ministers of the sanctuary, which shall come near to minister unto the LORD: and it shall be a place for their houses, and an holy place for the sanctuary.
@@ -1174,7 +1174,7 @@ EZEKIEL
 45:7: And a portion shall be for the prince on the one side and on the other side of the oblation of the holy portion, and of the possession of the city, before the oblation of the holy portion, and before the possession of the city, from the west side westward, and from the east side eastward: and the length shall be over against one of the portions, from the west border unto the east border.
 45:8: In the land shall be his possession in Israel: and my princes shall no more oppress my people; and the rest of the land shall they give to the house of Israel according to their tribes. 
 45:9: Thus saith the Lord GOD; Let it suffice you, O princes of Israel: remove violence and spoil, and execute judgment and justice, take away your exactions from my people, saith the Lord GOD. 
-45:10: Ye shall have just balances, and a just ephah, and a just bath.  I
+45:10: Ye shall have just balances, and a just ephah, and a just bath. I
 45:11: The ephah and the bath shall be of one measure, that the bath may contain the tenth part of an homer, and the ephah the tenth part of an homer: the measure thereof shall be after the homer.
 45:12: And the shekel shall be twenty gerahs: twenty shekels, five and twenty shekels, fifteen shekels, shall be your manneh.
 45:13: This is the oblation that ye shall offer; the sixth part of an ephah of an homer of wheat, and ye shall give the sixth part of an ephah of an homer of barley:
@@ -1217,9 +1217,9 @@ EZEKIEL
 47:1: Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house stood toward the east, and the waters came down from under from the right side of the house, at the south side of the altar.
 47:2: Then brought he me out of the way of the gate northward, and led me about the way without unto the utter gate by the way that looketh eastward; and, behold, there ran out waters on the right side.
 47:3: And when the man that had the line in his hand went forth eastward, he measured a thousand cubits, and he brought me through the waters; the waters were to the ancles.
-47:4: Again he measured a thousand, and brought me through the waters; the waters were to the knees.  Again he measured a thousand, and brought me through; the waters were to the loins.
+47:4: Again he measured a thousand, and brought me through the waters; the waters were to the knees. Again he measured a thousand, and brought me through; the waters were to the loins.
 47:5: Afterward he measured a thousand; and it was a river that I could not pass over: for the waters were risen, waters to swim in, a river that could not be passed over.
-47:6: And he said unto me, Son of man, hast thou seen this?  Then he brought me, and caused me to return to the brink of the river.
+47:6: And he said unto me, Son of man, hast thou seen this? Then he brought me, and caused me to return to the brink of the river.
 47:7: Now when I had returned, behold, at the bank of the river were very many trees on the one side and on the other.
 47:8: Then said he unto me, These waters issue out toward the east country, and go down into the desert, and go into the sea: which being brought forth into the sea, the waters shall be healed.
 47:9: And it shall come to pass, that every thing that liveth, which moveth, whithersoever the rivers shall come, shall live: and there shall be a very great multitude of fish, because these waters shall come thither: for they shall be healed; and every thing shall live whither the river cometh.
@@ -1230,14 +1230,14 @@ EZEKIEL
 47:14: And ye shall inherit it, one as well as another: concerning the which I lifted up mine hand to give it unto your fathers: and this land shall fall unto you for inheritance.
 47:15: And this shall be the border of the land toward the north side, from the great sea, the way of Hethlon, as men go to Zedad;
 47:16: Hamath, Berothah, Sibraim, which is between the border of Damascus and the border of Hamath; Hazar-hatticon, which is by the coast of Hauran.
-47:17: And the border from the sea shall be Hazar-enan, the border of Damascus, and the north northward, and the border of Hamath.  And this is the north side.
-47:18: And the east side ye shall measure from Hauran, and from Damascus, and from Gilead, and from the land of Israel by Jordan, from the border unto the east sea.  And this is the east side.
-47:19: And the south side southward, from Tamar even to the waters of strife in Kadesh, the river to the great sea.  And this is the south side southward.
-47:20: The west side also shall be the great sea from the border, till a man come over against Hamath.  This is the west side. 
+47:17: And the border from the sea shall be Hazar-enan, the border of Damascus, and the north northward, and the border of Hamath. And this is the north side.
+47:18: And the east side ye shall measure from Hauran, and from Damascus, and from Gilead, and from the land of Israel by Jordan, from the border unto the east sea. And this is the east side.
+47:19: And the south side southward, from Tamar even to the waters of strife in Kadesh, the river to the great sea. And this is the south side southward.
+47:20: The west side also shall be the great sea from the border, till a man come over against Hamath. This is the west side. 
 47:21: So shall ye divide this land unto you according to the tribes of Israel.
 47:22: And it shall come to pass, that ye shall divide it by lot for an inheritance unto you, and to the strangers that sojourn among you, which shall beget children among you: and they shall be unto you as born in the country among the children of Israel; they shall have inheritance with you among the tribes of Israel. 
 47:23: And it shall come to pass, that in what tribe the stranger sojourneth, there shall ye give him his inheritance, saith the Lord GOD. 
-48:1: Now these are the names of the tribes.  From the north end to the coast of the way of Hethlon, as one goeth to Hamath, Hazar-enan, the border of Damascus northward, to the coast of Hamath; for these are his sides east and west; a portion for Dan.
+48:1: Now these are the names of the tribes. From the north end to the coast of the way of Hethlon, as one goeth to Hamath, Hazar-enan, the border of Damascus northward, to the coast of Hamath; for these are his sides east and west; a portion for Dan.
 48:2: And by the border of Dan, from the east side unto the west side, a portion for Asher.
 48:3: And by the border of Asher, from the east side even unto the west side, a portion for Naphtali.
 48:4: And by the border of Naphtali, from the east side unto the west side, a portion for Manasseh.
