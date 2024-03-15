@@ -1,4 +1,3 @@
-49::eph::EPHESIANS
 49::eph::1::1::Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:
 49::eph::1::2::Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ.
 49::eph::1::3::Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:

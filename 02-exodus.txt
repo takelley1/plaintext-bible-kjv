@@ -1,4 +1,3 @@
-02::exo::EXODUS
 02::exo::1::1::Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.
 02::exo::1::2::Reuben, Simeon, Levi, and Judah, 
 02::exo::1::3::Issachar, Zebulun, and Benjamin,
