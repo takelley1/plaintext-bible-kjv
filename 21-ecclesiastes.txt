@@ -12,10 +12,10 @@ ECCLESIASTES
 1:11: There is no remembrance of former things; neither shall there be any remembrance of things that are to come with those that shall come after.
 1:12: I the Preacher was king over Israel in Jerusalem.
 1:13: And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith.
-1:14: I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit. 
+1:14: I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit.
 1:15: That which is crooked cannot be made straight: and that which is wanting cannot be numbered.
-1:16: I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all they that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge. 
-1:17: And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit. 
+1:16: I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all they that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge.
+1:17: And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit.
 1:18: For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.
 2:1: I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also is vanity.
 2:2: I said of laughter, It is mad: and of mirth, What doeth it?
@@ -34,10 +34,10 @@ ECCLESIASTES
 2:15: Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also is vanity.
 2:16: For there is no remembrance of the wise more than of the fool for ever; seeing that which now is in the days to come shall all be forgotten. And how dieth the wise man? as the fool.
 2:17: Therefore I hated life; because the work that is wrought under the sun is grievous unto me: for all is vanity and vexation of spirit.
-2:18: Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me. 
+2:18: Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me.
 2:19: And who knoweth whether he shall be a wise man or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have shewed myself wise under the sun. This is also vanity.
-2:20: Therefore I went about to cause my heart to despair of all the labour which I took under the sun. 
-2:21: For there is a man whose labour is in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it for his portion. This also is vanity and a great evil. 
+2:20: Therefore I went about to cause my heart to despair of all the labour which I took under the sun.
+2:21: For there is a man whose labour is in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it for his portion. This also is vanity and a great evil.
 2:22: For what hath man of all his labour, and of the vexation of his heart, wherein he hath laboured under the sun?
 2:23: For all his days are sorrows, and his travail grief; yea, his heart taketh not rest in the night. This is also vanity.
 2:24: There is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God.
@@ -49,10 +49,10 @@ ECCLESIASTES
 3:4: A time to weep, and a time to laugh; a time to mourn, and a time to dance;
 3:5: A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;
 3:6: A time to get, and a time to lose; a time to keep, and a time to cast away;
-3:7: A time to rend, and a time to sew; a time to keep silence, and a time to speak; 
+3:7: A time to rend, and a time to sew; a time to keep silence, and a time to speak;
 3:8: A time to love, and a time to hate; a time of war, and a time of peace.
-3:9: What profit hath he that worketh in that wherein he laboureth? 
-3:10: I have seen the travail, which God hath given to the sons of men to be exercised in it. 
+3:9: What profit hath he that worketh in that wherein he laboureth?
+3:10: I have seen the travail, which God hath given to the sons of men to be exercised in it.
 3:11: He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.
 3:12: I know that there is no good in them, but for a man to rejoice, and to do good in his life.
 3:13: And also that every man should eat and drink, and enjoy the good of all his labour, it is the gift of God.
@@ -71,10 +71,10 @@ ECCLESIASTES
 4:4: Again, I considered all travail, and every right work, that for this a man is envied of his neighbour. This is also vanity and vexation of spirit.
 4:5: The fool foldeth his hands together, and eateth his own flesh.
 4:6: Better is an handful with quietness, than both the hands full with travail and vexation of spirit.
-4:7: Then I returned, and I saw vanity under the sun. 
+4:7: Then I returned, and I saw vanity under the sun.
 4:8: There is one alone, and there is not a second; yea, he hath neither child nor brother: yet is there no end of all his labour; neither is his eye satisfied with riches; neither saith he, For whom do I labour, and bereave my soul of good? This is also vanity, yea, it is a sore travail.
-4:9: Two are better than one; because they have a good reward for their labour. 
-4:10: For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up. 
+4:9: Two are better than one; because they have a good reward for their labour.
+4:10: For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up.
 4:11: Again, if two lie together, then they have heat: but how can one be warm alone?
 4:12: And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken.
 4:13: Better is a poor and a wise child than an old and foolish king, who will no more be admonished.
@@ -93,10 +93,10 @@ ECCLESIASTES
 5:10: He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this is also vanity.
 5:11: When goods increase, they are increased that eat them: and what good is there to the owners thereof, saving the beholding of them with their eyes?
 5:12: The sleep of a labouring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep.
-5:13: There is a sore evil which I have seen under the sun, namely, riches kept for the owners thereof to their hurt. 
+5:13: There is a sore evil which I have seen under the sun, namely, riches kept for the owners thereof to their hurt.
 5:14: But those riches perish by evil travail: and he begetteth a son, and there is nothing in his hand.
-5:15: As he came forth of his mother's womb, naked shall he return to go as he came, and shall take nothing of his labour, which he may carry away in his hand. 
-5:16: And this also is a sore evil, that in all points as he came, so shall he go: and what profit hath he that hath laboured for the wind? 
+5:15: As he came forth of his mother's womb, naked shall he return to go as he came, and shall take nothing of his labour, which he may carry away in his hand.
+5:16: And this also is a sore evil, that in all points as he came, so shall he go: and what profit hath he that hath laboured for the wind?
 5:17: All his days also he eateth in darkness, and he hath much sorrow and wrath with his sickness.
 5:18: Behold that which I have seen: it is good and comely for one to eat and to drink, and to enjoy the good of all his labour that he taketh under the sun all the days of his life, which God giveth him: for it is his portion.
 5:19: Every man also to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoice in his labour; this is the gift of God.
@@ -114,10 +114,10 @@ ECCLESIASTES
 6:11: Seeing there be many things that increase vanity, what is man the better?
 6:12: For who knoweth what is good for man in this life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?
 7:1: A good name is better than precious ointment; and the day of death than the day of one's birth.
-7:2: It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart. 
+7:2: It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart.
 7:3: Sorrow is better than laughter: for by the sadness of the countenance the heart is made better.
-7:4: The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth. 
-7:5: It is better to hear the rebuke of the wise, than for a man to hear the song of fools. 
+7:4: The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth.
+7:5: It is better to hear the rebuke of the wise, than for a man to hear the song of fools.
 7:6: For as the crackling of thorns under a pot, so is the laughter of the fool: this also is vanity.
 7:7: Surely oppression maketh a wise man mad; and a gift destroyeth the heart.
 7:8: Better is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit.
@@ -141,9 +141,9 @@ ECCLESIASTES
 7:26: And I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.
 7:27: Behold, this have I found, saith the preacher, counting one by one, to find out the account:
 7:28: Which yet my soul seeketh, but I find not: one man among a thousand have I found; but a woman among all those have I not found.
-7:29: Lo, this only have I found, that God hath made man upright; but they have sought out many inventions. 
-8:1: Who is as the wise man? and who knoweth the interpretation of a thing? a man's wisdom maketh his face to shine, and the boldness of his face shall be changed. 
-8:2: I counsel thee to keep the king's commandment, and that in regard of the oath of God. 
+7:29: Lo, this only have I found, that God hath made man upright; but they have sought out many inventions.
+8:1: Who is as the wise man? and who knoweth the interpretation of a thing? a man's wisdom maketh his face to shine, and the boldness of his face shall be changed.
+8:2: I counsel thee to keep the king's commandment, and that in regard of the oath of God.
 8:3: Be not hasty to go out of his sight: stand not in an evil thing; for he doeth whatsoever pleaseth him.
 8:4: Where the word of a king is, there is power: and who may say unto him, What doest thou?
 8:5: Whoso keepeth the commandment shall feel no evil thing: and a wise man's heart discerneth both time and judgment.
@@ -162,10 +162,10 @@ ECCLESIASTES
 9:1: For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, are in the hand of God: no man knoweth either love or hatred by all that is before them.
 9:2: All things come alike to all: there is one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; to him that sacrificeth, and to him that sacrificeth not: as is the good, so is the sinner; and he that sweareth, as he that feareth an oath.
 9:3: This is an evil among all things that are done under the sun, that there is one event unto all: yea, also the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that they go to the dead.
-9:4: For to him that is joined to all the living there is hope: for a living dog is better than a dead lion. 
+9:4: For to him that is joined to all the living there is hope: for a living dog is better than a dead lion.
 9:5: For the living know that they shall die: but the dead know not any thing, neither have they any more a reward; for the memory of them is forgotten.
-9:6: Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any thing that is done under the sun. 
-9:7: Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works. 
+9:6: Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any thing that is done under the sun.
+9:7: Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works.
 9:8: Let thy garments be always white; and let thy head lack no ointment.
 9:9: Live joyfully with the wife whom thou lovest all the days of the life of thy vanity, which he hath given thee under the sun, all the days of thy vanity: for that is thy portion in this life, and in thy labour which thou takest under the sun.
 9:10: Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.
@@ -184,10 +184,10 @@ ECCLESIASTES
 10:5: There is an evil which I have seen under the sun, as an error which proceedeth from the ruler:
 10:6: Folly is set in great dignity, and the rich sit in low place.
 10:7: I have seen servants upon horses, and princes walking as servants upon the earth.
-10:8: He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him. 
+10:8: He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him.
 10:9: Whoso removeth stones shall be hurt therewith; and he that cleaveth wood shall be endangered thereby.
-10:10: If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct. 
-10:11: Surely the serpent will bite without enchantment; and a babbler is no better. 
+10:10: If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct.
+10:11: Surely the serpent will bite without enchantment; and a babbler is no better.
 10:12: The words of a wise man's mouth are gracious; but the lips of a fool will swallow up himself.
 10:13: The beginning of the words of his mouth is foolishness: and the end of his talk is mischievous madness.
 10:14: A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?
@@ -206,9 +206,9 @@ ECCLESIASTES
 11:7: Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun:
 11:8: But if a man live many years, and rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that cometh is vanity.
 11:9: Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these things God will bring thee into judgment.
-11:10: Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth are vanity. 
-12:1: Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them; 
-12:2: While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain: 
+11:10: Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth are vanity.
+12:1: Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;
+12:2: While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain:
 12:3: In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,
 12:4: And the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of musick shall be brought low;
 12:5: Also when they shall be afraid of that which is high, and fears shall be in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets:
@@ -220,5 +220,4 @@ ECCLESIASTES
 12:11: The words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd.
 12:12: And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.
 12:13: Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.
-12:14: For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil. 
-
+12:14: For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.

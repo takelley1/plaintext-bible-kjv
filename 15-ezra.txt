@@ -1,9 +1,9 @@
 EZRA
 1:1: Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,
-1:2: Thus saith Cyrus king of Persia, The LORD God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which is in Judah. 
+1:2: Thus saith Cyrus king of Persia, The LORD God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which is in Judah.
 1:3: Who is there among you of all his people? his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the LORD God of Israel, (he is the God,) which is in Jerusalem.
-1:4: And whosoever remaineth in any place where he sojourneth, let the men of his place help him with silver, and with gold, and with goods, and with beasts, beside the freewill offering for the house of God that is in Jerusalem. 
-1:5: Then rose up the chief of the fathers of Judah and Benjamin, and the priests, and the Levites, with all them whose spirit God had raised, to go up to build the house of the LORD which is in Jerusalem. 
+1:4: And whosoever remaineth in any place where he sojourneth, let the men of his place help him with silver, and with gold, and with goods, and with beasts, beside the freewill offering for the house of God that is in Jerusalem.
+1:5: Then rose up the chief of the fathers of Judah and Benjamin, and the priests, and the Levites, with all them whose spirit God had raised, to go up to build the house of the LORD which is in Jerusalem.
 1:6: And all they that were about them strengthened their hands with vessels of silver, with gold, with goods, and with beasts, and with precious things, beside all that was willingly offered.
 1:7: Also Cyrus the king brought forth the vessels of the house of the LORD, which Nebuchadnezzar had brought forth out of Jerusalem, and had put them in the house of his gods;
 1:8: Even those did Cyrus king of Persia bring forth by the hand of Mithredath the treasurer, and numbered them unto Sheshbazzar, the prince of Judah.
@@ -22,10 +22,10 @@ EZRA
 2:10: The children of Bani, six hundred forty and two.
 2:11: The children of Bebai, six hundred twenty and three.
 2:12: The children of Azgad, a thousand two hundred twenty and two.
-2:13: The children of Adonikam, six hundred sixty and six. 
+2:13: The children of Adonikam, six hundred sixty and six.
 2:14: The children of Bigvai, two thousand fifty and six.
-2:15: The children of Adin, four hundred fifty and four. 
-2:16: The children of Ater of Hezekiah, ninety and eight. 
+2:15: The children of Adin, four hundred fifty and four.
+2:16: The children of Ater of Hezekiah, ninety and eight.
 2:17: The children of Bezai, three hundred twenty and three.
 2:18: The children of Jorah, an hundred and twelve.
 2:19: The children of Hashum, two hundred twenty and three.
@@ -45,10 +45,10 @@ EZRA
 2:33: The children of Lod, Hadid, and Ono, seven hundred twenty and five.
 2:34: The children of Jericho, three hundred forty and five.
 2:35: The children of Senaah, three thousand and six hundred and thirty.
-2:36: The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three. 
+2:36: The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three.
 2:37: The children of Immer, a thousand fifty and two.
-2:38: The children of Pashur, a thousand two hundred forty and seven. 
-2:39: The children of Harim, a thousand and seventeen. 
+2:38: The children of Pashur, a thousand two hundred forty and seven.
+2:39: The children of Harim, a thousand and seventeen.
 2:40: The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy and four.
 2:41: The singers: the children of Asaph, an hundred twenty and eight.
 2:42: The children of the porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, in all an hundred thirty and nine.
@@ -68,10 +68,10 @@ EZRA
 2:56: The children of Jaalah, the children of Darkon, the children of Giddel,
 2:57: The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Ami.
 2:58: All the Nethinims, and the children of Solomon's servants, were three hundred ninety and two.
-2:59: And these were they which went up from Tel-melah, Tel-harsa, Cherub, Addan, and Immer: but they could not shew their father's house, and their seed, whether they were of Israel: 
+2:59: And these were they which went up from Tel-melah, Tel-harsa, Cherub, Addan, and Immer: but they could not shew their father's house, and their seed, whether they were of Israel:
 2:60: The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred fifty and two.
-2:61: And of the children of the priests: the children of Habaiah, the children of Koz, the children of Barzillai; which took a wife of the daughters of Barzillai the Gileadite, and was called after their name: 
-2:62: These sought their register among those that were reckoned by genealogy, but they were not found: therefore were they, as polluted, put from the priesthood. 
+2:61: And of the children of the priests: the children of Habaiah, the children of Koz, the children of Barzillai; which took a wife of the daughters of Barzillai the Gileadite, and was called after their name:
+2:62: These sought their register among those that were reckoned by genealogy, but they were not found: therefore were they, as polluted, put from the priesthood.
 2:63: And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and with Thummim.
 2:64: The whole congregation together was forty and two thousand three hundred and threescore,
 2:65: Beside their servants and their maids, of whom there were seven thousand three hundred thirty and seven: and there were among them two hundred singing men and singing women.
@@ -90,17 +90,17 @@ EZRA
 3:8: Now in the second year of their coming unto the house of God at Jerusalem, in the second month, began Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and the remnant of their brethren the priests and the Levites, and all they that were come out of the captivity unto Jerusalem; and appointed the Levites, from twenty years old and upward, to set forward the work of the house of the LORD.
 3:9: Then stood Jeshua with his sons and his brethren, Kadmiel and his sons, the sons of Judah, together, to set forward the workmen in the house of God: the sons of Henadad, with their sons and their brethren the Levites.
 3:10: And when the builders laid the foundation of the temple of the LORD, they set the priests in their apparel with trumpets, and the Levites the sons of Asaph with cymbals, to praise the LORD, after the ordinance of David king of Israel.
-3:11: And they sang together by course in praising and giving thanks unto the LORD; because he is good, for his mercy endureth for ever toward Israel. And all the people shouted with a great shout, when they praised the LORD, because the foundation of the house of the LORD was laid. 
+3:11: And they sang together by course in praising and giving thanks unto the LORD; because he is good, for his mercy endureth for ever toward Israel. And all the people shouted with a great shout, when they praised the LORD, because the foundation of the house of the LORD was laid.
 3:12: But many of the priests and Levites and chief of the fathers, who were ancient men, that had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice; and many shouted aloud for joy:
-3:13: So that the people could not discern the noise of the shout of joy from the noise of the weeping of the people: for the people shouted with a loud shout, and the noise was heard afar off. 
+3:13: So that the people could not discern the noise of the shout of joy from the noise of the weeping of the people: for the people shouted with a loud shout, and the noise was heard afar off.
 4:1: Now when the adversaries of Judah and Benjamin heard that the children of the captivity builded the temple unto the LORD God of Israel;
 4:2: Then they came to Zerubbabel, and to the chief of the fathers, and said unto them, Let us build with you: for we seek your God, as ye do; and we do sacrifice unto him since the days of Esar-haddon king of Assur, which brought us up hither.
 4:3: But Zerubbabel, and Jeshua, and the rest of the chief of the fathers of Israel, said unto them, Ye have nothing to do with us to build an house unto our God; but we ourselves together will build unto the LORD God of Israel, as king Cyrus the king of Persia hath commanded us.
 4:4: Then the people of the land weakened the hands of the people of Judah, and troubled them in building,
-4:5: And hired counsellers against them, to frustrate their purpose, all the days of Cyrus king of Persia, even until the reign of Darius king of Persia. 
+4:5: And hired counsellers against them, to frustrate their purpose, all the days of Cyrus king of Persia, even until the reign of Darius king of Persia.
 4:6: And in the reign of Ahasuerus, in the beginning of his reign, wrote they unto him an accusation against the inhabitants of Judah and Jerusalem.
-4:7: And in the days of Artaxerxes wrote Bishlam, Mithredath, Tabeel, and the rest of their companions, unto Artaxerxes king of Persia; and the writing of the letter was written in the Syrian tongue, and interpreted in the Syrian tongue. 
-4:8: Rehum the chancellor and Shimshai the scribe wrote a letter against Jerusalem to Artaxerxes the king in this sort: 
+4:7: And in the days of Artaxerxes wrote Bishlam, Mithredath, Tabeel, and the rest of their companions, unto Artaxerxes king of Persia; and the writing of the letter was written in the Syrian tongue, and interpreted in the Syrian tongue.
+4:8: Rehum the chancellor and Shimshai the scribe wrote a letter against Jerusalem to Artaxerxes the king in this sort:
 4:9: Then wrote Rehum the chancellor, and Shimshai the scribe, and the rest of their companions; the Dinaites, the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Susanchites, the Dehavites, and the Elamites,
 4:10: And the rest of the nations whom the great and noble Asnappar brought over, and set in the cities of Samaria, and the rest that are on this side the river, and at such a time.
 4:11: This is the copy of the letter that they sent unto him, even unto Artaxerxes the king; Thy servants the men on this side the river, and at such a time.
@@ -119,10 +119,10 @@ EZRA
 4:24: Then ceased the work of the house of God which is at Jerusalem. So it ceased unto the second year of the reign of Darius king of Persia.
 5:1: Then the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied unto the Jews that were in Judah and Jerusalem in the name of the God of Israel, even unto them.
 5:2: Then rose up Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and began to build the house of God which is at Jerusalem: and with them were the prophets of God helping them.
-5:3: At the same time came to them Tatnai, governor on this side the river, and Shethar-boznai, and their companions, and said thus unto them, Who hath commanded you to build this house, and to make up this wall? 
+5:3: At the same time came to them Tatnai, governor on this side the river, and Shethar-boznai, and their companions, and said thus unto them, Who hath commanded you to build this house, and to make up this wall?
 5:4: Then said we unto them after this manner, What are the names of the men that make this building?
-5:5: But the eye of their God was upon the elders of the Jews, that they could not cause them to cease, till the matter came to Darius: and then they returned answer by letter concerning this matter. 
-5:6: The copy of the letter that Tatnai, governor on this side the river, and Shethar-boznai, and his companions the Apharsachites, which were on this side the river, sent unto Darius the king: 
+5:5: But the eye of their God was upon the elders of the Jews, that they could not cause them to cease, till the matter came to Darius: and then they returned answer by letter concerning this matter.
+5:6: The copy of the letter that Tatnai, governor on this side the river, and Shethar-boznai, and his companions the Apharsachites, which were on this side the river, sent unto Darius the king:
 5:7: They sent a letter unto him, wherein was written thus; Unto Darius the king, all peace.
 5:8: Be it known unto the king, that we went into the province of Judea, to the house of the great God, which is builded with great stones, and timber is laid in the walls, and this work goeth fast on, and prospereth in their hands.
 5:9: Then asked we those elders, and said unto them thus, Who commanded you to build this house, and to make up these walls?
@@ -141,10 +141,10 @@ EZRA
 6:5: And also let the golden and silver vessels of the house of God, which Nebuchadnezzar took forth out of the temple which is at Jerusalem, and brought unto Babylon, be restored, and brought again unto the temple which is at Jerusalem, every one to his place, and place them in the house of God.
 6:6: Now therefore, Tatnai, governor beyond the river, Shethar-boznai, and your companions the Apharsachites, which are beyond the river, be ye far from thence:
 6:7: Let the work of this house of God alone; let the governor of the Jews and the elders of the Jews build this house of God in his place.
-6:8: Moreover I made a decree what ye shall do to the elders of these Jews for the building of this house of God: that of the king's goods, even of the tribute beyond the river, forthwith expences be given unto these men, that they be not hindered. 
+6:8: Moreover I made a decree what ye shall do to the elders of these Jews for the building of this house of God: that of the king's goods, even of the tribute beyond the river, forthwith expences be given unto these men, that they be not hindered.
 6:9: And that which they have need of, both young bullocks, and rams, and lambs, for the burnt offerings of the God of heaven, wheat, salt, wine, and oil, according to the appointment of the priests which are at Jerusalem, let it be given them day by day without fail:
-6:10: That they may offer sacrifices of sweet savours unto the God of heaven, and pray for the life of the king, and of his sons. 
-6:11: Also I have made a decree, that whosoever shall alter this word, let timber be pulled down from his house, and being set up, let him be hanged thereon; and let his house be made a dunghill for this. 
+6:10: That they may offer sacrifices of sweet savours unto the God of heaven, and pray for the life of the king, and of his sons.
+6:11: Also I have made a decree, that whosoever shall alter this word, let timber be pulled down from his house, and being set up, let him be hanged thereon; and let his house be made a dunghill for this.
 6:12: And the God that hath caused his name to dwell there destroy all kings and people, that shall put to their hand to alter and to destroy this house of God which is at Jerusalem. I Darius have made a decree; let it be done with speed.
 6:13: Then Tatnai, governor on this side the river, Shethar-boznai, and their companions, according to that which Darius the king had sent, so they did speedily.
 6:14: And the elders of the Jews builded, and they prospered through the prophesying of Haggai the prophet and Zechariah the son of Iddo. And they builded, and finished it, according to the commandment of the God of Israel, and according to the commandment of Cyrus, and Darius, and Artaxerxes king of Persia.
@@ -158,10 +158,10 @@ EZRA
 6:22: And kept the feast of unleavened bread seven days with joy: for the LORD had made them joyful, and turned the heart of the king of Assyria unto them, to strengthen their hands in the work of the house of God, the God of Israel.
 7:1: Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah,
 7:2: The son of Shallum, the son of Zadok, the son of Ahitub,
-7:3: The son of Amariah, the son of Azariah, the son of Meraioth, 
+7:3: The son of Amariah, the son of Azariah, the son of Meraioth,
 7:4: The son of Zerahiah, the son of Uzzi, the son of Bukki,
-7:5: The son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest: 
-7:6: This Ezra went up from Babylon; and he was a ready scribe in the law of Moses, which the LORD God of Israel had given: and the king granted him all his request, according to the hand of the LORD his God upon him. 
+7:5: The son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest:
+7:6: This Ezra went up from Babylon; and he was a ready scribe in the law of Moses, which the LORD God of Israel had given: and the king granted him all his request, according to the hand of the LORD his God upon him.
 7:7: And there went up some of the children of Israel, and of the priests, and the Levites, and the singers, and the porters, and the Nethinims, unto Jerusalem, in the seventh year of Artaxerxes the king.
 7:8: And he came to Jerusalem in the fifth month, which was in the seventh year of the king.
 7:9: For upon the first day of the first month began he to go up from Babylon, and on the first day of the fifth month came he to Jerusalem, according to the good hand of his God upon him.
@@ -181,9 +181,9 @@ EZRA
 7:23: Whatsoever is commanded by the God of heaven, let it be diligently done for the house of the God of heaven: for why should there be wrath against the realm of the king and his sons?
 7:24: Also we certify you, that touching any of the priests and Levites, singers, porters, Nethinims, or ministers of this house of God, it shall not be lawful to impose toll, tribute, or custom, upon them.
 7:25: And thou, Ezra, after the wisdom of thy God, that is in thine hand, set magistrates and judges, which may judge all the people that are beyond the river, all such as know the laws of thy God; and teach ye them that know them not.
-7:26: And whosoever will not do the law of thy God, and the law of the king, let judgment be executed speedily upon him, whether it be unto death, or to banishment, or to confiscation of goods, or to imprisonment. 
+7:26: And whosoever will not do the law of thy God, and the law of the king, let judgment be executed speedily upon him, whether it be unto death, or to banishment, or to confiscation of goods, or to imprisonment.
 7:27: Blessed be the LORD God of our fathers, which hath put such a thing as this in the king's heart, to beautify the house of the LORD which is in Jerusalem:
-7:28: And hath extended mercy unto me before the king, and his counsellers, and before all the king's mighty princes. And I was strengthened as the hand of the LORD my God was upon me, and I gathered together out of Israel chief men to go up with me. 
+7:28: And hath extended mercy unto me before the king, and his counsellers, and before all the king's mighty princes. And I was strengthened as the hand of the LORD my God was upon me, and I gathered together out of Israel chief men to go up with me.
 8:1: These are now the chief of their fathers, and this is the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king.
 8:2: Of the sons of Phinehas; Gershom: of the sons of Ithamar; Daniel: of the sons of David; Hattush.
 8:3: Of the sons of Shechaniah, of the sons of Pharosh; Zechariah: and with him were reckoned by genealogy of the males an hundred and fifty.
@@ -203,10 +203,10 @@ EZRA
 8:17: And I sent them with commandment unto Iddo the chief at the place Casiphia, and I told them what they should say unto Iddo, and to his brethren the Nethinims, at the place Casiphia, that they should bring unto us ministers for the house of our God.
 8:18: And by the good hand of our God upon us they brought us a man of understanding, of the sons of Mahli, the son of Levi, the son of Israel; and Sherebiah, with his sons and his brethren, eighteen;
 8:19: And Hashabiah, and with him Jeshaiah of the sons of Merari, his brethren and their sons, twenty;
-8:20: Also of the Nethinims, whom David and the princes had appointed for the service of the Levites, two hundred and twenty Nethinims: all of them were expressed by name. 
+8:20: Also of the Nethinims, whom David and the princes had appointed for the service of the Levites, two hundred and twenty Nethinims: all of them were expressed by name.
 8:21: Then I proclaimed a fast there, at the river of Ahava, that we might afflict ourselves before our God, to seek of him a right way for us, and for our little ones, and for all our substance.
-8:22: For I was ashamed to require of the king a band of soldiers and horsemen to help us against the enemy in the way: because we had spoken unto the king, saying, The hand of our God is upon all them for good that seek him; but his power and his wrath is against all them that forsake him. 
-8:23: So we fasted and besought our God for this: and he was intreated of us. 
+8:22: For I was ashamed to require of the king a band of soldiers and horsemen to help us against the enemy in the way: because we had spoken unto the king, saying, The hand of our God is upon all them for good that seek him; but his power and his wrath is against all them that forsake him.
+8:23: So we fasted and besought our God for this: and he was intreated of us.
 8:24: Then I separated twelve of the chief of the priests, Sherebiah, Hashabiah, and ten of their brethren with them,
 8:25: And weighed unto them the silver, and the gold, and the vessels, even the offering of the house of our God, which the king, and his counsellers, and his lords, and all Israel there present, had offered:
 8:26: I even weighed unto their hand six hundred and fifty talents of silver, and silver vessels an hundred talents, and of gold an hundred talents;
@@ -225,15 +225,15 @@ EZRA
 9:3: And when I heard this thing, I rent my garment and my mantle, and plucked off the hair of my head and of my beard, and sat down astonied.
 9:4: Then were assembled unto me every one that trembled at the words of the God of Israel, because of the transgression of those that had been carried away; and I sat astonied until the evening sacrifice.
 9:5: And at the evening sacrifice I arose up from my heaviness; and having rent my garment and my mantle, I fell upon my knees, and spread out my hands unto the LORD my God.
-9:6: And said, O my God, I am ashamed and blush to lift up my face to thee, my God: for our iniquities are increased over our head, and our trespass is grown up unto the heavens. 
+9:6: And said, O my God, I am ashamed and blush to lift up my face to thee, my God: for our iniquities are increased over our head, and our trespass is grown up unto the heavens.
 9:7: Since the days of our fathers have we been in a great trespass unto this day; and for our iniquities have we, our kings, and our priests, been delivered into the hand of the kings of the lands, to the sword, to captivity, and to a spoil, and to confusion of face, as it is this day.
 9:8: And now for a little space grace hath been shewed from the LORD our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage.
 9:9: For we were bondmen; yet our God hath not forsaken us in our bondage, but hath extended mercy unto us in the sight of the kings of Persia, to give us a reviving, to set up the house of our God, and to repair the desolations thereof, and to give us a wall in Judah and in Jerusalem.
 9:10: And now, O our God, what shall we say after this? for we have forsaken thy commandments,
-9:11: Which thou hast commanded by thy servants the prophets, saying, The land, unto which ye go to possess it, is an unclean land with the filthiness of the people of the lands, with their abominations, which have filled it from one end to another with their uncleanness. 
+9:11: Which thou hast commanded by thy servants the prophets, saying, The land, unto which ye go to possess it, is an unclean land with the filthiness of the people of the lands, with their abominations, which have filled it from one end to another with their uncleanness.
 9:12: Now therefore give not your daughters unto their sons, neither take their daughters unto your sons, nor seek their peace or their wealth for ever: that ye may be strong, and eat the good of the land, and leave it for an inheritance to your children for ever.
-9:13: And after all that is come upon us for our evil deeds, and for our great trespass, seeing that thou our God hast punished us less than our iniquities deserve, and hast given us such deliverance as this; 
-9:14: Should we again break thy commandments, and join in affinity with the people of these abominations? wouldest not thou be angry with us till thou hadst consumed us, so that there should be no remnant nor escaping? 
+9:13: And after all that is come upon us for our evil deeds, and for our great trespass, seeing that thou our God hast punished us less than our iniquities deserve, and hast given us such deliverance as this;
+9:14: Should we again break thy commandments, and join in affinity with the people of these abominations? wouldest not thou be angry with us till thou hadst consumed us, so that there should be no remnant nor escaping?
 9:15: O LORD God of Israel, thou art righteous: for we remain yet escaped, as it is this day: behold, we are before thee in our trespasses: for we cannot stand before thee because of this.
 10:1: Now when Ezra had prayed, and when he had confessed, weeping and casting himself down before the house of God, there assembled unto him out of Israel a very great congregation of men and women and children: for the people wept very sore.
 10:2: And Shechaniah the son of Jehiel, one of the sons of Elam, answered and said unto Ezra, We have trespassed against our God, and have taken strange wives of the people of the land: yet now there is hope in Israel concerning this thing.
@@ -252,10 +252,10 @@ EZRA
 10:15: Only Jonathan the son of Asahel and Jahaziah the son of Tikvah were employed about this matter: and Meshullam and Shabbethai the Levite helped them.
 10:16: And the children of the captivity did so. And Ezra the priest, with certain chief of the fathers, after the house of their fathers, and all of them by their names, were separated, and sat down in the first day of the tenth month to examine the matter.
 10:17: And they made an end with all the men that had taken strange wives by the first day of the first month.
-10:18: And among the sons of the priests there were found that had taken strange wives: namely, of the sons of Jeshua the son of Jozadak, and his brethren; Maaseiah, and Eliezer, and Jarib, and Gedaliah. 
+10:18: And among the sons of the priests there were found that had taken strange wives: namely, of the sons of Jeshua the son of Jozadak, and his brethren; Maaseiah, and Eliezer, and Jarib, and Gedaliah.
 10:19: And they gave their hands that they would put away their wives; and being guilty, they offered a ram of the flock for their trespass.
-10:20: And of the sons of Immer; Hanani, and Zebadiah. 
-10:21: And of the sons of Harim; Maaseiah, and Elijah, and Shemaiah, and Jehiel, and Uzziah. 
+10:20: And of the sons of Immer; Hanani, and Zebadiah.
+10:21: And of the sons of Harim; Maaseiah, and Elijah, and Shemaiah, and Jehiel, and Uzziah.
 10:22: And of the sons of Pashur; Elioenai, Maaseiah, Ishmael, Nethaneel, Jozabad, and Elasah.
 10:23: Also of the Levites; Jozabad, and Shimei, and Kelaiah, (the same is Kelita,) Pethahiah, Judah, and Eliezer.
 10:24: Of the singers also; Eliashib: and of the porters; Shallum, and Telem, and Uri.
@@ -275,8 +275,7 @@ EZRA
 10:38: And Bani, and Binnui, Shimei,
 10:39: And Shelemiah, and Nathan, and Adaiah,
 10:40: Machnadebai, Shashai, Sharai,
-10:41: Azareel, and Shelemiah, Shemariah, 
+10:41: Azareel, and Shelemiah, Shemariah,
 10:42: Shallum, Amariah, and Joseph.
-10:43: Of the sons of Nebo; Jeiel, Mattithiah, Zabad, Zebina, Jadau, and Joel, Benaiah. 
-10:44: All these had taken strange wives: and some of them had wives by whom they had children. 
-
+10:43: Of the sons of Nebo; Jeiel, Mattithiah, Zabad, Zebina, Jadau, and Joel, Benaiah.
+10:44: All these had taken strange wives: and some of them had wives by whom they had children.

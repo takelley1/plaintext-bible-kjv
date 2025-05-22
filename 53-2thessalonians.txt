@@ -1,4 +1,4 @@
-SECOND THESSALONIANS
+2 THESSALONIANS
 1:1: Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:
 1:2: Grace unto you, and peace, from God our Father and the Lord Jesus Christ.
 1:3: We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;
@@ -46,4 +46,3 @@ SECOND THESSALONIANS
 3:16: Now the Lord of peace himself give you peace always by all means. The Lord be with you all.
 3:17: The salutation of Paul with mine own hand, which is the token in every epistle: so I write.
 3:18: The grace of our Lord Jesus Christ be with you all. Amen.
-

@@ -2,10 +2,10 @@ JONAH
 1:1: Now the word of the LORD came unto Jonah the son of Amittai, saying,
 1:2: Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.
 1:3: But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD.
-1:4: But the LORD sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken. 
+1:4: But the LORD sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.
 1:5: Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.
-1:6: So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not. 
-1:7: And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah. 
+1:6: So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not.
+1:7: And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah.
 1:8: Then said they unto him, Tell us, we pray thee, for whose cause this evil is upon us; What is thine occupation? and whence comest thou? what is thy country? and of what people art thou?
 1:9: And he said unto them, I am an Hebrew; and I fear the LORD, the God of heaven, which hath made the sea and the dry land.
 1:10: Then were the men exceedingly afraid, and said unto him, Why hast thou done this? For the men knew that he fled from the presence of the LORD, because he had told them.
@@ -24,9 +24,9 @@ JONAH
 2:6: I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O LORD my God.
 2:7: When my soul fainted within me I remembered the LORD: and my prayer came in unto thee, into thine holy temple.
 2:8: They that observe lying vanities forsake their own mercy.
-2:9: But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the LORD. 
+2:9: But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the LORD.
 2:10: And the LORD spake unto the fish, and it vomited out Jonah upon the dry land.
-3:1: And the word of the LORD came unto Jonah the second time, saying, 
+3:1: And the word of the LORD came unto Jonah the second time, saying,
 3:2: Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee.
 3:3: So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days' journey.
 3:4: And Jonah began to enter into the city a day's journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown.
@@ -45,6 +45,5 @@ JONAH
 4:7: But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered.
 4:8: And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, It is better for me to die than to live.
 4:9: And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, even unto death.
-4:10: Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night: 
+4:10: Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:
 4:11: And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?
-

@@ -5,10 +5,10 @@ LAMENTATIONS
 1:4: The ways of Zion do mourn, because none come to the solemn feasts: all her gates are desolate: her priests sigh, her virgins are afflicted, and she is in bitterness.
 1:5: Her adversaries are the chief, her enemies prosper; for the LORD hath afflicted her for the multitude of her transgressions: her children are gone into captivity before the enemy.
 1:6: And from the daughter of Zion all her beauty is departed: her princes are become like harts that find no pasture, and they are gone without strength before the pursuer.
-1:7: Jerusalem remembered in the days of her affliction and of her miseries all her pleasant things that she had in the days of old, when her people fell into the hand of the enemy, and none did help her: the adversaries saw her, and did mock at her sabbaths. 
+1:7: Jerusalem remembered in the days of her affliction and of her miseries all her pleasant things that she had in the days of old, when her people fell into the hand of the enemy, and none did help her: the adversaries saw her, and did mock at her sabbaths.
 1:8: Jerusalem hath grievously sinned; therefore she is removed: all that honoured her despise her, because they have seen her nakedness: yea, she sigheth, and turneth backward.
-1:9: Her filthiness is in her skirts; she remembereth not her last end; therefore she came down wonderfully: she had no comforter. O LORD, behold my affliction: for the enemy hath magnified himself. 
-1:10: The adversary hath spread out his hand upon all her pleasant things: for she hath seen that the heathen entered into her sanctuary, whom thou didst command that they should not enter into thy congregation. 
+1:9: Her filthiness is in her skirts; she remembereth not her last end; therefore she came down wonderfully: she had no comforter. O LORD, behold my affliction: for the enemy hath magnified himself.
+1:10: The adversary hath spread out his hand upon all her pleasant things: for she hath seen that the heathen entered into her sanctuary, whom thou didst command that they should not enter into thy congregation.
 1:11: All her people sigh, they seek bread; they have given their pleasant things for meat to relieve the soul: see, O LORD, and consider; for I am become vile.
 1:12: Is it nothing to you, all ye that pass by? behold, and see if there be any sorrow like unto my sorrow, which is done unto me, wherewith the LORD hath afflicted me in the day of his fierce anger.
 1:13: From above hath he sent fire into my bones, and it prevaileth against them: he hath spread a net for my feet, he hath turned me back: he hath made me desolate and faint all the day.
@@ -27,10 +27,10 @@ LAMENTATIONS
 2:4: He hath bent his bow like an enemy: he stood with his right hand as an adversary, and slew all that were pleasant to the eye in the tabernacle of the daughter of Zion: he poured out his fury like fire.
 2:5: The Lord was as an enemy: he hath swallowed up Israel, he hath swallowed up all her palaces: he hath destroyed his strong holds, and hath increased in the daughter of Judah mourning and lamentation.
 2:6: And he hath violently taken away his tabernacle, as if it were of a garden: he hath destroyed his places of the assembly: the LORD hath caused the solemn feasts and sabbaths to be forgotten in Zion, and hath despised in the indignation of his anger the king and the priest.
-2:7: The Lord hath cast off his altar, he hath abhorred his sanctuary, he hath given up into the hand of the enemy the walls of her palaces; they have made a noise in the house of the LORD, as in the day of a solemn feast. 
+2:7: The Lord hath cast off his altar, he hath abhorred his sanctuary, he hath given up into the hand of the enemy the walls of her palaces; they have made a noise in the house of the LORD, as in the day of a solemn feast.
 2:8: The LORD hath purposed to destroy the wall of the daughter of Zion: he hath stretched out a line, he hath not withdrawn his hand from destroying: therefore he made the rampart and the wall to lament; they languished together.
-2:9: Her gates are sunk into the ground; he hath destroyed and broken her bars: her king and her princes are among the Gentiles: the law is no more; her prophets also find no vision from the LORD. 
-2:10: The elders of the daughter of Zion sit upon the ground, and keep silence: they have cast up dust upon their heads; they have girded themselves with sackcloth: the virgins of Jerusalem hang down their heads to the ground. 
+2:9: Her gates are sunk into the ground; he hath destroyed and broken her bars: her king and her princes are among the Gentiles: the law is no more; her prophets also find no vision from the LORD.
+2:10: The elders of the daughter of Zion sit upon the ground, and keep silence: they have cast up dust upon their heads; they have girded themselves with sackcloth: the virgins of Jerusalem hang down their heads to the ground.
 2:11: Mine eyes do fail with tears, my bowels are troubled, my liver is poured upon the earth, for the destruction of the daughter of my people; because the children and the sucklings swoon in the streets of the city.
 2:12: They say to their mothers, Where is corn and wine? when they swooned as the wounded in the streets of the city, when their soul was poured out into their mothers' bosom.
 2:13: What thing shall I take to witness for thee? what thing shall I liken to thee, O daughter of Jerusalem? what shall I equal to thee, that I may comfort thee, O virgin daughter of Zion? for thy breach is great like the sea: who can heal thee?
@@ -49,10 +49,10 @@ LAMENTATIONS
 3:4: My flesh and my skin hath he made old; he hath broken my bones.
 3:5: He hath builded against me, and compassed me with gall and travail.
 3:6: He hath set me in dark places, as they that be dead of old.
-3:7: He hath hedged me about, that I cannot get out: he hath made my chain heavy. 
+3:7: He hath hedged me about, that I cannot get out: he hath made my chain heavy.
 3:8: Also when I cry and shout, he shutteth out my prayer.
-3:9: He hath inclosed my ways with hewn stone, he hath made my paths crooked. 
-3:10: He was unto me as a bear lying in wait, and as a lion in secret places. 
+3:9: He hath inclosed my ways with hewn stone, he hath made my paths crooked.
+3:10: He was unto me as a bear lying in wait, and as a lion in secret places.
 3:11: He hath turned aside my ways, and pulled me in pieces: he hath made me desolate.
 3:12: He hath bent his bow, and set me as a mark for the arrow.
 3:13: He hath caused the arrows of his quiver to enter into my reins.
@@ -72,10 +72,10 @@ LAMENTATIONS
 3:27: It is good for a man that he bear the yoke in his youth.
 3:28: He sitteth alone and keepeth silence, because he hath borne it upon him.
 3:29: He putteth his mouth in the dust; if so be there may be hope.
-3:30: He giveth his cheek to him that smiteth him: he is filled full with reproach. 
+3:30: He giveth his cheek to him that smiteth him: he is filled full with reproach.
 3:31: For the Lord will not cast off for ever:
-3:32: But though he cause grief, yet will he have compassion according to the multitude of his mercies. 
-3:33: For he doth not afflict willingly nor grieve the children of men. 
+3:32: But though he cause grief, yet will he have compassion according to the multitude of his mercies.
+3:33: For he doth not afflict willingly nor grieve the children of men.
 3:34: To crush under his feet all the prisoners of the earth,
 3:35: To turn aside the right of a man before the face of the most High,
 3:36: To subvert a man in his cause, the Lord approveth not.
@@ -90,10 +90,10 @@ LAMENTATIONS
 3:45: Thou hast made us as the offscouring and refuse in the midst of the people.
 3:46: All our enemies have opened their mouths against us.
 3:47: Fear and a snare is come upon us, desolation and destruction.
-3:48: Mine eye runneth down with rivers of water for the destruction of the daughter of my people. 
+3:48: Mine eye runneth down with rivers of water for the destruction of the daughter of my people.
 3:49: Mine eye trickleth down, and ceaseth not, without any intermission,
-3:50: Till the LORD look down, and behold from heaven. 
-3:51: Mine eye affecteth mine heart because of all the daughters of my city. 
+3:50: Till the LORD look down, and behold from heaven.
+3:51: Mine eye affecteth mine heart because of all the daughters of my city.
 3:52: Mine enemies chased me sore, like a bird, without cause.
 3:53: They have cut off my life in the dungeon, and cast a stone upon me.
 3:54: Waters flowed over mine head; then I said, I am cut off.
@@ -112,10 +112,10 @@ LAMENTATIONS
 4:1: How is the gold become dim! how is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street.
 4:2: The precious sons of Zion, comparable to fine gold, how are they esteemed as earthen pitchers, the work of the hands of the potter!
 4:3: Even the sea monsters draw out the breast, they give suck to their young ones: the daughter of my people is become cruel, like the ostriches in the wilderness.
-4:4: The tongue of the sucking child cleaveth to the roof of his mouth for thirst: the young children ask bread, and no man breaketh it unto them. 
+4:4: The tongue of the sucking child cleaveth to the roof of his mouth for thirst: the young children ask bread, and no man breaketh it unto them.
 4:5: They that did feed delicately are desolate in the streets: they that were brought up in scarlet embrace dunghills.
-4:6: For the punishment of the iniquity of the daughter of my people is greater than the punishment of the sin of Sodom, that was overthrown as in a moment, and no hands stayed on her. 
-4:7: Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing was of sapphire: 
+4:6: For the punishment of the iniquity of the daughter of my people is greater than the punishment of the sin of Sodom, that was overthrown as in a moment, and no hands stayed on her.
+4:7: Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing was of sapphire:
 4:8: Their visage is blacker than a coal; they are not known in the streets: their skin cleaveth to their bones; it is withered, it is become like a stick.
 4:9: They that be slain with the sword are better than they that be slain with hunger: for these pine away, stricken through for want of the fruits of the field.
 4:10: The hands of the pitiful women have sodden their own children: they were their meat in the destruction of the daughter of my people.
@@ -134,10 +134,10 @@ LAMENTATIONS
 5:1: Remember, O LORD, what is come upon us: consider, and behold our reproach.
 5:2: Our inheritance is turned to strangers, our houses to aliens.
 5:3: We are orphans and fatherless, our mothers are as widows.
-5:4: We have drunken our water for money; our wood is sold unto us. 
+5:4: We have drunken our water for money; our wood is sold unto us.
 5:5: Our necks are under persecution: we labour, and have no rest.
-5:6: We have given the hand to the Egyptians, and to the Assyrians, to be satisfied with bread. 
-5:7: Our fathers have sinned, and are not; and we have borne their iniquities. 
+5:6: We have given the hand to the Egyptians, and to the Assyrians, to be satisfied with bread.
+5:7: Our fathers have sinned, and are not; and we have borne their iniquities.
 5:8: Servants have ruled over us: there is none that doth deliver us out of their hand.
 5:9: We gat our bread with the peril of our lives because of the sword of the wilderness.
 5:10: Our skin was black like an oven because of the terrible famine.
@@ -153,4 +153,3 @@ LAMENTATIONS
 5:20: Wherefore dost thou forget us for ever, and forsake us so long time?
 5:21: Turn thou us unto thee, O LORD, and we shall be turned; renew our days as of old.
 5:22: But thou hast utterly rejected us; thou art very wroth against us.
-

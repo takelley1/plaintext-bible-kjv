@@ -10,10 +10,10 @@ GENESIS
 1:9: And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.
 1:10: And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.
 1:11: And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.
-1:12: And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good. 
+1:12: And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good.
 1:13: And the evening and the morning were the third day.
-1:14: And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years: 
-1:15: And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so. 
+1:14: And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:
+1:15: And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.
 1:16: And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.
 1:17: And God set them in the firmament of the heaven to give light upon the earth,
 1:18: And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good.
@@ -35,10 +35,10 @@ GENESIS
 2:3: And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.
 2:4: These are the generations of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens,
 2:5: And every plant of the field before it was in the earth, and every herb of the field before it grew: for the LORD God had not caused it to rain upon the earth, and there was not a man to till the ground.
-2:6: But there went up a mist from the earth, and watered the whole face of the ground. 
+2:6: But there went up a mist from the earth, and watered the whole face of the ground.
 2:7: And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
-2:8: And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed. 
-2:9: And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. 
+2:8: And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed.
+2:9: And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.
 2:10: And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads.
 2:11: The name of the first is Pison: that is it which compasseth the whole land of Havilah, where there is gold;
 2:12: And the gold of that land is good: there is bdellium and the onyx stone.
@@ -57,10 +57,10 @@ GENESIS
 2:25: And they were both naked, the man and his wife, and were not ashamed.
 3:1: Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?
 3:2: And the woman said unto the serpent, We may eat of the fruit of the trees of the garden:
-3:3: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. 
+3:3: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die.
 3:4: And the serpent said unto the woman, Ye shall not surely die:
-3:5: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. 
-3:6: And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. 
+3:5: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.
+3:6: And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.
 3:7: And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.
 3:8: And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the LORD God amongst the trees of the garden.
 3:9: And the LORD God called unto Adam, and said unto him, Where art thou?
@@ -79,10 +79,10 @@ GENESIS
 3:22: And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:
 3:23: Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken.
 3:24: So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.
-4:1: And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD. 
+4:1: And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD.
 4:2: And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.
-4:3: And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD. 
-4:4: And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering: 
+4:3: And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD.
+4:4: And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:
 4:5: But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell.
 4:6: And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen?
 4:7: If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him.
@@ -102,9 +102,9 @@ GENESIS
 4:21: And his brother's name was Jubal: he was the father of all such as handle the harp and organ.
 4:22: And Zillah, she also bare Tubal-cain, an instructer of every artificer in brass and iron: and the sister of Tubal-cain was Naamah.
 4:23: And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt.
-4:24: If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold. 
+4:24: If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold.
 4:25: And Adam knew his wife again; and she bare a son, and called his name Seth: For God, said she, hath appointed me another seed instead of Abel, whom Cain slew.
-4:26: And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the LORD. 
+4:26: And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the LORD.
 5:1: This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;
 5:2: Male and female created he them; and blessed them, and called their name Adam, in the day when they were created.
 5:3: And Adam lived an hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth:
@@ -124,10 +124,10 @@ GENESIS
 5:17: And all the days of Mahalaleel were eight hundred ninety and five years: and he died.
 5:18: And Jared lived an hundred sixty and two years, and he begat Enoch:
 5:19: And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:
-5:20: And all the days of Jared were nine hundred sixty and two years: and he died. 
+5:20: And all the days of Jared were nine hundred sixty and two years: and he died.
 5:21: And Enoch lived sixty and five years, and begat Methuselah:
-5:22: And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters: 
-5:23: And all the days of Enoch were three hundred sixty and five years: 
+5:22: And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:
+5:23: And all the days of Enoch were three hundred sixty and five years:
 5:24: And Enoch walked with God: and he was not; for God took him.
 5:25: And Methuselah lived an hundred eighty and seven years, and begat Lamech:
 5:26: And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters:
@@ -146,10 +146,10 @@ GENESIS
 6:7: And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.
 6:8: But Noah found grace in the eyes of the LORD.
 6:9: These are the generations of Noah: Noah was a just man and perfect in his generations, and Noah walked with God.
-6:10: And Noah begat three sons, Shem, Ham, and Japheth. 
+6:10: And Noah begat three sons, Shem, Ham, and Japheth.
 6:11: The earth also was corrupt before God, and the earth was filled with violence.
-6:12: And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth. 
-6:13: And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth. 
+6:12: And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth.
+6:13: And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.
 6:14: Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.
 6:15: And this is the fashion which thou shalt make it of: The length of the ark shall be three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits.
 6:16: A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; with lower, second, and third stories shalt thou make it.
@@ -168,10 +168,10 @@ GENESIS
 7:7: And Noah went in, and his sons, and his wife, and his sons' wives with him, into the ark, because of the waters of the flood.
 7:8: Of clean beasts, and of beasts that are not clean, and of fowls, and of every thing that creepeth upon the earth,
 7:9: There went in two and two unto Noah into the ark, the male and the female, as God had commanded Noah.
-7:10: And it came to pass after seven days, that the waters of the flood were upon the earth. 
+7:10: And it came to pass after seven days, that the waters of the flood were upon the earth.
 7:11: In the six hundredth year of Noah's life, in the second month, the seventeenth day of the month, the same day were all the fountains of the great deep broken up, and the windows of heaven were opened.
-7:12: And the rain was upon the earth forty days and forty nights. 
-7:13: In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah's wife, and the three wives of his sons with them, into the ark; 
+7:12: And the rain was upon the earth forty days and forty nights.
+7:13: In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah's wife, and the three wives of his sons with them, into the ark;
 7:14: They, and every beast after his kind, and all the cattle after their kind, and every creeping thing that creepeth upon the earth after his kind, and every fowl after his kind, every bird of every sort.
 7:15: And they went in unto Noah into the ark, two and two of all flesh, wherein is the breath of life.
 7:16: And they that went in, went in male and female of all flesh, as God had commanded him: and the LORD shut him in.
@@ -190,10 +190,10 @@ GENESIS
 8:5: And the waters decreased continually until the tenth month: in the tenth month, on the first day of the month, were the tops of the mountains seen.
 8:6: And it came to pass at the end of forty days, that Noah opened the window of the ark which he had made:
 8:7: And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth.
-8:8: Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground; 
+8:8: Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;
 8:9: But the dove found no rest for the sole of her foot, and she returned unto him into the ark, for the waters were on the face of the whole earth: then he put forth his hand, and took her, and pulled her in unto him into the ark.
-8:10: And he stayed yet other seven days; and again he sent forth the dove out of the ark; 
-8:11: And the dove came in to him in the evening; and, lo, in her mouth was an olive leaf pluckt off: so Noah knew that the waters were abated from off the earth. 
+8:10: And he stayed yet other seven days; and again he sent forth the dove out of the ark;
+8:11: And the dove came in to him in the evening; and, lo, in her mouth was an olive leaf pluckt off: so Noah knew that the waters were abated from off the earth.
 8:12: And he stayed yet other seven days; and sent forth the dove; which returned not again unto him any more.
 8:13: And it came to pass in the six hundredth and first year, in the first month, the first day of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry.
 8:14: And in the second month, on the seven and twentieth day of the month, was the earth dried.
@@ -210,10 +210,10 @@ GENESIS
 9:3: Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things.
 9:4: But flesh with the life thereof, which is the blood thereof, shall ye not eat.
 9:5: And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man's brother will I require the life of man.
-9:6: Whoso sheddeth man's blood, by man shall his blood be shed: for in the image of God made he man. 
+9:6: Whoso sheddeth man's blood, by man shall his blood be shed: for in the image of God made he man.
 9:7: And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein.
-9:8: And God spake unto Noah, and to his sons with him, saying, 
-9:9: And I, behold, I establish my covenant with you, and with your seed after you; 
+9:8: And God spake unto Noah, and to his sons with him, saying,
+9:9: And I, behold, I establish my covenant with you, and with your seed after you;
 9:10: And with every living creature that is with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth.
 9:11: And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.
 9:12: And God said, This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations:
@@ -233,9 +233,9 @@ GENESIS
 9:26: And he said, Blessed be the LORD God of Shem; and Canaan shall be his servant.
 9:27: God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant.
 9:28: And Noah lived after the flood three hundred and fifty years.
-9:29: And all the days of Noah were nine hundred and fifty years: and he died. 
-10:1: Now these are the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood. 
-10:2: The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras. 
+9:29: And all the days of Noah were nine hundred and fifty years: and he died.
+10:1: Now these are the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.
+10:2: The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.
 10:3: And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah.
 10:4: And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.
 10:5: By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations.
@@ -255,10 +255,10 @@ GENESIS
 10:19: And the border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha.
 10:20: These are the sons of Ham, after their families, after their tongues, in their countries, and in their nations.
 10:21: Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were children born.
-10:22: The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram. 
+10:22: The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram.
 10:23: And the children of Aram; Uz, and Hul, and Gether, and Mash.
-10:24: And Arphaxad begat Salah; and Salah begat Eber. 
-10:25: And unto Eber were born two sons: the name of one was Peleg; for in his days was the earth divided; and his brother's name was Joktan. 
+10:24: And Arphaxad begat Salah; and Salah begat Eber.
+10:25: And unto Eber were born two sons: the name of one was Peleg; for in his days was the earth divided; and his brother's name was Joktan.
 10:26: And Joktan begat Almodad, and Sheleph, and Hazar-maveth, and Jerah,
 10:27: And Hadoram, and Uzal, and Diklah,
 10:28: And Obal, and Abimael, and Sheba,
@@ -277,10 +277,10 @@ GENESIS
 11:9: Therefore is the name of it called Babel; because the LORD did there confound the language of all the earth: and from thence did the LORD scatter them abroad upon the face of all the earth.
 11:10: These are the generations of Shem: Shem was an hundred years old, and begat Arphaxad two years after the flood:
 11:11: And Shem lived after he begat Arphaxad five hundred years, and begat sons and daughters.
-11:12: And Arphaxad lived five and thirty years, and begat Salah: 
+11:12: And Arphaxad lived five and thirty years, and begat Salah:
 11:13: And Arphaxad lived after he begat Salah four hundred and three years, and begat sons and daughters.
-11:14: And Salah lived thirty years, and begat Eber: 
-11:15: And Salah lived after he begat Eber four hundred and three years, and begat sons and daughters. 
+11:14: And Salah lived thirty years, and begat Eber:
+11:15: And Salah lived after he begat Eber four hundred and three years, and begat sons and daughters.
 11:16: And Eber lived four and thirty years, and begat Peleg:
 11:17: And Eber lived after he begat Peleg four hundred and thirty years, and begat sons and daughters.
 11:18: And Peleg lived thirty years, and begat Reu:
@@ -299,10 +299,10 @@ GENESIS
 11:31: And Terah took Abram his son, and Lot the son of Haran his son's son, and Sarai his daughter in law, his son Abram's wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there.
 11:32: And the days of Terah were two hundred and five years: and Terah died in Haran.
 12:1: Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will shew thee:
-12:2: And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing: 
+12:2: And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing:
 12:3: And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed.
-12:4: So Abram departed, as the LORD had spoken unto him; and Lot went with him: and Abram was seventy and five years old when he departed out of Haran. 
-12:5: And Abram took Sarai his wife, and Lot his brother's son, and all their substance that they had gathered, and the souls that they had gotten in Haran; and they went forth to go into the land of Canaan; and into the land of Canaan they came. 
+12:4: So Abram departed, as the LORD had spoken unto him; and Lot went with him: and Abram was seventy and five years old when he departed out of Haran.
+12:5: And Abram took Sarai his wife, and Lot his brother's son, and all their substance that they had gathered, and the souls that they had gotten in Haran; and they went forth to go into the land of Canaan; and into the land of Canaan they came.
 12:6: And Abram passed through the land unto the place of Sichem, unto the plain of Moreh. And the Canaanite was then in the land.
 12:7: And the LORD appeared unto Abram, and said, Unto thy seed will I give this land: and there builded he an altar unto the LORD, who appeared unto him.
 12:8: And he removed from thence unto a mountain on the east of Bethel, and pitched his tent, having Bethel on the west, and Hai on the east: and there he builded an altar unto the LORD, and called upon the name of the LORD.
@@ -312,10 +312,10 @@ GENESIS
 12:12: Therefore it shall come to pass, when the Egyptians shall see thee, that they shall say, This is his wife: and they will kill me, but they will save thee alive.
 12:13: Say, I pray thee, thou art my sister: that it may be well with me for thy sake; and my soul shall live because of thee.
 12:14: And it came to pass, that, when Abram was come into Egypt, the Egyptians beheld the woman that she was very fair.
-12:15: The princes also of Pharaoh saw her, and commended her before Pharaoh: and the woman was taken into Pharaoh's house. 
+12:15: The princes also of Pharaoh saw her, and commended her before Pharaoh: and the woman was taken into Pharaoh's house.
 12:16: And he entreated Abram well for her sake: and he had sheep, and oxen, and he asses, and menservants, and maidservants, and she asses, and camels.
-12:17: And the LORD plagued Pharaoh and his house with great plagues because of Sarai Abram's wife. 
-12:18: And Pharaoh called Abram, and said, What is this that thou hast done unto me? why didst thou not tell me that she was thy wife? 
+12:17: And the LORD plagued Pharaoh and his house with great plagues because of Sarai Abram's wife.
+12:18: And Pharaoh called Abram, and said, What is this that thou hast done unto me? why didst thou not tell me that she was thy wife?
 12:19: Why saidst thou, She is my sister? so I might have taken her to me to wife: now therefore behold thy wife, take her, and go thy way.
 12:20: And Pharaoh commanded his men concerning him: and they sent him away, and his wife, and all that he had.
 13:1: And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south.
@@ -334,9 +334,9 @@ GENESIS
 13:14: And the LORD said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward:
 13:15: For all the land which thou seest, to thee will I give it, and to thy seed for ever.
 13:16: And I will make thy seed as the dust of the earth: so that if a man can number the dust of the earth, then shall thy seed also be numbered.
-13:17: Arise, walk through the land in the length of it and in the breadth of it; for I will give it unto thee. 
+13:17: Arise, walk through the land in the length of it and in the breadth of it; for I will give it unto thee.
 13:18: Then Abram removed his tent, and came and dwelt in the plain of Mamre, which is in Hebron, and built there an altar unto the LORD.
-14:1: And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations; 
+14:1: And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations;
 14:2: That these made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar.
 14:3: All these were joined together in the vale of Siddim, which is the salt sea.
 14:4: Twelve years they served Chedorlaomer, and in the thirteenth year they rebelled.
@@ -356,10 +356,10 @@ GENESIS
 14:18: And Melchizedek king of Salem brought forth bread and wine: and he was the priest of the most high God.
 14:19: And he blessed him, and said, Blessed be Abram of the most high God, possessor of heaven and earth:
 14:20: And blessed be the most high God, which hath delivered thine enemies into thy hand. And he gave him tithes of all.
-14:21: And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself. 
+14:21: And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself.
 14:22: And Abram said to the king of Sodom, I have lift up mine hand unto the LORD, the most high God, the possessor of heaven and earth,
-14:23: That I will not take from a thread even to a shoelatchet, and that I will not take any thing that is thine, lest thou shouldest say, I have made Abram rich: 
-14:24: Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion. 
+14:23: That I will not take from a thread even to a shoelatchet, and that I will not take any thing that is thine, lest thou shouldest say, I have made Abram rich:
+14:24: Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion.
 15:1: After these things the word of the LORD came unto Abram in a vision, saying, Fear not, Abram: I am thy shield, and thy exceeding great reward.
 15:2: And Abram said, Lord GOD, what wilt thou give me, seeing I go childless, and the steward of my house is this Eliezer of Damascus?
 15:3: And Abram said, Behold, to me thou hast given no seed: and, lo, one born in my house is mine heir.
@@ -378,9 +378,9 @@ GENESIS
 15:16: But in the fourth generation they shall come hither again: for the iniquity of the Amorites is not yet full.
 15:17: And it came to pass, that, when the sun went down, and it was dark, behold a smoking furnace, and a burning lamp that passed between those pieces.
 15:18: In the same day the LORD made a covenant with Abram, saying, Unto thy seed have I given this land, from the river of Egypt unto the great river, the river Euphrates:
-15:19: The Kenites, and the Kenizzites, and the Kadmonites, 
+15:19: The Kenites, and the Kenizzites, and the Kadmonites,
 15:20: And the Hittites, and the Perizzites, and the Rephaims,
-15:21: And the Amorites, and the Canaanites, and the Girgashites, and the Jebusites. 
+15:21: And the Amorites, and the Canaanites, and the Girgashites, and the Jebusites.
 16:1: Now Sarai Abram's wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar.
 16:2: And Sarai said unto Abram, Behold now, the LORD hath restrained me from bearing: I pray thee, go in unto my maid; it may be that I may obtain children by her. And Abram hearkened to the voice of Sarai.
 16:3: And Sarai Abram's wife took Hagar her maid the Egyptian, after Abram had dwelt ten years in the land of Canaan, and gave her to her husband Abram to be his wife.
@@ -396,9 +396,9 @@ GENESIS
 16:13: And she called the name of the LORD that spake unto her, Thou God seest me: for she said, Have I also here looked after him that seeth me?
 16:14: Wherefore the well was called Beer-lahai-roi; behold, it is between Kadesh and Bered.
 16:15: And Hagar bare Abram a son: and Abram called his son's name, which Hagar bare, Ishmael.
-16:16: And Abram was fourscore and six years old, when Hagar bare Ishmael to Abram. 
-17:1: And when Abram was ninety years old and nine, the LORD appeared to Abram, and said unto him, I am the Almighty God; walk before me, and be thou perfect. 
-17:2: And I will make my covenant between me and thee, and will multiply thee exceedingly. 
+16:16: And Abram was fourscore and six years old, when Hagar bare Ishmael to Abram.
+17:1: And when Abram was ninety years old and nine, the LORD appeared to Abram, and said unto him, I am the Almighty God; walk before me, and be thou perfect.
+17:2: And I will make my covenant between me and thee, and will multiply thee exceedingly.
 17:3: And Abram fell on his face: and God talked with him, saying,
 17:4: As for me, behold, my covenant is with thee, and thou shalt be a father of many nations.
 17:5: Neither shall thy name any more be called Abram, but thy name shall be Abraham; for a father of many nations have I made thee.
@@ -418,10 +418,10 @@ GENESIS
 17:19: And God said, Sarah thy wife shall bear thee a son indeed; and thou shalt call his name Isaac: and I will establish my covenant with him for an everlasting covenant, and with his seed after him.
 17:20: And as for Ishmael, I have heard thee: Behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly; twelve princes shall he beget, and I will make him a great nation.
 17:21: But my covenant will I establish with Isaac, which Sarah shall bear unto thee at this set time in the next year.
-17:22: And he left off talking with him, and God went up from Abraham. 
+17:22: And he left off talking with him, and God went up from Abraham.
 17:23: And Abraham took Ishmael his son, and all that were born in his house, and all that were bought with his money, every male among the men of Abraham's house; and circumcised the flesh of their foreskin in the selfsame day, as God had said unto him.
-17:24: And Abraham was ninety years old and nine, when he was circumcised in the flesh of his foreskin. 
-17:25: And Ishmael his son was thirteen years old, when he was circumcised in the flesh of his foreskin. 
+17:24: And Abraham was ninety years old and nine, when he was circumcised in the flesh of his foreskin.
+17:25: And Ishmael his son was thirteen years old, when he was circumcised in the flesh of his foreskin.
 17:26: In the selfsame day was Abraham circumcised, and Ishmael his son.
 17:27: And all the men of his house, born in the house, and bought with money of the stranger, were circumcised with him.
 18:1: And the LORD appeared unto him in the plains of Mamre: and he sat in the tent door in the heat of the day;
@@ -440,10 +440,10 @@ GENESIS
 18:14: Is any thing too hard for the LORD? At the time appointed I will return unto thee, according to the time of life, and Sarah shall have a son.
 18:15: Then Sarah denied, saying, I laughed not; for she was afraid. And he said, Nay; but thou didst laugh.
 18:16: And the men rose up from thence, and looked toward Sodom: and Abraham went with them to bring them on the way.
-18:17: And the LORD said, Shall I hide from Abraham that thing which I do; 
+18:17: And the LORD said, Shall I hide from Abraham that thing which I do;
 18:18: Seeing that Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him?
-18:19: For I know him, that he will command his children and his household after him, and they shall keep the way of the LORD, to do justice and judgment; that the LORD may bring upon Abraham that which he hath spoken of him. 
-18:20: And the LORD said, Because the cry of Sodom and Gomorrah is great, and because their sin is very grievous; 
+18:19: For I know him, that he will command his children and his household after him, and they shall keep the way of the LORD, to do justice and judgment; that the LORD may bring upon Abraham that which he hath spoken of him.
+18:20: And the LORD said, Because the cry of Sodom and Gomorrah is great, and because their sin is very grievous;
 18:21: I will go down now, and see whether they have done altogether according to the cry of it, which is come unto me; and if not, I will know.
 18:22: And the men turned their faces from thence, and went toward Sodom: but Abraham stood yet before the LORD.
 18:23: And Abraham drew near, and said, Wilt thou also destroy the righteous with the wicked?
@@ -462,10 +462,10 @@ GENESIS
 19:3: And he pressed upon them greatly; and they turned in unto him, and entered into his house; and he made them a feast, and did bake unleavened bread, and they did eat.
 19:4: But before they lay down, the men of the city, even the men of Sodom, compassed the house round, both old and young, all the people from every quarter:
 19:5: And they called unto Lot, and said unto him, Where are the men which came in to thee this night? bring them out unto us, that we may know them.
-19:6: And Lot went out at the door unto them, and shut the door after him, 
+19:6: And Lot went out at the door unto them, and shut the door after him,
 19:7: And said, I pray you, brethren, do not so wickedly.
-19:8: Behold now, I have two daughters which have not known man; let me, I pray you, bring them out unto you, and do ye to them as is good in your eyes: only unto these men do nothing; for therefore came they under the shadow of my roof. 
-19:9: And they said, Stand back. And they said again, This one fellow came in to sojourn, and he will needs be a judge: now will we deal worse with thee, than with them. And they pressed sore upon the man, even Lot, and came near to break the door. 
+19:8: Behold now, I have two daughters which have not known man; let me, I pray you, bring them out unto you, and do ye to them as is good in your eyes: only unto these men do nothing; for therefore came they under the shadow of my roof.
+19:9: And they said, Stand back. And they said again, This one fellow came in to sojourn, and he will needs be a judge: now will we deal worse with thee, than with them. And they pressed sore upon the man, even Lot, and came near to break the door.
 19:10: But the men put forth their hand, and pulled Lot into the house to them, and shut to the door.
 19:11: And they smote the men that were at the door of the house with blindness, both small and great: so that they wearied themselves to find the door.
 19:12: And the men said unto Lot, Hast thou here any besides? son in law, and thy sons, and thy daughters, and whatsoever thou hast in the city, bring them out of this place:
@@ -474,10 +474,10 @@ GENESIS
 19:15: And when the morning arose, then the angels hastened Lot, saying, Arise, take thy wife, and thy two daughters, which are here; lest thou be consumed in the iniquity of the city.
 19:16: And while he lingered, the men laid hold upon his hand, and upon the hand of his wife, and upon the hand of his two daughters; the LORD being merciful unto him: and they brought him forth, and set him without the city.
 19:17: And it came to pass, when they had brought them forth abroad, that he said, Escape for thy life; look not behind thee, neither stay thou in all the plain; escape to the mountain, lest thou be consumed.
-19:18: And Lot said unto them, Oh, not so, my Lord: 
+19:18: And Lot said unto them, Oh, not so, my Lord:
 19:19: Behold now, thy servant hath found grace in thy sight, and thou hast magnified thy mercy, which thou hast shewed unto me in saving my life; and I cannot escape to the mountain, lest some evil take me, and I die:
-19:20: Behold now, this city is near to flee unto, and it is a little one: Oh, let me escape thither, (is it not a little one?) and my soul shall live. 
-19:21: And he said unto him, See, I have accepted thee concerning this thing also, that I will not overthrow this city, for the which thou hast spoken. 
+19:20: Behold now, this city is near to flee unto, and it is a little one: Oh, let me escape thither, (is it not a little one?) and my soul shall live.
+19:21: And he said unto him, See, I have accepted thee concerning this thing also, that I will not overthrow this city, for the which thou hast spoken.
 19:22: Haste thee, escape thither; for I cannot do any thing till thou be come thither. Therefore the name of the city was called Zoar.
 19:23: The sun was risen upon the earth when Lot entered into Zoar.
 19:24: Then the LORD rained upon Sodom and upon Gomorrah brimstone and fire from the LORD out of heaven;
@@ -496,10 +496,10 @@ GENESIS
 19:37: And the firstborn bare a son, and called his name Moab: the same is the father of the Moabites unto this day.
 19:38: And the younger, she also bare a son, and called his name Benammi: the same is the father of the children of Ammon unto this day.
 20:1: And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar.
-20:2: And Abraham said of Sarah his wife, She is my sister: and Abimelech king of Gerar sent, and took Sarah. 
+20:2: And Abraham said of Sarah his wife, She is my sister: and Abimelech king of Gerar sent, and took Sarah.
 20:3: But God came to Abimelech in a dream by night, and said to him, Behold, thou art but a dead man, for the woman which thou hast taken; for she is a man's wife.
-20:4: But Abimelech had not come near her: and he said, Lord, wilt thou slay also a righteous nation? 
-20:5: Said he not unto me, She is my sister? and she, even she herself said, He is my brother: in the integrity of my heart and innocency of my hands have I done this. 
+20:4: But Abimelech had not come near her: and he said, Lord, wilt thou slay also a righteous nation?
+20:5: Said he not unto me, She is my sister? and she, even she herself said, He is my brother: in the integrity of my heart and innocency of my hands have I done this.
 20:6: And God said unto him in a dream, Yea, I know that thou didst this in the integrity of thy heart; for I also withheld thee from sinning against me: therefore suffered I thee not to touch her.
 20:7: Now therefore restore the man his wife; for he is a prophet, and he shall pray for thee, and thou shalt live: and if thou restore her not, know thou that thou shalt surely die, thou, and all that are thine.
 20:8: Therefore Abimelech rose early in the morning, and called all his servants, and told all these things in their ears: and the men were sore afraid.
@@ -518,10 +518,10 @@ GENESIS
 21:3: And Abraham called the name of his son that was born unto him, whom Sarah bare to him, Isaac.
 21:4: And Abraham circumcised his son Isaac being eight days old, as God had commanded him.
 21:5: And Abraham was an hundred years old, when his son Isaac was born unto him.
-21:6: And Sarah said, God hath made me to laugh, so that all that hear will laugh with me. 
+21:6: And Sarah said, God hath made me to laugh, so that all that hear will laugh with me.
 21:7: And she said, Who would have said unto Abraham, that Sarah should have given children suck? for I have born him a son in his old age.
-21:8: And the child grew, and was weaned: and Abraham made a great feast the same day that Isaac was weaned. 
-21:9: And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking. 
+21:8: And the child grew, and was weaned: and Abraham made a great feast the same day that Isaac was weaned.
+21:9: And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking.
 21:10: Wherefore she said unto Abraham, Cast out this bondwoman and her son: for the son of this bondwoman shall not be heir with my son, even with Isaac.
 21:11: And the thing was very grievous in Abraham's sight because of his son.
 21:12: And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called.
@@ -541,10 +541,10 @@ GENESIS
 21:26: And Abimelech said, I wot not who hath done this thing: neither didst thou tell me, neither yet heard I of it, but to day.
 21:27: And Abraham took sheep and oxen, and gave them unto Abimelech; and both of them made a covenant.
 21:28: And Abraham set seven ewe lambs of the flock by themselves.
-21:29: And Abimelech said unto Abraham, What mean these seven ewe lambs which thou hast set by themselves? 
+21:29: And Abimelech said unto Abraham, What mean these seven ewe lambs which thou hast set by themselves?
 21:30: And he said, For these seven ewe lambs shalt thou take of my hand, that they may be a witness unto me, that I have digged this well.
-21:31: Wherefore he called that place Beer-sheba; because there they sware both of them. 
-21:32: Thus they made a covenant at Beer-sheba: then Abimelech rose up, and Phichol the chief captain of his host, and they returned into the land of the Philistines. 
+21:31: Wherefore he called that place Beer-sheba; because there they sware both of them.
+21:32: Thus they made a covenant at Beer-sheba: then Abimelech rose up, and Phichol the chief captain of his host, and they returned into the land of the Philistines.
 21:33: And Abraham planted a grove in Beer-sheba, and called there on the name of the LORD, the everlasting God.
 21:34: And Abraham sojourned in the Philistines' land many days.
 22:1: And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.
@@ -556,10 +556,10 @@ GENESIS
 22:7: And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering?
 22:8: And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together.
 22:9: And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood.
-22:10: And Abraham stretched forth his hand, and took the knife to slay his son. 
+22:10: And Abraham stretched forth his hand, and took the knife to slay his son.
 22:11: And the angel of the LORD called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I.
-22:12: And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me. 
-22:13: And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son. 
+22:12: And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me.
+22:13: And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.
 22:14: And Abraham called the name of that place Jehovah-jireh: as it is said to this day, In the mount of the LORD it shall be seen.
 22:15: And the angel of the LORD called unto Abraham out of heaven the second time,
 22:16: And said, By myself have I sworn, saith the LORD, for because thou hast done this thing, and hast not withheld thy son, thine only son:
@@ -578,10 +578,10 @@ GENESIS
 23:5: And the children of Heth answered Abraham, saying unto him,
 23:6: Hear us, my lord: thou art a mighty prince among us: in the choice of our sepulchres bury thy dead; none of us shall withhold from thee his sepulchre, but that thou mayest bury thy dead.
 23:7: And Abraham stood up, and bowed himself to the people of the land, even to the children of Heth.
-23:8: And he communed with them, saying, If it be your mind that I should bury my dead out of my sight; hear me, and intreat for me to Ephron the son of Zohar, 
+23:8: And he communed with them, saying, If it be your mind that I should bury my dead out of my sight; hear me, and intreat for me to Ephron the son of Zohar,
 23:9: That he may give me the cave of Machpelah, which he hath, which is in the end of his field; for as much money as it is worth he shall give it me for a possession of a buryingplace amongst you.
-23:10: And Ephron dwelt among the children of Heth: and Ephron the Hittite answered Abraham in the audience of the children of Heth, even of all that went in at the gate of his city, saying, 
-23:11: Nay, my lord, hear me: the field give I thee, and the cave that is therein, I give it thee; in the presence of the sons of my people give I it thee: bury thy dead. 
+23:10: And Ephron dwelt among the children of Heth: and Ephron the Hittite answered Abraham in the audience of the children of Heth, even of all that went in at the gate of his city, saying,
+23:11: Nay, my lord, hear me: the field give I thee, and the cave that is therein, I give it thee; in the presence of the sons of my people give I it thee: bury thy dead.
 23:12: And Abraham bowed down himself before the people of the land.
 23:13: And he spake unto Ephron in the audience of the people of the land, saying, But if thou wilt give it, I pray thee, hear me: I will give thee money for the field; take it of me, and I will bury my dead there.
 23:14: And Ephron answered Abraham, saying unto him,
@@ -600,10 +600,10 @@ GENESIS
 24:7: The LORD God of heaven, which took me from my father's house, and from the land of my kindred, and which spake unto me, and that sware unto me, saying, Unto thy seed will I give this land; he shall send his angel before thee, and thou shalt take a wife unto my son from thence.
 24:8: And if the woman will not be willing to follow thee, then thou shalt be clear from this my oath: only bring not my son thither again.
 24:9: And the servant put his hand under the thigh of Abraham his master, and sware to him concerning that matter.
-24:10: And the servant took ten camels of the camels of his master, and departed; for all the goods of his master were in his hand: and he arose, and went to Mesopotamia, unto the city of Nahor. 
+24:10: And the servant took ten camels of the camels of his master, and departed; for all the goods of his master were in his hand: and he arose, and went to Mesopotamia, unto the city of Nahor.
 24:11: And he made his camels to kneel down without the city by a well of water at the time of the evening, even the time that women go out to draw water.
-24:12: And he said, O LORD God of my master Abraham, I pray thee, send me good speed this day, and shew kindness unto my master Abraham. 
-24:13: Behold, I stand here by the well of water; and the daughters of the men of the city come out to draw water: 
+24:12: And he said, O LORD God of my master Abraham, I pray thee, send me good speed this day, and shew kindness unto my master Abraham.
+24:13: Behold, I stand here by the well of water; and the daughters of the men of the city come out to draw water:
 24:14: And let it come to pass, that the damsel to whom I shall say, Let down thy pitcher, I pray thee, that I may drink; and she shall say, Drink, and I will give thy camels drink also: let the same be she that thou hast appointed for thy servant Isaac; and thereby shall I know that thou hast shewed kindness unto my master.
 24:15: And it came to pass, before he had done speaking, that, behold, Rebekah came out, who was born to Bethuel, son of Milcah, the wife of Nahor, Abraham's brother, with her pitcher upon her shoulder.
 24:16: And the damsel was very fair to look upon, a virgin, neither had any man known her: and she went down to the well, and filled her pitcher, and came up.
@@ -623,10 +623,10 @@ GENESIS
 24:30: And it came to pass, when he saw the earring and bracelets upon his sister's hands, and when he heard the words of Rebekah his sister, saying, Thus spake the man unto me; that he came unto the man; and, behold, he stood by the camels at the well.
 24:31: And he said, Come in, thou blessed of the LORD; wherefore standest thou without? for I have prepared the house, and room for the camels.
 24:32: And the man came into the house: and he ungirded his camels, and gave straw and provender for the camels, and water to wash his feet, and the men's feet that were with him.
-24:33: And there was set meat before him to eat: but he said, I will not eat, until I have told mine errand. And he said, Speak on. 
+24:33: And there was set meat before him to eat: but he said, I will not eat, until I have told mine errand. And he said, Speak on.
 24:34: And he said, I am Abraham's servant.
-24:35: And the LORD hath blessed my master greatly; and he is become great: and he hath given him flocks, and herds, and silver, and gold, and menservants, and maidservants, and camels, and asses. 
-24:36: And Sarah my master's wife bare a son to my master when she was old: and unto him hath he given all that he hath. 
+24:35: And the LORD hath blessed my master greatly; and he is become great: and he hath given him flocks, and herds, and silver, and gold, and menservants, and maidservants, and camels, and asses.
+24:36: And Sarah my master's wife bare a son to my master when she was old: and unto him hath he given all that he hath.
 24:37: And my master made me swear, saying, Thou shalt not take a wife to my son of the daughters of the Canaanites, in whose land I dwell:
 24:38: But thou shalt go unto my father's house, and to my kindred, and take a wife unto my son.
 24:39: And I said unto my master, Peradventure the woman will not follow me.
@@ -639,10 +639,10 @@ GENESIS
 24:46: And she made haste, and let down her pitcher from her shoulder, and said, Drink, and I will give thy camels drink also: so I drank, and she made the camels drink also.
 24:47: And I asked her, and said, Whose daughter art thou? And she said, The daughter of Bethuel, Nahor's son, whom Milcah bare unto him: and I put the earring upon her face, and the bracelets upon her hands.
 24:48: And I bowed down my head, and worshipped the LORD, and blessed the LORD God of my master Abraham, which had led me in the right way to take my master's brother's daughter unto his son.
-24:49: And now if ye will deal kindly and truly with my master, tell me: and if not, tell me; that I may turn to the right hand, or to the left. 
+24:49: And now if ye will deal kindly and truly with my master, tell me: and if not, tell me; that I may turn to the right hand, or to the left.
 24:50: Then Laban and Bethuel answered and said, The thing proceedeth from the LORD: we cannot speak unto thee bad or good.
-24:51: Behold, Rebekah is before thee, take her, and go, and let her be thy master's son's wife, as the LORD hath spoken. 
-24:52: And it came to pass, that, when Abraham's servant heard their words, he worshipped the LORD, bowing himself to the earth. 
+24:51: Behold, Rebekah is before thee, take her, and go, and let her be thy master's son's wife, as the LORD hath spoken.
+24:52: And it came to pass, that, when Abraham's servant heard their words, he worshipped the LORD, bowing himself to the earth.
 24:53: And the servant brought forth jewels of silver, and jewels of gold, and raiment, and gave them to Rebekah: he gave also to her brother and to her mother precious things.
 24:54: And they did eat and drink, he and the men that were with him, and tarried all night; and they rose up in the morning, and he said, Send me away unto my master.
 24:55: And her brother and her mother said, Let the damsel abide with us a few days, at the least ten; after that she shall go.
@@ -661,10 +661,10 @@ GENESIS
 25:1: Then again Abraham took a wife, and her name was Keturah.
 25:2: And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah.
 25:3: And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim.
-25:4: And the sons of Midian; Ephah, and Epher, and Hanoch, and Abida, and Eldaah. All these were the children of Keturah. 
+25:4: And the sons of Midian; Ephah, and Epher, and Hanoch, and Abida, and Eldaah. All these were the children of Keturah.
 25:5: And Abraham gave all that he had unto Isaac.
-25:6: But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country. 
-25:7: And these are the days of the years of Abraham's life which he lived, an hundred threescore and fifteen years. 
+25:6: But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country.
+25:7: And these are the days of the years of Abraham's life which he lived, an hundred threescore and fifteen years.
 25:8: Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people.
 25:9: And his sons Isaac and Ishmael buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which is before Mamre;
 25:10: The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife.
@@ -684,10 +684,10 @@ GENESIS
 25:24: And when her days to be delivered were fulfilled, behold, there were twins in her womb.
 25:25: And the first came out red, all over like an hairy garment; and they called his name Esau.
 25:26: And after that came his brother out, and his hand took hold on Esau's heel; and his name was called Jacob: and Isaac was threescore years old when she bare them.
-25:27: And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents. 
+25:27: And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents.
 25:28: And Isaac loved Esau, because he did eat of his venison: but Rebekah loved Jacob.
-25:29: And Jacob sod pottage: and Esau came from the field, and he was faint: 
-25:30: And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom. 
+25:29: And Jacob sod pottage: and Esau came from the field, and he was faint:
+25:30: And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom.
 25:31: And Jacob said, Sell me this day thy birthright.
 25:32: And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me?
 25:33: And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob.
@@ -706,10 +706,10 @@ GENESIS
 26:12: Then Isaac sowed in that land, and received in the same year an hundredfold: and the LORD blessed him.
 26:13: And the man waxed great, and went forward, and grew until he became very great:
 26:14: For he had possession of flocks, and possessions of herds, and great store of servants: and the Philistines envied him.
-26:15: For all the wells which his father's servants had digged in the days of Abraham his father, the Philistines had stopped them, and filled them with earth. 
+26:15: For all the wells which his father's servants had digged in the days of Abraham his father, the Philistines had stopped them, and filled them with earth.
 26:16: And Abimelech said unto Isaac, Go from us; for thou art much mightier than we.
-26:17: And Isaac departed thence, and pitched his tent in the valley of Gerar, and dwelt there. 
-26:18: And Isaac digged again the wells of water, which they had digged in the days of Abraham his father; for the philistines had stopped them after the death of Abraham: and he called their names after the names by which his father had called them. 
+26:17: And Isaac departed thence, and pitched his tent in the valley of Gerar, and dwelt there.
+26:18: And Isaac digged again the wells of water, which they had digged in the days of Abraham his father; for the philistines had stopped them after the death of Abraham: and he called their names after the names by which his father had called them.
 26:19: And Isaac's servants digged in the valley, and found there a well of springing water.
 26:20: And the herdmen of Gerar did strive with Isaac's herdmen, saying, The water is ours: and he called the name of the well Esek; because they strove with him.
 26:21: And they digged another well, and strove for that also: and he called the name of it Sitnah.
@@ -726,9 +726,9 @@ GENESIS
 26:32: And it came to pass the same day, that Isaac's servants came, and told him concerning the well which they had digged, and said unto him, We have found water.
 26:33: And he called it Shebah: therefore the name of the city is Beer-sheba unto this day.
 26:34: And Esau was forty years old when he took to wife Judith the daughter of Beeri the Hittite, and Bashemath the daughter of Elon the Hittite:
-26:35: Which were a grief of mind unto Isaac and to Rebekah. 
-27:1: And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, here am I. 
-27:2: And he said, Behold now, I am old, I know not the day of my death: 
+26:35: Which were a grief of mind unto Isaac and to Rebekah.
+27:1: And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, here am I.
+27:2: And he said, Behold now, I am old, I know not the day of my death:
 27:3: Now therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out to the field, and take me some venison;
 27:4: And make me savoury meat, such as I love, and bring it to me, that I may eat; that my soul may bless thee before I die.
 27:5: And Rebekah heard when Isaac spake to Esau his son. And Esau went to the field to hunt for venison, and to bring it.
@@ -748,10 +748,10 @@ GENESIS
 27:19: And Jacob said unto his father, I am Esau thy firstborn; I have done according as thou badest me: arise, I pray thee, sit and eat of my venison, that thy soul may bless me.
 27:20: And Isaac said unto his son, How is it that thou hast found it so quickly, my son? And he said, Because the LORD thy God brought it to me.
 27:21: And Isaac said unto Jacob, Come near, I pray thee, that I may feel thee, my son, whether thou be my very son Esau or not.
-27:22: And Jacob went near unto Isaac his father; and he felt him, and said, The voice is Jacob's voice, but the hands are the hands of Esau. 
+27:22: And Jacob went near unto Isaac his father; and he felt him, and said, The voice is Jacob's voice, but the hands are the hands of Esau.
 27:23: And he discerned him not, because his hands were hairy, as his brother Esau's hands: so he blessed him.
-27:24: And he said, Art thou my very son Esau? And he said, I am. 
-27:25: And he said, Bring it near to me, and I will eat of my son's venison, that my soul may bless thee. And he brought it near to him, and he did eat: and he brought him wine, and he drank. 
+27:24: And he said, Art thou my very son Esau? And he said, I am.
+27:25: And he said, Bring it near to me, and I will eat of my son's venison, that my soul may bless thee. And he brought it near to him, and he did eat: and he brought him wine, and he drank.
 27:26: And his father Isaac said unto him, Come near now, and kiss me, my son.
 27:27: And he came near, and kissed him: and he smelled the smell of his raiment, and blessed him, and said, See, the smell of my son is as the smell of a field which the LORD hath blessed:
 27:28: Therefore God give thee of the dew of heaven, and the fatness of the earth, and plenty of corn and wine:
@@ -771,9 +771,9 @@ GENESIS
 27:42: And these words of Esau her elder son were told to Rebekah: and she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself, purposing to kill thee.
 27:43: Now therefore, my son, obey my voice; and arise, flee thou to Laban my brother to Haran;
 27:44: And tarry with him a few days, until thy brother's fury turn away;
-27:45: Until thy brother's anger turn away from thee, and he forget that which thou hast done to him: then I will send, and fetch thee from thence: why should I be deprived also of you both in one day? 
+27:45: Until thy brother's anger turn away from thee, and he forget that which thou hast done to him: then I will send, and fetch thee from thence: why should I be deprived also of you both in one day?
 27:46: And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these which are of the daughters of the land, what good shall my life do me?
-28:1: And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan. 
+28:1: And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan.
 28:2: Arise, go to Padan-aram, to the house of Bethuel thy mother's father; and take thee a wife from thence of the daughters of Laban thy mother's brother.
 28:3: And God Almighty bless thee, and make thee fruitful, and multiply thee, that thou mayest be a multitude of people;
 28:4: And give thee the blessing of Abraham, to thee, and to thy seed with thee; that thou mayest inherit the land wherein thou art a stranger, which God gave unto Abraham.
@@ -793,9 +793,9 @@ GENESIS
 28:18: And Jacob rose up early in the morning, and took the stone that he had put for his pillows, and set it up for a pillar, and poured oil upon the top of it.
 28:19: And he called the name of that place Bethel: but the name of that city was called Luz at the first.
 28:20: And Jacob vowed a vow, saying, If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and raiment to put on,
-28:21: So that I come again to my father's house in peace; then shall the LORD be my God: 
+28:21: So that I come again to my father's house in peace; then shall the LORD be my God:
 28:22: And this stone, which I have set for a pillar, shall be God's house: and of all that thou shalt give me I will surely give the tenth unto thee.
-29:1: Then Jacob went on his journey, and came into the land of the people of the east. 
+29:1: Then Jacob went on his journey, and came into the land of the people of the east.
 29:2: And he looked, and behold a well in the field, and, lo, there were three flocks of sheep lying by it; for out of that well they watered the flocks: and a great stone was upon the well's mouth.
 29:3: And thither were all the flocks gathered: and they rolled the stone from the well's mouth, and watered the sheep, and put the stone again upon the well's mouth in his place.
 29:4: And Jacob said unto them, My brethren, whence be ye? And they said, Of Haran are we.
@@ -805,10 +805,10 @@ GENESIS
 29:8: And they said, We cannot, until all the flocks be gathered together, and till they roll the stone from the well's mouth; then we water the sheep.
 29:9: And while he yet spake with them, Rachel came with her father's sheep: for she kept them.
 29:10: And it came to pass, when Jacob saw Rachel the daughter of Laban his mother's brother, and the sheep of Laban his mother's brother, that Jacob went near, and rolled the stone from the well's mouth, and watered the flock of Laban his mother's brother.
-29:11: And Jacob kissed Rachel, and lifted up his voice, and wept. 
+29:11: And Jacob kissed Rachel, and lifted up his voice, and wept.
 29:12: And Jacob told Rachel that he was her father's brother, and that he was Rebekah's son: and she ran and told her father.
-29:13: And it came to pass, when Laban heard the tidings of Jacob his sister's son, that he ran to meet him, and embraced him, and kissed him, and brought him to his house. And he told Laban all these things. 
-29:14: And Laban said to him, Surely thou art my bone and my flesh. And he abode with him the space of a month. 
+29:13: And it came to pass, when Laban heard the tidings of Jacob his sister's son, that he ran to meet him, and embraced him, and kissed him, and brought him to his house. And he told Laban all these things.
+29:14: And Laban said to him, Surely thou art my bone and my flesh. And he abode with him the space of a month.
 29:15: And Laban said unto Jacob, Because thou art my brother, shouldest thou therefore serve me for nought? tell me, what shall thy wages be?
 29:16: And Laban had two daughters: the name of the elder was Leah, and the name of the younger was Rachel.
 29:17: Leah was tender eyed; but Rachel was beautiful and well favoured.
@@ -828,9 +828,9 @@ GENESIS
 29:31: And when the LORD saw that Leah was hated, he opened her womb: but Rachel was barren.
 29:32: And Leah conceived, and bare a son, and she called his name Reuben: for she said, Surely the LORD hath looked upon my affliction; now therefore my husband will love me.
 29:33: And she conceived again, and bare a son; and said, Because the LORD hath heard that I was hated, he hath therefore given me this son also: and she called his name Simeon.
-29:34: And she conceived again, and bare a son; and said, Now this time will my husband be joined unto me, because I have born him three sons: therefore was his name called Levi. 
+29:34: And she conceived again, and bare a son; and said, Now this time will my husband be joined unto me, because I have born him three sons: therefore was his name called Levi.
 29:35: And she conceived again, and bare a son: and she said, Now will I praise the LORD: therefore she called his name Judah; and left bearing.
-30:1: And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die. 
+30:1: And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die.
 30:2: And Jacob's anger was kindled against Rachel: and he said, Am I in God's stead, who hath withheld from thee the fruit of the womb?
 30:3: And she said, Behold my maid Bilhah, go in unto her; and she shall bear upon my knees that I may also have children by her.
 30:4: And she gave him Bilhah her handmaid to wife: and Jacob went in unto her.
@@ -850,10 +850,10 @@ GENESIS
 30:18: And Leah said, God hath given me my hire, because I have given my maiden to my husband: and she called his name Issachar.
 30:19: And Leah conceived again, and bare Jacob the sixth son.
 30:20: And Leah said, God hath endued me with a good dowry; now will my husband dwell with me, because I have born him six sons: and she called his name Zebulun.
-30:21: And afterwards she bare a daughter, and called her name Dinah. 
+30:21: And afterwards she bare a daughter, and called her name Dinah.
 30:22: And God remembered Rachel, and God hearkened to her, and opened her womb.
-30:23: And she conceived, and bare a son; and said, God hath taken away my reproach: 
-30:24: And she called his name Joseph; and said, The LORD shall add to me another son. 
+30:23: And she conceived, and bare a son; and said, God hath taken away my reproach:
+30:24: And she called his name Joseph; and said, The LORD shall add to me another son.
 30:25: And it came to pass, when Rachel had born Joseph, that Jacob said unto Laban, Send me away, that I may go unto mine own place, and to my country.
 30:26: Give me my wives and my children, for whom I have served thee, and let me go: for thou knowest my service which I have done thee.
 30:27: And Laban said unto him, I pray thee, if I have found favour in thine eyes, tarry: for I have learned by experience that the LORD hath blessed me for thy sake.
@@ -874,8 +874,8 @@ GENESIS
 30:42: But when the cattle were feeble, he put them not in: so the feebler were Laban's, and the stronger Jacob's.
 30:43: And the man increased exceedingly, and had much cattle, and maidservants, and menservants, and camels, and asses.
 31:1: And he heard the words of Laban's sons, saying, Jacob hath taken away all that was our father's; and of that which was our father's hath he gotten all this glory.
-31:2: And Jacob beheld the countenance of Laban, and, behold, it was not toward him as before. 
-31:3: And the LORD said unto Jacob, Return unto the land of thy fathers, and to thy kindred; and I will be with thee. 
+31:2: And Jacob beheld the countenance of Laban, and, behold, it was not toward him as before.
+31:3: And the LORD said unto Jacob, Return unto the land of thy fathers, and to thy kindred; and I will be with thee.
 31:4: And Jacob sent and called Rachel and Leah to the field unto his flock,
 31:5: And said unto them, I see your father's countenance, that it is not toward me as before; but the God of my father hath been with me.
 31:6: And ye know that with all my power I have served your father.
@@ -894,10 +894,10 @@ GENESIS
 31:19: And Laban went to shear his sheep: and Rachel had stolen the images that were her father's.
 31:20: And Jacob stole away unawares to Laban the Syrian, in that he told him not that he fled.
 31:21: So he fled with all that he had; and he rose up, and passed over the river, and set his face toward the mount Gilead.
-31:22: And it was told Laban on the third day that Jacob was fled. 
+31:22: And it was told Laban on the third day that Jacob was fled.
 31:23: And he took his brethren with him, and pursued after him seven days' journey; and they overtook him in the mount Gilead.
-31:24: And God came to Laban the Syrian in a dream by night, and said unto him, Take heed that thou speak not to Jacob either good or bad. 
-31:25: Then Laban overtook Jacob. Now Jacob had pitched his tent in the mount: and Laban with his brethren pitched in the mount of Gilead. 
+31:24: And God came to Laban the Syrian in a dream by night, and said unto him, Take heed that thou speak not to Jacob either good or bad.
+31:25: Then Laban overtook Jacob. Now Jacob had pitched his tent in the mount: and Laban with his brethren pitched in the mount of Gilead.
 31:26: And Laban said to Jacob, What hast thou done, that thou hast stolen away unawares to me, and carried away my daughters, as captives taken with the sword?
 31:27: Wherefore didst thou flee away secretly, and steal away from me; and didst not tell me, that I might have sent thee away with mirth, and with songs, with tabret, and with harp?
 31:28: And hast not suffered me to kiss my sons and my daughters? thou hast now done foolishly in so doing.
@@ -917,10 +917,10 @@ GENESIS
 31:42: Except the God of my father, the God of Abraham, and the fear of Isaac, had been with me, surely thou hadst sent me away now empty. God hath seen mine affliction and the labour of my hands, and rebuked thee yesternight.
 31:43: And Laban answered and said unto Jacob, These daughters are my daughters, and these children are my children, and these cattle are my cattle, and all that thou seest is mine: and what can I do this day unto these my daughters, or unto their children which they have born?
 31:44: Now therefore come thou, let us make a covenant, I and thou; and let it be for a witness between me and thee.
-31:45: And Jacob took a stone, and set it up for a pillar. 
+31:45: And Jacob took a stone, and set it up for a pillar.
 31:46: And Jacob said unto his brethren, Gather stones; and they took stones, and made an heap: and they did eat there upon the heap.
-31:47: And Laban called it Jegar-sahadutha: but Jacob called it Galeed. 
-31:48: And Laban said, This heap is a witness between me and thee this day. Therefore was the name of it called Galeed; 
+31:47: And Laban called it Jegar-sahadutha: but Jacob called it Galeed.
+31:48: And Laban said, This heap is a witness between me and thee this day. Therefore was the name of it called Galeed;
 31:49: And Mizpah; for he said, The LORD watch between me and thee, when we are absent one from another.
 31:50: If thou shalt afflict my daughters, or if thou shalt take other wives beside my daughters, no man is with us; see, God is witness betwixt me and thee.
 31:51: And Laban said to Jacob, Behold this heap, and behold this pillar, which I have cast betwixt me and thee;
@@ -939,10 +939,10 @@ GENESIS
 32:9: And Jacob said, O God of my father Abraham, and God of my father Isaac, the LORD which saidst unto me, Return unto thy country, and to thy kindred, and I will deal well with thee:
 32:10: I am not worthy of the least of all the mercies, and of all the truth, which thou hast shewed unto thy servant; for with my staff I passed over this Jordan; and now I am become two bands.
 32:11: Deliver me, I pray thee, from the hand of my brother, from the hand of Esau: for I fear him, lest he will come and smite me, and the mother with the children.
-32:12: And thou saidst, I will surely do thee good, and make thy seed as the sand of the sea, which cannot be numbered for multitude. 
+32:12: And thou saidst, I will surely do thee good, and make thy seed as the sand of the sea, which cannot be numbered for multitude.
 32:13: And he lodged there that same night; and took of that which came to his hand a present for Esau his brother;
-32:14: Two hundred she goats, and twenty he goats, two hundred ewes, and twenty rams, 
-32:15: Thirty milch camels with their colts, forty kine, and ten bulls, twenty she asses, and ten foals. 
+32:14: Two hundred she goats, and twenty he goats, two hundred ewes, and twenty rams,
+32:15: Thirty milch camels with their colts, forty kine, and ten bulls, twenty she asses, and ten foals.
 32:16: And he delivered them into the hand of his servants, every drove by themselves; and said unto his servants, Pass over before me, and put a space betwixt drove and drove.
 32:17: And he commanded the foremost, saying, When Esau my brother meeteth thee, and asketh thee, saying, Whose art thou? and whither goest thou? and whose are these before thee?
 32:18: Then thou shalt say, They be thy servant Jacob's; it is a present sent unto my lord Esau: and, behold, also he is behind us.
@@ -961,10 +961,10 @@ GENESIS
 32:31: And as he passed over Penuel the sun rose upon him, and he halted upon his thigh.
 32:32: Therefore the children of Israel eat not of the sinew which shrank, which is upon the hollow of the thigh, unto this day: because he touched the hollow of Jacob's thigh in the sinew that shrank.
 33:1: And Jacob lifted up his eyes, and looked, and, behold, Esau came, and with him four hundred men. And he divided the children unto Leah, and unto Rachel, and unto the two handmaids.
-33:2: And he put the handmaids and their children foremost, and Leah and her children after, and Rachel and Joseph hindermost. 
+33:2: And he put the handmaids and their children foremost, and Leah and her children after, and Rachel and Joseph hindermost.
 33:3: And he passed over before them, and bowed himself to the ground seven times, until he came near to his brother.
-33:4: And Esau ran to meet him, and embraced him, and fell on his neck, and kissed him: and they wept. 
-33:5: And he lifted up his eyes, and saw the women and the children; and said, Who are those with thee? And he said, The children which God hath graciously given thy servant. 
+33:4: And Esau ran to meet him, and embraced him, and fell on his neck, and kissed him: and they wept.
+33:5: And he lifted up his eyes, and saw the women and the children; and said, Who are those with thee? And he said, The children which God hath graciously given thy servant.
 33:6: Then the handmaidens came near, they and their children, and they bowed themselves.
 33:7: And Leah also with her children came near, and bowed themselves: and after came Joseph near and Rachel, and they bowed themselves.
 33:8: And he said, What meanest thou by all this drove which I met? And he said, These are to find grace in the sight of my lord.
@@ -977,9 +977,9 @@ GENESIS
 33:15: And Esau said, Let me now leave with thee some of the folk that are with me. And he said, What needeth it? let me find grace in the sight of my lord.
 33:16: So Esau returned that day on his way unto Seir.
 33:17: And Jacob journeyed to Succoth, and built him an house, and made booths for his cattle: therefore the name of the place is called Succoth.
-33:18: And Jacob came to Shalem, a city of Shechem, which is in the land of Canaan, when he came from Padan-aram; and pitched his tent before the city. 
+33:18: And Jacob came to Shalem, a city of Shechem, which is in the land of Canaan, when he came from Padan-aram; and pitched his tent before the city.
 33:19: And he bought a parcel of a field, where he had spread his tent, at the hand of the children of Hamor, Shechem's father, for an hundred pieces of money.
-33:20: And he erected there an altar, and called it El-elohe-Israel. 
+33:20: And he erected there an altar, and called it El-elohe-Israel.
 34:1: And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land.
 34:2: And when Shechem the son of Hamor the Hivite, prince of the country, saw her, he took her, and lay with her, and defiled her.
 34:3: And his soul clave unto Dinah the daughter of Jacob, and he loved the damsel, and spake kindly unto the damsel.
@@ -999,10 +999,10 @@ GENESIS
 34:17: But if ye will not hearken unto us, to be circumcised; then will we take our daughter, and we will be gone.
 34:18: And their words pleased Hamor, and Shechem Hamor's son.
 34:19: And the young man deferred not to do the thing, because he had delight in Jacob's daughter: and he was more honourable than all the house of his father.
-34:20: And Hamor and Shechem his son came unto the gate of their city, and communed with the men of their city, saying, 
+34:20: And Hamor and Shechem his son came unto the gate of their city, and communed with the men of their city, saying,
 34:21: These men are peaceable with us; therefore let them dwell in the land, and trade therein; for the land, behold, it is large enough for them; let us take their daughters to us for wives, and let us give them our daughters.
-34:22: Only herein will the men consent unto us for to dwell with us, to be one people, if every male among us be circumcised, as they are circumcised. 
-34:23: Shall not their cattle and their substance and every beast of theirs be ours? only let us consent unto them, and they will dwell with us. 
+34:22: Only herein will the men consent unto us for to dwell with us, to be one people, if every male among us be circumcised, as they are circumcised.
+34:23: Shall not their cattle and their substance and every beast of theirs be ours? only let us consent unto them, and they will dwell with us.
 34:24: And unto Hamor and unto Shechem his son hearkened all that went out of the gate of his city; and every male was circumcised, all that went out of the gate of his city.
 34:25: And it came to pass on the third day, when they were sore, that two of the sons of Jacob, Simeon and Levi, Dinah's brethren, took each man his sword, and came upon the city boldly, and slew all the males.
 34:26: And they slew Hamor and Shechem his son with the edge of the sword, and took Dinah out of Shechem's house, and went out.
@@ -1021,10 +1021,10 @@ GENESIS
 35:8: But Deborah Rebekah's nurse died, and she was buried beneath Bethel under an oak: and the name of it was called Allon-bachuth.
 35:9: And God appeared unto Jacob again, when he came out of Padan-aram, and blessed him.
 35:10: And God said unto him, Thy name is Jacob: thy name shall not be called any more Jacob, but Israel shall be thy name: and he called his name Israel.
-35:11: And God said unto him, I am God Almighty: be fruitful and multiply; a nation and a company of nations shall be of thee, and kings shall come out of thy loins; 
+35:11: And God said unto him, I am God Almighty: be fruitful and multiply; a nation and a company of nations shall be of thee, and kings shall come out of thy loins;
 35:12: And the land which I gave Abraham and Isaac, to thee I will give it, and to thy seed after thee will I give the land.
-35:13: And God went up from him in the place where he talked with him. 
-35:14: And Jacob set up a pillar in the place where he talked with him, even a pillar of stone: and he poured a drink offering thereon, and he poured oil thereon. 
+35:13: And God went up from him in the place where he talked with him.
+35:14: And Jacob set up a pillar in the place where he talked with him, even a pillar of stone: and he poured a drink offering thereon, and he poured oil thereon.
 35:15: And Jacob called the name of the place where God spake with him, Bethel.
 35:16: And they journeyed from Bethel; and there was but a little way to come to Ephrath: and Rachel travailed, and she had hard labour.
 35:17: And it came to pass, when she was in hard labour, that the midwife said unto her, Fear not; thou shalt have this son also.
@@ -1043,10 +1043,10 @@ GENESIS
 36:1: Now these are the generations of Esau, who is Edom.
 36:2: Esau took his wives of the daughters of Canaan; Adah the daughter of Elon the Hittite, and Aholibamah the daughter of Anah the daughter of Zibeon the Hivite;
 36:3: And Bashemath Ishmael's daughter, sister of Nebajoth.
-36:4: And Adah bare to Esau Eliphaz; and Bashemath bare Reuel; 
+36:4: And Adah bare to Esau Eliphaz; and Bashemath bare Reuel;
 36:5: And Aholibamah bare Jeush, and Jaalam, and Korah: these are the sons of Esau, which were born unto him in the land of Canaan.
-36:6: And Esau took his wives, and his sons, and his daughters, and all the persons of his house, and his cattle, and all his beasts, and all his substance, which he had got in the land of Canaan; and went into the country from the face of his brother Jacob. 
-36:7: For their riches were more than that they might dwell together; and the land wherein they were strangers could not bear them because of their cattle. 
+36:6: And Esau took his wives, and his sons, and his daughters, and all the persons of his house, and his cattle, and all his beasts, and all his substance, which he had got in the land of Canaan; and went into the country from the face of his brother Jacob.
+36:7: For their riches were more than that they might dwell together; and the land wherein they were strangers could not bear them because of their cattle.
 36:8: Thus dwelt Esau in mount Seir: Esau is Edom.
 36:9: And these are the generations of Esau the father of the Edomites in mount Seir:
 36:10: These are the names of Esau's sons; Eliphaz the son of Adah the wife of Esau, Reuel the son of Bashemath the wife of Esau.
@@ -1065,10 +1065,10 @@ GENESIS
 36:23: And the children of Shobal were these; Alvan, and Manahath, and Ebal, Shepho, and Onam.
 36:24: And these are the children of Zibeon; both Ajah, and Anah: this was that Anah that found the mules in the wilderness, as he fed the asses of Zibeon his father.
 36:25: And the children of Anah were these; Dishon, and Aholibamah the daughter of Anah.
-36:26: And these are the children of Dishon; Hemdan, and Eshban, and Ithran, and Cheran. 
+36:26: And these are the children of Dishon; Hemdan, and Eshban, and Ithran, and Cheran.
 36:27: The children of Ezer are these; Bilhan, and Zaavan, and Akan.
-36:28: The children of Dishan are these: Uz, and Aran. 
-36:29: These are the dukes that came of the Horites; duke Lotan, duke Shobal, duke Zibeon, duke Anah, 
+36:28: The children of Dishan are these: Uz, and Aran.
+36:29: These are the dukes that came of the Horites; duke Lotan, duke Shobal, duke Zibeon, duke Anah,
 36:30: Duke Dishon, duke Ezer, duke Dishan: these are the dukes that came of Hori, among their dukes in the land of Seir.
 36:31: And these are the kings that reigned in the land of Edom, before there reigned any king over the children of Israel.
 36:32: And Bela the son of Beor reigned in Edom: and the name of his city was Dinhabah.
@@ -1087,10 +1087,10 @@ GENESIS
 37:2: These are the generations of Jacob. Joseph, being seventeen years old, was feeding the flock with his brethren; and the lad was with the sons of Bilhah, and with the sons of Zilpah, his father's wives: and Joseph brought unto his father their evil report.
 37:3: Now Israel loved Joseph more than all his children, because he was the son of his old age: and he made him a coat of many colours.
 37:4: And when his brethren saw that their father loved him more than all his brethren, they hated him, and could not speak peaceably unto him.
-37:5: And Joseph dreamed a dream, and he told it his brethren: and they hated him yet the more. 
+37:5: And Joseph dreamed a dream, and he told it his brethren: and they hated him yet the more.
 37:6: And he said unto them, Hear, I pray you, this dream which I have dreamed:
-37:7: For, behold, we were binding sheaves in the field, and, lo, my sheaf arose, and also stood upright; and, behold, your sheaves stood round about, and made obeisance to my sheaf. 
-37:8: And his brethren said to him, Shalt thou indeed reign over us? or shalt thou indeed have dominion over us? And they hated him yet the more for his dreams, and for his words. 
+37:7: For, behold, we were binding sheaves in the field, and, lo, my sheaf arose, and also stood upright; and, behold, your sheaves stood round about, and made obeisance to my sheaf.
+37:8: And his brethren said to him, Shalt thou indeed reign over us? or shalt thou indeed have dominion over us? And they hated him yet the more for his dreams, and for his words.
 37:9: And he dreamed yet another dream, and told it his brethren, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me.
 37:10: And he told it to his father, and to his brethren: and his father rebuked him, and said unto him, What is this dream that thou hast dreamed? Shall I and thy mother and thy brethren indeed come to bow down ourselves to thee to the earth?
 37:11: And his brethren envied him; but his father observed the saying.
@@ -1110,10 +1110,10 @@ GENESIS
 37:25: And they sat down to eat bread: and they lifted up their eyes and looked, and, behold, a company of Ishmeelites came from Gilead with their camels bearing spicery and balm and myrrh, going to carry it down to Egypt.
 37:26: And Judah said unto his brethren, What profit is it if we slay our brother, and conceal his blood?
 37:27: Come, and let us sell him to the Ishmeelites, and let not our hand be upon him; for he is our brother and our flesh. And his brethren were content.
-37:28: Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmeelites for twenty pieces of silver: and they brought Joseph into Egypt. 
+37:28: Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmeelites for twenty pieces of silver: and they brought Joseph into Egypt.
 37:29: And Reuben returned unto the pit; and, behold, Joseph was not in the pit; and he rent his clothes.
-37:30: And he returned unto his brethren, and said, The child is not; and I, whither shall I go? 
-37:31: And they took Joseph's coat, and killed a kid of the goats, and dipped the coat in the blood; 
+37:30: And he returned unto his brethren, and said, The child is not; and I, whither shall I go?
+37:31: And they took Joseph's coat, and killed a kid of the goats, and dipped the coat in the blood;
 37:32: And they sent the coat of many colours, and they brought it to their father; and said, This have we found: know now whether it be thy son's coat or no.
 37:33: And he knew it, and said, It is my son's coat; an evil beast hath devoured him; Joseph is without doubt rent in pieces.
 37:34: And Jacob rent his clothes, and put sackcloth upon his loins, and mourned for his son many days.
@@ -1132,10 +1132,10 @@ GENESIS
 38:11: Then said Judah to Tamar his daughter in law, Remain a widow at thy father's house, till Shelah my son be grown: for he said, Lest peradventure he die also, as his brethren did. And Tamar went and dwelt in her father's house.
 38:12: And in process of time the daughter of Shuah Judah's wife died; and Judah was comforted, and went up unto his sheepshearers to Timnath, he and his friend Hirah the Adullamite.
 38:13: And it was told Tamar, saying, Behold thy father in law goeth up to Timnath to shear his sheep.
-38:14: And she put her widow's garments off from her, and covered her with a vail, and wrapped herself, and sat in an open place, which is by the way to Timnath; for she saw that Shelah was grown, and she was not given unto him to wife. 
+38:14: And she put her widow's garments off from her, and covered her with a vail, and wrapped herself, and sat in an open place, which is by the way to Timnath; for she saw that Shelah was grown, and she was not given unto him to wife.
 38:15: When Judah saw her, he thought her to be an harlot; because she had covered her face.
-38:16: And he turned unto her by the way, and said, Go to, I pray thee, let me come in unto thee; (for he knew not that she was his daughter in law.) And she said, What wilt thou give me, that thou mayest come in unto me? 
-38:17: And he said, I will send thee a kid from the flock. And she said, Wilt thou give me a pledge, till thou send it? 
+38:16: And he turned unto her by the way, and said, Go to, I pray thee, let me come in unto thee; (for he knew not that she was his daughter in law.) And she said, What wilt thou give me, that thou mayest come in unto me?
+38:17: And he said, I will send thee a kid from the flock. And she said, Wilt thou give me a pledge, till thou send it?
 38:18: And he said, What pledge shall I give thee? And she said, Thy signet, and thy bracelets, and thy staff that is in thine hand. And he gave it her, and came in unto her, and she conceived by him.
 38:19: And she arose, and went away, and laid by her vail from her, and put on the garments of her widowhood.
 38:20: And Judah sent the kid by the hand of his friend the Adullamite, to receive his pledge from the woman's hand: but he found her not.
@@ -1152,10 +1152,10 @@ GENESIS
 39:1: And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither.
 39:2: And the LORD was with Joseph, and he was a prosperous man; and he was in the house of his master the Egyptian.
 39:3: And his master saw that the LORD was with him, and that the LORD made all that he did to prosper in his hand.
-39:4: And Joseph found grace in his sight, and he served him: and he made him overseer over his house, and all that he had he put into his hand. 
+39:4: And Joseph found grace in his sight, and he served him: and he made him overseer over his house, and all that he had he put into his hand.
 39:5: And it came to pass from the time that he had made him overseer in his house, and over all that he had, that the LORD blessed the Egyptian's house for Joseph's sake; and the blessing of the LORD was upon all that he had in the house, and in the field.
-39:6: And he left all that he had in Joseph's hand; and he knew not ought he had, save the bread which he did eat. And Joseph was a goodly person, and well favoured. 
-39:7: And it came to pass after these things, that his master's wife cast her eyes upon Joseph; and she said, Lie with me. 
+39:6: And he left all that he had in Joseph's hand; and he knew not ought he had, save the bread which he did eat. And Joseph was a goodly person, and well favoured.
+39:7: And it came to pass after these things, that his master's wife cast her eyes upon Joseph; and she said, Lie with me.
 39:8: But he refused, and said unto his master's wife, Behold, my master wotteth not what is with me in the house, and he hath committed all that he hath to my hand;
 39:9: There is none greater in this house than I; neither hath he kept back any thing from me but thee, because thou art his wife: how then can I do this great wickedness, and sin against God?
 39:10: And it came to pass, as she spake to Joseph day by day, that he hearkened not unto her, to lie by her, or to be with her.
@@ -1174,10 +1174,10 @@ GENESIS
 39:23: The keeper of the prison looked not to any thing that was under his hand; because the LORD was with him, and that which he did, the LORD made it to prosper.
 40:1: And it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt.
 40:2: And Pharaoh was wroth against two of his officers, against the chief of the butlers, and against the chief of the bakers.
-40:3: And he put them in ward in the house of the captain of the guard, into the prison, the place where Joseph was bound. 
+40:3: And he put them in ward in the house of the captain of the guard, into the prison, the place where Joseph was bound.
 40:4: And the captain of the guard charged Joseph with them, and he served them: and they continued a season in ward.
-40:5: And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which were bound in the prison. 
-40:6: And Joseph came in unto them in the morning, and looked upon them, and, behold, they were sad. 
+40:5: And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which were bound in the prison.
+40:6: And Joseph came in unto them in the morning, and looked upon them, and, behold, they were sad.
 40:7: And he asked Pharaoh's officers that were with him in the ward of his lord's house, saying, Wherefore look ye so sadly to day?
 40:8: And they said unto him, We have dreamed a dream, and there is no interpreter of it. And Joseph said unto them, Do not interpretations belong to God? tell me them, I pray you.
 40:9: And the chief butler told his dream to Joseph, and said to him, In my dream, behold, a vine was before me;
@@ -1196,10 +1196,10 @@ GENESIS
 40:22: But he hanged the chief baker: as Joseph had interpreted to them.
 40:23: Yet did not the chief butler remember Joseph, but forgat him.
 41:1: And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.
-41:2: And, behold, there came up out of the river seven well favoured kine and fatfleshed; and they fed in a meadow. 
+41:2: And, behold, there came up out of the river seven well favoured kine and fatfleshed; and they fed in a meadow.
 41:3: And, behold, seven other kine came up after them out of the river, ill favoured and leanfleshed; and stood by the other kine upon the brink of the river.
-41:4: And the ill favoured and leanfleshed kine did eat up the seven well favoured and fat kine. So Pharaoh awoke. 
-41:5: And he slept and dreamed the second time: and, behold, seven ears of corn came up upon one stalk, rank and good. 
+41:4: And the ill favoured and leanfleshed kine did eat up the seven well favoured and fat kine. So Pharaoh awoke.
+41:5: And he slept and dreamed the second time: and, behold, seven ears of corn came up upon one stalk, rank and good.
 41:6: And, behold, seven thin ears and blasted with the east wind sprung up after them.
 41:7: And the seven thin ears devoured the seven rank and full ears. And Pharaoh awoke, and, behold, it was a dream.
 41:8: And it came to pass in the morning that his spirit was troubled; and he sent and called for all the magicians of Egypt, and all the wise men thereof: and Pharaoh told them his dream; but there was none that could interpret them unto Pharaoh.
@@ -1219,10 +1219,10 @@ GENESIS
 41:22: And I saw in my dream, and, behold, seven ears came up in one stalk, full and good:
 41:23: And, behold, seven ears, withered, thin, and blasted with the east wind, sprung up after them:
 41:24: And the thin ears devoured the seven good ears: and I told this unto the magicians; but there was none that could declare it to me.
-41:25: And Joseph said unto Pharaoh, The dream of Pharaoh is one: God hath shewed Pharaoh what he is about to do. 
+41:25: And Joseph said unto Pharaoh, The dream of Pharaoh is one: God hath shewed Pharaoh what he is about to do.
 41:26: The seven good kine are seven years; and the seven good ears are seven years: the dream is one.
-41:27: And the seven thin and ill favoured kine that came up after them are seven years; and the seven empty ears blasted with the east wind shall be seven years of famine. 
-41:28: This is the thing which I have spoken unto Pharaoh: What God is about to do he sheweth unto Pharaoh. 
+41:27: And the seven thin and ill favoured kine that came up after them are seven years; and the seven empty ears blasted with the east wind shall be seven years of famine.
+41:28: This is the thing which I have spoken unto Pharaoh: What God is about to do he sheweth unto Pharaoh.
 41:29: Behold, there come seven years of great plenty throughout all the land of Egypt:
 41:30: And there shall arise after them seven years of famine; and all the plenty shall be forgotten in the land of Egypt; and the famine shall consume the land;
 41:31: And the plenty shall not be known in the land by reason of that famine following; for it shall be very grievous.
@@ -1236,10 +1236,10 @@ GENESIS
 41:39: And Pharaoh said unto Joseph, Forasmuch as God hath shewed thee all this, there is none so discreet and wise as thou art:
 41:40: Thou shalt be over my house, and according unto thy word shall all my people be ruled: only in the throne will I be greater than thou.
 41:41: And Pharaoh said unto Joseph, See, I have set thee over all the land of Egypt.
-41:42: And Pharaoh took off his ring from his hand, and put it upon Joseph's hand, and arrayed him in vestures of fine linen, and put a gold chain about his neck; 
+41:42: And Pharaoh took off his ring from his hand, and put it upon Joseph's hand, and arrayed him in vestures of fine linen, and put a gold chain about his neck;
 41:43: And he made him to ride in the second chariot which he had; and they cried before him, Bow the knee: and he made him ruler over all the land of Egypt.
-41:44: And Pharaoh said unto Joseph, I am Pharaoh, and without thee shall no man lift up his hand or foot in all the land of Egypt. 
-41:45: And Pharaoh called Joseph's name Zaphnath-paaneah; and he gave him to wife Asenath the daughter of Poti-pherah priest of On. And Joseph went out over all the land of Egypt. 
+41:44: And Pharaoh said unto Joseph, I am Pharaoh, and without thee shall no man lift up his hand or foot in all the land of Egypt.
+41:45: And Pharaoh called Joseph's name Zaphnath-paaneah; and he gave him to wife Asenath the daughter of Poti-pherah priest of On. And Joseph went out over all the land of Egypt.
 41:46: And Joseph was thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.
 41:47: And in the seven plenteous years the earth brought forth by handfuls.
 41:48: And he gathered up all the food of the seven years, which were in the land of Egypt, and laid up the food in the cities: the food of the field, which was round about every city, laid he up in the same.
@@ -1258,10 +1258,10 @@ GENESIS
 42:4: But Benjamin, Joseph's brother, Jacob sent not with his brethren; for he said, Lest peradventure mischief befall him.
 42:5: And the sons of Israel came to buy corn among those that came: for the famine was in the land of Canaan.
 42:6: And Joseph was the governor over the land, and he it was that sold to all the people of the land: and Joseph's brethren came, and bowed down themselves before him with their faces to the earth.
-42:7: And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Whence come ye? And they said, From the land of Canaan to buy food. 
+42:7: And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Whence come ye? And they said, From the land of Canaan to buy food.
 42:8: And Joseph knew his brethren, but they knew not him.
-42:9: And Joseph remembered the dreams which he dreamed of them, and said unto them, Ye are spies; to see the nakedness of the land ye are come. 
-42:10: And they said unto him, Nay, my lord, but to buy food are thy servants come. 
+42:9: And Joseph remembered the dreams which he dreamed of them, and said unto them, Ye are spies; to see the nakedness of the land ye are come.
+42:10: And they said unto him, Nay, my lord, but to buy food are thy servants come.
 42:11: We are all one man's sons; we are true men, thy servants are no spies.
 42:12: And he said unto them, Nay, but to see the nakedness of the land ye are come.
 42:13: And they said, Thy servants are twelve brethren, the sons of one man in the land of Canaan; and, behold, the youngest is this day with our father, and one is not.
@@ -1281,10 +1281,10 @@ GENESIS
 42:27: And as one of them opened his sack to give his ass provender in the inn, he espied his money; for, behold, it was in his sack's mouth.
 42:28: And he said unto his brethren, My money is restored; and, lo, it is even in my sack: and their heart failed them, and they were afraid, saying one to another, What is this that God hath done unto us?
 42:29: And they came unto Jacob their father unto the land of Canaan, and told him all that befell unto them; saying,
-42:30: The man, who is the lord of the land, spake roughly to us, and took us for spies of the country. 
+42:30: The man, who is the lord of the land, spake roughly to us, and took us for spies of the country.
 42:31: And we said unto him, We are true men; we are no spies:
-42:32: We be twelve brethren, sons of our father; one is not, and the youngest is this day with our father in the land of Canaan. 
-42:33: And the man, the lord of the country, said unto us, Hereby shall I know that ye are true men; leave one of your brethren here with me, and take food for the famine of your households, and be gone: 
+42:32: We be twelve brethren, sons of our father; one is not, and the youngest is this day with our father in the land of Canaan.
+42:33: And the man, the lord of the country, said unto us, Hereby shall I know that ye are true men; leave one of your brethren here with me, and take food for the famine of your households, and be gone:
 42:34: And bring your youngest brother unto me: then shall I know that ye are no spies, but that ye are true men: so will I deliver you your brother, and ye shall traffick in the land.
 42:35: And it came to pass as they emptied their sacks, that, behold, every man's bundle of money was in his sack: and when both they and their father saw the bundles of money, they were afraid.
 42:36: And Jacob their father said unto them, Me have ye bereaved of my children: Joseph is not, and Simeon is not, and ye will take Benjamin away: all these things are against me.
@@ -1303,10 +1303,10 @@ GENESIS
 43:11: And their father Israel said unto them, If it must be so now, do this; take of the best fruits in the land in your vessels, and carry down the man a present, a little balm, and a little honey, spices, and myrrh, nuts, and almonds:
 43:12: And take double money in your hand; and the money that was brought again in the mouth of your sacks, carry it again in your hand; peradventure it was an oversight:
 43:13: Take also your brother, and arise, go again unto the man:
-43:14: And God Almighty give you mercy before the man, that he may send away your other brother, and Benjamin. If I be bereaved of my children, I am bereaved. 
+43:14: And God Almighty give you mercy before the man, that he may send away your other brother, and Benjamin. If I be bereaved of my children, I am bereaved.
 43:15: And the men took that present, and they took double money in their hand, and Benjamin; and rose up, and went down to Egypt, and stood before Joseph.
-43:16: And when Joseph saw Benjamin with them, he said to the ruler of his house, Bring these men home, and slay, and make ready; for these men shall dine with me at noon. 
-43:17: And the man did as Joseph bade; and the man brought the men into Joseph's house. 
+43:16: And when Joseph saw Benjamin with them, he said to the ruler of his house, Bring these men home, and slay, and make ready; for these men shall dine with me at noon.
+43:17: And the man did as Joseph bade; and the man brought the men into Joseph's house.
 43:18: And the men were afraid, because they were brought into Joseph's house; and they said, Because of the money that was returned in our sacks at the first time are we brought in; that he may seek occasion against us, and fall upon us, and take us for bondmen, and our asses.
 43:19: And they came near to the steward of Joseph's house, and they communed with him at the door of the house,
 43:20: And said, O sir, we came indeed down at the first time to buy food:
@@ -1320,10 +1320,10 @@ GENESIS
 43:28: And they answered, Thy servant our father is in good health, he is yet alive. And they bowed down their heads, and made obeisance.
 43:29: And he lifted up his eyes, and saw his brother Benjamin, his mother's son, and said, Is this your younger brother, of whom ye spake unto me? And he said, God be gracious unto thee, my son.
 43:30: And Joseph made haste; for his bowels did yearn upon his brother: and he sought where to weep; and he entered into his chamber, and wept there.
-43:31: And he washed his face, and went out, and refrained himself, and said, Set on bread. 
+43:31: And he washed his face, and went out, and refrained himself, and said, Set on bread.
 43:32: And they set on for him by himself, and for them by themselves, and for the Egyptians, which did eat with him, by themselves: because the Egyptians might not eat bread with the Hebrews; for that is an abomination unto the Egyptians.
-43:33: And they sat before him, the firstborn according to his birthright, and the youngest according to his youth: and the men marvelled one at another. 
-43:34: And he took and sent messes unto them from before him: but Benjamin's mess was five times so much as any of theirs. And they drank, and were merry with him. 
+43:33: And they sat before him, the firstborn according to his birthright, and the youngest according to his youth: and the men marvelled one at another.
+43:34: And he took and sent messes unto them from before him: but Benjamin's mess was five times so much as any of theirs. And they drank, and were merry with him.
 44:1: And he commanded the steward of his house, saying, Fill the men's sacks with food, as much as they can carry, and put every man's money in his sack's mouth.
 44:2: And put my cup, the silver cup, in the sack's mouth of the youngest, and his corn money. And he did according to the word that Joseph had spoken.
 44:3: As soon as the morning was light, the men were sent away, they and their asses.
@@ -1342,10 +1342,10 @@ GENESIS
 44:16: And Judah said, What shall we say unto my lord? what shall we speak? or how shall we clear ourselves? God hath found out the iniquity of thy servants: behold, we are my lord's servants, both we, and he also with whom the cup is found.
 44:17: And he said, God forbid that I should do so: but the man in whose hand the cup is found, he shall be my servant; and as for you, get you up in peace unto your father.
 44:18: Then Judah came near unto him, and said, Oh my lord, let thy servant, I pray thee, speak a word in my lord's ears, and let not thine anger burn against thy servant: for thou art even as Pharaoh.
-44:19: My lord asked his servants, saying, Have ye a father, or a brother? 
+44:19: My lord asked his servants, saying, Have ye a father, or a brother?
 44:20: And we said unto my lord, We have a father, an old man, and a child of his old age, a little one; and his brother is dead, and he alone is left of his mother, and his father loveth him.
-44:21: And thou saidst unto thy servants, Bring him down unto me, that I may set mine eyes upon him. 
-44:22: And we said unto my lord, The lad cannot leave his father: for if he should leave his father, his father would die. 
+44:21: And thou saidst unto thy servants, Bring him down unto me, that I may set mine eyes upon him.
+44:22: And we said unto my lord, The lad cannot leave his father: for if he should leave his father, his father would die.
 44:23: And thou saidst unto thy servants, Except your youngest brother come down with you, ye shall see my face no more.
 44:24: And it came to pass when we came up unto thy servant my father, we told him the words of my lord.
 44:25: And our father said, Go again, and buy us a little food.
@@ -1364,10 +1364,10 @@ GENESIS
 45:4: And Joseph said unto his brethren, Come near to me, I pray you. And they came near. And he said, I am Joseph your brother, whom ye sold into Egypt.
 45:5: Now therefore be not grieved, nor angry with yourselves, that ye sold me hither: for God did send me before you to preserve life.
 45:6: For these two years hath the famine been in the land: and yet there are five years, in the which there shall neither be earing nor harvest.
-45:7: And God sent me before you to preserve you a posterity in the earth, and to save your lives by a great deliverance. 
+45:7: And God sent me before you to preserve you a posterity in the earth, and to save your lives by a great deliverance.
 45:8: So now it was not you that sent me hither, but God: and he hath made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt.
-45:9: Haste ye, and go up to my father, and say unto him, Thus saith thy son Joseph, God hath made me lord of all Egypt: come down unto me, tarry not: 
-45:10: And thou shalt dwell in the land of Goshen, and thou shalt be near unto me, thou, and thy children, and thy children's children, and thy flocks, and thy herds, and all that thou hast: 
+45:9: Haste ye, and go up to my father, and say unto him, Thus saith thy son Joseph, God hath made me lord of all Egypt: come down unto me, tarry not:
+45:10: And thou shalt dwell in the land of Goshen, and thou shalt be near unto me, thou, and thy children, and thy children's children, and thy flocks, and thy herds, and all that thou hast:
 45:11: And there will I nourish thee; for yet there are five years of famine; lest thou, and thy household, and all that thou hast, come to poverty.
 45:12: And, behold, your eyes see, and the eyes of my brother Benjamin, that it is my mouth that speaketh unto you.
 45:13: And ye shall tell my father of all my glory in Egypt, and of all that ye have seen; and ye shall haste and bring down my father hither.
@@ -1386,10 +1386,10 @@ GENESIS
 45:26: And told him, saying, Joseph is yet alive, and he is governor over all the land of Egypt. And Jacob's heart fainted, for he believed them not.
 45:27: And they told him all the words of Joseph, which he had said unto them: and when he saw the wagons which Joseph had sent to carry him, the spirit of Jacob their father revived:
 45:28: And Israel said, It is enough; Joseph my son is yet alive: I will go and see him before I die.
-46:1: And Israel took his journey with all that he had, and came to Beer-sheba, and offered sacrifices unto the God of his father Isaac. 
+46:1: And Israel took his journey with all that he had, and came to Beer-sheba, and offered sacrifices unto the God of his father Isaac.
 46:2: And God spake unto Israel in the visions of the night, and said, Jacob, Jacob. And he said, Here am I.
-46:3: And he said, I am God, the God of thy father: fear not to go down into Egypt; for I will there make of thee a great nation: 
-46:4: I will go down with thee into Egypt; and I will also surely bring thee up again: and Joseph shall put his hand upon thine eyes. 
+46:3: And he said, I am God, the God of thy father: fear not to go down into Egypt; for I will there make of thee a great nation:
+46:4: I will go down with thee into Egypt; and I will also surely bring thee up again: and Joseph shall put his hand upon thine eyes.
 46:5: And Jacob rose up from Beer-sheba: and the sons of Israel carried Jacob their father, and their little ones, and their wives, in the wagons which Pharaoh had sent to carry him.
 46:6: And they took their cattle, and their goods, which they had gotten in the land of Canaan, and came into Egypt, Jacob, and all his seed with him:
 46:7: His sons, and his sons' sons with him, his daughters, and his sons' daughters, and all his seed brought he with him into Egypt.
@@ -1405,10 +1405,10 @@ GENESIS
 46:17: And the sons of Asher; Jimnah, and Ishuah, and Isui, and Beriah, and Serah their sister: and the sons of Beriah; Heber, and Malchiel.
 46:18: These are the sons of Zilpah, whom Laban gave to Leah his daughter, and these she bare unto Jacob, even sixteen souls.
 46:19: The sons of Rachel Jacob's wife; Joseph, and Benjamin.
-46:20: And unto Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Poti-pherah priest of On bare unto him. 
+46:20: And unto Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Poti-pherah priest of On bare unto him.
 46:21: And the sons of Benjamin were Belah, and Becher, and Ashbel, Gera, and Naaman, Ehi, and Rosh, Muppim, and Huppim, and Ard.
-46:22: These are the sons of Rachel, which were born to Jacob: all the souls were fourteen. 
-46:23: And the sons of Dan; Hushim. 
+46:22: These are the sons of Rachel, which were born to Jacob: all the souls were fourteen.
+46:23: And the sons of Dan; Hushim.
 46:24: And the sons of Naphtali; Jahzeel, and Guni, and Jezer, and Shillem.
 46:25: These are the sons of Bilhah, which Laban gave unto Rachel his daughter, and she bare these unto Jacob: all the souls were seven.
 46:26: All the souls that came with Jacob into Egypt, which came out of his loins, besides Jacob's sons' wives, all the souls were threescore and six;
@@ -1427,10 +1427,10 @@ GENESIS
 47:5: And Pharaoh spake unto Joseph, saying, Thy father and thy brethren are come unto thee:
 47:6: The land of Egypt is before thee; in the best of the land make thy father and brethren to dwell; in the land of Goshen let them dwell: and if thou knowest any men of activity among them, then make them rulers over my cattle.
 47:7: And Joseph brought in Jacob his father, and set him before Pharaoh: and Jacob blessed Pharaoh.
-47:8: And Pharaoh said unto Jacob, How old art thou? 
+47:8: And Pharaoh said unto Jacob, How old art thou?
 47:9: And Jacob said unto Pharaoh, The days of the years of my pilgrimage are an hundred and thirty years: few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage.
-47:10: And Jacob blessed Pharaoh, and went out from before Pharaoh. 
-47:11: And Joseph placed his father and his brethren, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded. 
+47:10: And Jacob blessed Pharaoh, and went out from before Pharaoh.
+47:11: And Joseph placed his father and his brethren, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.
 47:12: And Joseph nourished his father, and his brethren, and all his father's household, with bread, according to their families.
 47:13: And there was no bread in all the land; for the famine was very sore, so that the land of Egypt and all the land of Canaan fainted by reason of the famine.
 47:14: And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the corn which they bought: and Joseph brought the money into Pharaoh's house.
@@ -1450,9 +1450,9 @@ GENESIS
 47:28: And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years.
 47:29: And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, If now I have found grace in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me; bury me not, I pray thee, in Egypt:
 47:30: But I will lie with my fathers, and thou shalt carry me out of Egypt, and bury me in their buryingplace. And he said, I will do as thou hast said.
-47:31: And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed's head. 
-48:1: And it came to pass after these things, that one told Joseph, Behold, thy father is sick: and he took with him his two sons, Manasseh and Ephraim. 
-48:2: And one told Jacob, and said, Behold, thy son Joseph cometh unto thee: and Israel strengthened himself, and sat upon the bed. 
+47:31: And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed's head.
+48:1: And it came to pass after these things, that one told Joseph, Behold, thy father is sick: and he took with him his two sons, Manasseh and Ephraim.
+48:2: And one told Jacob, and said, Behold, thy son Joseph cometh unto thee: and Israel strengthened himself, and sat upon the bed.
 48:3: And Jacob said unto Joseph, God Almighty appeared unto me at Luz in the land of Canaan, and blessed me,
 48:4: And said unto me, Behold, I will make thee fruitful, and multiply thee, and I will make of thee a multitude of people; and will give this land to thy seed after thee for an everlasting possession.
 48:5: And now thy two sons, Ephraim and Manasseh, which were born unto thee in the land of Egypt before I came unto thee into Egypt, are mine; as Reuben and Simeon, they shall be mine.
@@ -1472,15 +1472,15 @@ GENESIS
 48:19: And his father refused, and said, I know it, my son, I know it: he also shall become a people, and he also shall be great: but truly his younger brother shall be greater than he, and his seed shall become a multitude of nations.
 48:20: And he blessed them that day, saying, In thee shall Israel bless, saying, God make thee as Ephraim and as Manasseh: and he set Ephraim before Manasseh.
 48:21: And Israel said unto Joseph, Behold, I die: but God shall be with you, and bring you again unto the land of your fathers.
-48:22: Moreover I have given to thee one portion above thy brethren, which I took out of the hand of the Amorite with my sword and with my bow. 
+48:22: Moreover I have given to thee one portion above thy brethren, which I took out of the hand of the Amorite with my sword and with my bow.
 49:1: And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days.
 49:2: Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel your father.
 49:3: Reuben, thou art my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:
 49:4: Unstable as water, thou shalt not excel; because thou wentest up to thy father's bed; then defiledst thou it: he went up to my couch.
-49:5: Simeon and Levi are brethren; instruments of cruelty are in their habitations. 
+49:5: Simeon and Levi are brethren; instruments of cruelty are in their habitations.
 49:6: O my soul, come not thou into their secret; unto their assembly, mine honour, be not thou united: for in their anger they slew a man, and in their selfwill they digged down a wall.
-49:7: Cursed be their anger, for it was fierce; and their wrath, for it was cruel: I will divide them in Jacob, and scatter them in Israel. 
-49:8: Judah, thou art he whom thy brethren shall praise: thy hand shall be in the neck of thine enemies; thy father's children shall bow down before thee. 
+49:7: Cursed be their anger, for it was fierce; and their wrath, for it was cruel: I will divide them in Jacob, and scatter them in Israel.
+49:8: Judah, thou art he whom thy brethren shall praise: thy hand shall be in the neck of thine enemies; thy father's children shall bow down before thee.
 49:9: Judah is a lion's whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up?
 49:10: The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be.
 49:11: Binding his foal unto the vine, and his ass's colt unto the choice vine; he washed his garments in wine, and his clothes in the blood of grapes:
@@ -1500,10 +1500,10 @@ GENESIS
 49:25: Even by the God of thy father, who shall help thee; and by the Almighty, who shall bless thee with blessings of heaven above, blessings of the deep that lieth under, blessings of the breasts, and of the womb:
 49:26: The blessings of thy father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph, and on the crown of the head of him that was separate from his brethren.
 49:27: Benjamin shall ravin as a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil.
-49:28: All these are the twelve tribes of Israel: and this is it that their father spake unto them, and blessed them; every one according to his blessing he blessed them. 
+49:28: All these are the twelve tribes of Israel: and this is it that their father spake unto them, and blessed them; every one according to his blessing he blessed them.
 49:29: And he charged them, and said unto them, I am to be gathered unto my people: bury me with my fathers in the cave that is in the field of Ephron the Hittite,
-49:30: In the cave that is in the field of Machpelah, which is before Mamre, in the land of Canaan, which Abraham bought with the field of Ephron the Hittite for a possession of a buryingplace. 
-49:31: There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah. 
+49:30: In the cave that is in the field of Machpelah, which is before Mamre, in the land of Canaan, which Abraham bought with the field of Ephron the Hittite for a possession of a buryingplace.
+49:31: There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah.
 49:32: The purchase of the field and of the cave that is therein was from the children of Heth.
 49:33: And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people.
 50:1: And Joseph fell upon his father's face, and wept upon him, and kissed him.
@@ -1522,14 +1522,13 @@ GENESIS
 50:14: And Joseph returned into Egypt, he, and his brethren, and all that went up with him to bury his father, after he had buried his father.
 50:15: And when Joseph's brethren saw that their father was dead, they said, Joseph will peradventure hate us, and will certainly requite us all the evil which we did unto him.
 50:16: And they sent a messenger unto Joseph, saying, Thy father did command before he died, saying,
-50:17: So shall ye say unto Joseph, Forgive, I pray thee now, the trespass of thy brethren, and their sin; for they did unto thee evil: and now, we pray thee, forgive the trespass of the servants of the God of thy father. And Joseph wept when they spake unto him. 
+50:17: So shall ye say unto Joseph, Forgive, I pray thee now, the trespass of thy brethren, and their sin; for they did unto thee evil: and now, we pray thee, forgive the trespass of the servants of the God of thy father. And Joseph wept when they spake unto him.
 50:18: And his brethren also went and fell down before his face; and they said, Behold, we be thy servants.
-50:19: And Joseph said unto them, Fear not: for am I in the place of God? 
-50:20: But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive. 
+50:19: And Joseph said unto them, Fear not: for am I in the place of God?
+50:20: But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive.
 50:21: Now therefore fear ye not: I will nourish you, and your little ones. And he comforted them, and spake kindly unto them.
 50:22: And Joseph dwelt in Egypt, he, and his father's house: and Joseph lived an hundred and ten years.
 50:23: And Joseph saw Ephraim's children of the third generation: the children also of Machir the son Manasseh were brought up upon Joseph's knees.
 50:24: And Joseph said unto his brethren, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob.
 50:25: And Joseph took an oath of the children of Israel, saying, God will surely visit you, and ye shall carry up my bones from hence.
 50:26: So Joseph died, being an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt.
-

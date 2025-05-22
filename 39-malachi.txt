@@ -17,10 +17,10 @@ MALACHI
 2:2: If ye will not hear, and if ye will not lay it to heart, to give glory unto my name, saith the LORD of hosts, I will even send a curse upon you, and I will curse your blessings: yea, I have cursed them already, because ye do not lay it to heart.
 2:3: Behold, I will corrupt your seed, and spread dung upon your faces, even the dung of your solemn feasts; and one shall take you away with it.
 2:4: And ye shall know that I have sent this commandment unto you, that my covenant might be with Levi, saith the LORD of hosts.
-2:5: My covenant was with him of life and peace; and I gave them to him for the fear wherewith he feared me, and was afraid before my name. 
+2:5: My covenant was with him of life and peace; and I gave them to him for the fear wherewith he feared me, and was afraid before my name.
 2:6: The law of truth was in his mouth, and iniquity was not found in his lips: he walked with me in peace and equity, and did turn many away from iniquity.
-2:7: For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the LORD of hosts. 
-2:8: But ye are departed out of the way; ye have caused many to stumble at the law; ye have corrupted the covenant of Levi, saith the LORD of hosts. 
+2:7: For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the LORD of hosts.
+2:8: But ye are departed out of the way; ye have caused many to stumble at the law; ye have corrupted the covenant of Levi, saith the LORD of hosts.
 2:9: Therefore have I also made you contemptible and base before all the people, according as ye have not kept my ways, but have been partial in the law.
 2:10: Have we not all one father? hath not one God created us? why do we deal treacherously every man against his brother, by profaning the covenant of our fathers?
 2:11: Judah hath dealt treacherously, and an abomination is committed in Israel and in Jerusalem; for Judah hath profaned the holiness of the LORD which he loved, and hath married the daughter of a strange god.
@@ -39,10 +39,10 @@ MALACHI
 3:7: Even from the days of your fathers ye are gone away from mine ordinances, and have not kept them. Return unto me, and I will return unto you, saith the LORD of hosts. But ye said, Wherein shall we return?
 3:8: Will a man rob God? Yet ye have robbed me. But ye say, Wherein have we robbed thee? In tithes and offerings.
 3:9: Ye are cursed with a curse: for ye have robbed me, even this whole nation.
-3:10: Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it. 
+3:10: Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.
 3:11: And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field, saith the LORD of hosts.
-3:12: And all nations shall call you blessed: for ye shall be a delightsome land, saith the LORD of hosts. 
-3:13: Your words have been stout against me, saith the LORD. Yet ye say, What have we spoken so much against thee? 
+3:12: And all nations shall call you blessed: for ye shall be a delightsome land, saith the LORD of hosts.
+3:13: Your words have been stout against me, saith the LORD. Yet ye say, What have we spoken so much against thee?
 3:14: Ye have said, It is vain to serve God: and what profit is it that we have kept his ordinance, and that we have walked mournfully before the LORD of hosts?
 3:15: And now we call the proud happy; yea, they that work wickedness are set up; yea, they that tempt God are even delivered.
 3:16: Then they that feared the LORD spake often one to another: and the LORD hearkened, and heard it, and a book of remembrance was written before him for them that feared the LORD, and that thought upon his name.
@@ -54,5 +54,3 @@ MALACHI
 4:4: Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments.
 4:5: Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD:
 4:6: And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.
-
-
